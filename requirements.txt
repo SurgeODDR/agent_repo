@@ -1,7 +1,6 @@
 requests
 python-dotenv
 anthropic
-perplexity-python
 selenium
 beautifulsoup4
 httpx
