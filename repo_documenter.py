@@ -1,8 +1,12 @@
 import os
+import sys
 from pathlib import Path
 from typing import Dict, List, Optional
 import json
-from src.tools.jina_reader import JinaReader
+
+# Add src directory to Python path
+sys.path.append(str(Path(__file__).parent.parent / "src"))
+from tools.jina_reader import JinaReader
 
 class RepoDocumenter:
     """Class to document a repository's structure and contents using Jina Reader."""
