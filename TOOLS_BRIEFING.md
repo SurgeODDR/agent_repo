@@ -2,133 +2,99 @@
 
 ## Execution Environment
 
-### 1. Local Docker Container
-The agent operates within a dedicated Docker container that provides:
-- Isolated execution environment
-- Pre-configured development tools and dependencies
-- Access to necessary system resources
-- Consistent environment across different host systems
-
-### 2. Repository Access
-The agent has direct access to the repository through a mounted volume:
+### 1. Local Environment Access
+The agent has access to:
 - **Workspace Path**: `/Users/olivierdebeufderijcker/Documents/GitHub/agent_repo`
-- **File System Access**: Read and write capabilities to the repository
-- **Version Control**: Can interact with git operations
-- **File Operations**: Can create, modify, and delete files
-
-### 3. System Integration
-The agent is integrated with:
-- **Shell Access**: Uses `/bin/zsh` as the default shell
-- **OS Environment**: Runs on darwin 23.5.0 (macOS)
-- **Development Tools**: Access to standard development utilities
-- **Network Access**: Controlled access for API calls and dependencies
-
-### 4. Security Considerations
-The agent operates with:
-- Isolated container environment
-- Limited system access
-- Controlled network permissions
-- Secure handling of sensitive data (API keys, credentials)
+- **Shell**: Uses `/bin/zsh` as the default shell
+- **OS**: Runs on darwin 23.5.0 (macOS)
 
 ## Available Tools Overview
 
-### 1. PDF Processing Capabilities
-The agent has access to a robust PDF processing system through the `PDFProcessor` class that leverages Claude 3.5 Sonnet's native PDF support.
+### 1. File System Operations
+The agent can perform various file system operations:
 
-#### Key Features:
-- **Size Handling**: Supports PDFs up to 32MB
-- **Page Limits**: Can process up to 100 pages per request
-- **Format Support**: Handles standard PDFs (no passwords/encryption)
-- **Content Analysis**: Can analyze both text and visual elements (charts, diagrams, tables)
+#### File Reading and Search:
+- **Semantic Code Search**: Find relevant code snippets using semantic search
+- **File Content Reading**: Read file contents with line number precision
+- **Directory Listing**: Explore directory contents and structure
+- **Fuzzy File Search**: Find files using fuzzy matching against file paths
+- **Pattern Search**: Fast text-based regex search using ripgrep
 
-#### Processing Methods:
-- **Single PDF Analysis**: Process individual PDFs with customizable prompts
-- **Batch Processing**: Handle multiple PDFs simultaneously
-- **Caching Support**: Optimize performance with 1-hour TTL caching
+#### File Modifications:
+- **File Editing**: Make precise edits to existing files
+- **File Creation**: Create new files with specified content
+- **File Deletion**: Remove files from the workspace
+- **Parallel Editing**: Apply similar edits across multiple files
 
-### 2. Performance Optimizations
-The implementation includes several performance-focused features:
+### 2. Command Execution
+The agent can:
+- **Run Commands**: Execute terminal commands with user approval
+- **Background Tasks**: Run long-running commands in the background
+- **Command Safety**: All commands require explicit user approval unless marked as safe
 
-- **Smart Content Ordering**: PDFs are placed before text in requests for optimal processing
-- **Validation Checks**: Pre-processing validation of PDF size and format
-- **Error Handling**: Comprehensive error catching and reporting
-- **Caching Strategy**: Ephemeral caching with configurable TTL
+### 3. Code Analysis and Modification
+The agent provides:
+- **Code Understanding**: Semantic search to find relevant code
+- **Code Editing**: Make precise, contextual code changes
+- **Batch Operations**: Apply similar edits across multiple files
+- **Error Recovery**: Smart reapplication of edits if needed
 
-## Implications and Use Cases
+## Tool Details
 
-### 1. Document Analysis
-The agent can now:
-- Extract and analyze text from PDFs
-- Interpret charts and visual data
-- Process financial reports and legal documents
-- Perform document translation
-- Convert unstructured PDF data into structured formats
+### 1. Search and Navigation
+- **Semantic Search**: Find code based on meaning rather than exact matches
+- **Grep Search**: Find exact text or regex patterns (max 50 matches)
+- **File Search**: Fuzzy file path matching (max 10 results)
+- **Directory Listing**: Explore codebase structure
 
-### 2. Batch Operations
-Capabilities for high-volume workflows:
-- Process multiple documents in parallel
-- Maintain consistent analysis across documents
-- Handle large document sets efficiently
-- Cache results for repeated analyses
+### 2. File Operations
+- **Read Files**: View file contents with line precision (max 250 lines per view)
+- **Edit Files**: Make precise code changes with context
+- **Delete Files**: Remove files with safety checks
+- **Parallel Edits**: Apply similar changes across multiple files (max 50 files)
 
-### 3. Error Handling and Reliability
-The system provides:
-- Graceful handling of oversized documents
-- Clear error reporting for API issues
-- Fallback mechanisms for failed requests
-- Validation of input documents
-
-### 4. Performance Considerations
-Important factors to consider:
-- Token usage varies by page density (1,500-3,000 tokens per page)
-- Image processing costs apply per page
-- Caching can significantly reduce costs for repeated analyses
-- Batch processing optimizes API usage
+### 3. Command Execution
+- **Command Running**: Execute shell commands with approval
+- **Background Processing**: Long-running task support
+- **Safety Controls**: User approval required for most commands
 
 ## Best Practices
 
-1. **Document Preparation**
-   - Ensure PDFs are under size limits
-   - Use standard fonts
-   - Maintain clear text legibility
-   - Properly orient pages
+1. **File Operations**
+   - Provide sufficient context when reading files
+   - Use semantic search for understanding code
+   - Utilize parallel edits for consistent changes
+   - Verify file contents before modifications
 
-2. **Processing Optimization**
-   - Enable caching for repeated analyses
-   - Use batch processing for multiple documents
-   - Split large PDFs when needed
-   - Monitor token usage
+2. **Command Execution**
+   - Always explain command purpose
+   - Use background processing for long tasks
+   - Append `| cat` for pager commands
+   - Respect user approval requirements
 
-3. **Error Management**
-   - Implement proper error handling
-   - Monitor API responses
-   - Handle timeouts appropriately
-   - Validate input documents
+3. **Search Operations**
+   - Use semantic search for concept finding
+   - Use grep for exact pattern matching
+   - Combine search tools for better results
+   - Target specific directories when possible
 
 ## Limitations
 
 1. **Technical Constraints**
-   - 32MB maximum file size
-   - 100 pages per request limit
-   - Standard PDF format requirement
-   - No support for encrypted PDFs
+   - 250 lines maximum per file read
+   - 50 matches maximum for grep search
+   - 10 results maximum for file search
+   - 50 files maximum for parallel edits
 
-2. **Processing Considerations**
-   - Token costs vary by content density
-   - Image processing adds to costs
-   - API rate limits may apply
-   - Cache duration limited to 1 hour
+2. **Safety Considerations**
+   - Most commands require user approval
+   - File deletions have safety checks
+   - Limited to workspace directory
+   - No direct system file access
 
-## Future Considerations
-
-1. **Potential Enhancements**
-   - Support for additional document formats
-   - Extended caching options
-   - Advanced batch processing features
-   - Enhanced error reporting
-
-2. **Integration Opportunities**
-   - Workflow automation systems
-   - Document management systems
-   - Analytics platforms
-   - Reporting tools 
+## Security Considerations
+The agent operates with:
+- Controlled file system access
+- Command execution safeguards
+- User approval requirements
+- Workspace isolation
