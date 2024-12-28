@@ -1,4 +1,5 @@
 import os
+import base64
 from pathlib import Path
 from typing import Dict, List, Optional
 import json
@@ -52,12 +53,21 @@ class RepoDocumenter:
                 return "Empty file"
             
             # Use Jina Reader to generate a summary
-            prompt = f"Please provide a concise summary of this code file:\n\n{content}"
             try:
-                # JinaReader can directly process text content
-                response = self.jina_reader.scrape_url(JINA_READER_ENDPOINT + prompt)
+                # Create a proper prompt for code analysis
+                prompt = f"Analyze this code file and provide a concise summary:\n\n{content}"
+                
+                # JinaReader expects a URL, so we'll encode the prompt as a data URL
+                encoded_prompt = f"data:text/plain;base64,{content.encode('utf-8').b64encode()}"
+                
+                # Get the response from JinaReader
+                response = self.jina_reader.scrape_url(encoded_prompt)
+                
+                # Process and clean the response
                 if response:
-                    return response
+                    # Remove any HTML tags or unwanted formatting
+                    clean_response = response.replace('<br>', '\n').strip()
+                    return clean_response
                 return "Unable to generate summary"
             except Exception as e:
                 return f"Error generating summary: {str(e)}"
