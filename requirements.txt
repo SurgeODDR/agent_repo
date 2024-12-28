@@ -10,4 +10,5 @@ numpy
 pytest
 black
 isort
-mypy 
+mypy
+urllib3

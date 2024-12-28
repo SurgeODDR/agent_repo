@@ -1,11 +1,11 @@
 import os
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Optional
 import json
-from deepseek_chat import DeepSeekChat  # Assuming deepseek-chat is installed
+from src.tools.jina_reader import JinaReader
 
 class RepoDocumenter:
-    """Class to document a repository's structure and contents."""
+    """Class to document a repository's structure and contents using Jina Reader."""
     
     DEFAULT_EXCLUDE_DIRS = {
         "venv", "__pycache__", "node_modules", ".git", ".idea", ".vscode",
@@ -14,7 +14,7 @@ class RepoDocumenter:
     
     def __init__(self, repo_path: str):
         self.repo_path = Path(repo_path)
-        self.deepseek = DeepSeekChat()
+        self.jina_reader = JinaReader()
         if not self.repo_path.exists():
             raise ValueError(f"Directory {repo_path} does not exist")
     
@@ -48,10 +48,12 @@ class RepoDocumenter:
             if not content.strip():
                 return "Empty file"
             
-            # Use DeepSeek Chat to generate a summary
+            # Use Jina Reader to generate a summary
             prompt = f"Please provide a concise summary of this code file:\n\n{content}"
-            response = self.deepseek.chat(prompt)
-            return response.choices[0].message.content
+            response = self.jina_reader.scrape_url(f"https://api.deepseek.com/v3/analyze?text={prompt}")
+            if response:
+                return response
+            return "Unable to generate summary"
         except Exception as e:
             return f"Error reading file: {str(e)}"
     

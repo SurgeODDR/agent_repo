@@ -11,6 +11,7 @@ JINA_API_KEY = os.getenv("JINA_API_KEY", "jina_a429158666cb45578acd3b0cf0847fe7n
 
 # API Endpoints
 JINA_READER_ENDPOINT = "https://r.jina.ai/"
+DEEPSEEK_API_ENDPOINT = "https://api.deepseek.com/v3"
 
 # Validation
 if not all([PERPLEXITY_API_KEY, ANTHROPIC_API_KEY, JINA_API_KEY]):
