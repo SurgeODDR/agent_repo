@@ -5,6 +5,7 @@ import json
 
 # Import from src.tools instead of tools
 from src.tools.jina_reader import JinaReader
+from src.config import JINA_READER_ENDPOINT
 
 class RepoDocumenter:
     """Class to document a repository's structure and contents using Jina Reader."""
@@ -52,10 +53,14 @@ class RepoDocumenter:
             
             # Use Jina Reader to generate a summary
             prompt = f"Please provide a concise summary of this code file:\n\n{content}"
-            response = self.jina_reader.scrape_url(f"https://api.deepseek.com/v3/analyze?text={prompt}")
-            if response:
-                return response
-            return "Unable to generate summary"
+            try:
+                # JinaReader can directly process text content
+                response = self.jina_reader.scrape_url(JINA_READER_ENDPOINT + prompt)
+                if response:
+                    return response
+                return "Unable to generate summary"
+            except Exception as e:
+                return f"Error generating summary: {str(e)}"
         except Exception as e:
             return f"Error reading file: {str(e)}"
     
