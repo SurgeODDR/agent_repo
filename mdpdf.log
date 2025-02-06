@@ -1,0 +1,1653 @@
+    INFO: 2025-01-22 19:36:07,572:               log.py:   20: Logging to /Users/olivierdebeufderijcker/Documents/GitHub/agent_repo/mdpdf.log
+   DEBUG: 2025-01-22 19:36:07,572:               cli.py:  103: /Users/olivierdebeufderijcker/Documents/GitHub/agent_repo/markdown_docs/markov_SHA.md
+    INFO: 2025-01-22 19:36:07,576:         converter.py:   14: /Users/olivierdebeufderijcker/Documents/GitHub/agent_repo/markdown_docs/markov_SHA.md
+   DEBUG: 2025-01-22 19:36:07,592:      pdf_renderer.py:  470: printSegment: SHAREHOLDERS
+   DEBUG: 2025-01-22 19:36:07,596:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:07,598:      pdf_renderer.py:  470: printSegment:  AGREEMENT
+   DEBUG: 2025-01-22 19:36:07,599:      pdf_renderer.py:  470: printSegment: dated
+   DEBUG: 2025-01-22 19:36:07,600:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:07,601:      pdf_renderer.py:  470: printSegment: January 12, 2025
+   DEBUG: 2025-01-22 19:36:07,602:      pdf_renderer.py:  470: printSegment: by
+   DEBUG: 2025-01-22 19:36:07,603:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:07,603:      pdf_renderer.py:  470: printSegment: MR. OLIVIER DEBEUF DE RIJCKER
+   DEBUG: 2025-01-22 19:36:07,604:      pdf_renderer.py:  470: printSegment: MR. FELIX VAN BERGEN
+   DEBUG: 2025-01-22 19:36:07,604:      pdf_renderer.py:  470: printSegment: MR. RASMUS FOSGAARD
+   DEBUG: 2025-01-22 19:36:07,605:      pdf_renderer.py:  470: printSegment: MR. OLIVER FEICHTINGER
+   DEBUG: 2025-01-22 19:36:07,605:      pdf_renderer.py:  470: printSegment: MR. JUSTIN PYSSON
+   DEBUG: 2025-01-22 19:36:07,605:      pdf_renderer.py:  470: printSegment: MR. LÉON MORALIS
+   DEBUG: 2025-01-22 19:36:07,606:      pdf_renderer.py:  470: printSegment: MR. LOUIS DE GEEST
+   DEBUG: 2025-01-22 19:36:07,606:      pdf_renderer.py:  470: printSegment: and
+   DEBUG: 2025-01-22 19:36:07,606:      pdf_renderer.py:  470: printSegment: MARKOV BV
+   DEBUG: 2025-01-22 19:36:07,607:      pdf_renderer.py:  470: printSegment: CONTENTS
+   DEBUG: 2025-01-22 19:36:07,607:      pdf_renderer.py:  470: printSegment: | Article                                                          | Page |
+   DEBUG: 2025-01-22 19:36:07,608:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-01-22 19:36:07,608:      pdf_renderer.py:  470: printSegment: |------------------------------------------------------------------|------|
+   DEBUG: 2025-01-22 19:36:07,609:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-01-22 19:36:07,613:      pdf_renderer.py:  470: printSegment: |
+   DEBUG: 2025-01-22 19:36:07,614:      pdf_renderer.py:  470: printSegment: 1. Definitions and interpretation                                | 1    |
+   DEBUG: 2025-01-22 19:36:07,614:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-01-22 19:36:07,616:      pdf_renderer.py:  470: printSegment: | 2. Shares and securities of the Company                          |
+   DEBUG: 2025-01-22 19:36:07,616:      pdf_renderer.py:  470: printSegment: 5    |
+   DEBUG: 2025-01-22 19:36:07,616:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-01-22 19:36:07,617:      pdf_renderer.py:  470: printSegment: | 3. Provisions relating to the directors of the Company           | 6    |
+   DEBUG: 2025-01-22 19:36:07,617:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-01-22 19:36:07,618:      pdf_renderer.py:  470: printSegment: | 4. Provisions relating to the General
+   DEBUG: 2025-01-22 19:36:07,618:      pdf_renderer.py:  470: printSegment: Shareholders
+   DEBUG: 2025-01-22 19:36:07,618:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:07,619:      pdf_renderer.py:  470: printSegment:  Meeting of the Company | 6    |
+   DEBUG: 2025-01-22 19:36:07,619:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-01-22 19:36:07,620:      pdf_renderer.py:  470: printSegment: | 5. Information and audit rights                                  | 9    |
+   DEBUG: 2025-01-22 19:36:07,620:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-01-22 19:36:07,626:      pdf_renderer.py:  470: printSegment: | 6. Share
+   DEBUG: 2025-01-22 19:36:07,626:      pdf_renderer.py:  470: printSegment: Transfers                                               | 10   |
+   DEBUG: 2025-01-22 19:36:07,627:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-01-22 19:36:07,628:      pdf_renderer.py:  470: printSegment: | 7. Non-compete, non-solicitation, non-disparagement              | 16   |
+   DEBUG: 2025-01-22 19:36:07,628:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-01-22 19:36:07,633:      pdf_renderer.py:  470: printSegment: |
+   DEBUG: 2025-01-22 19:36:07,634:      pdf_renderer.py:  470: printSegment: 8. Term and termination                                          | 18   |
+   DEBUG: 2025-01-22 19:36:07,634:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-01-22 19:36:07,635:      pdf_renderer.py:  470: printSegment: | 9. Articles of Association                                       | 19   |
+   DEBUG: 2025-01-22 19:36:07,635:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-01-22 19:36:07,640:      pdf_renderer.py:  470: printSegment: |
+   DEBUG: 2025-01-22 19:36:07,641:      pdf_renderer.py:  470: printSegment: 10. Confidentiality                                              | 19   |
+   DEBUG: 2025-01-22 19:36:07,642:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2025-01-22 19:36:07,642:      pdf_renderer.py:  470: printSegment: | 11. Miscellaneous                                                | 19   |
+   DEBUG: 2025-01-22 19:36:07,643:      pdf_renderer.py:  470: printSegment: LIST OF SCHEDULES
+   DEBUG: 2025-01-22 19:36:07,643:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:07,644:      pdf_renderer.py:  470: printSegment: Schedule A
+   DEBUG: 2025-01-22 19:36:07,645:      pdf_renderer.py:  470: printSegment:  – Agreement of Adherence
+   DEBUG: 2025-01-22 19:36:07,652:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:07,652:      pdf_renderer.py:  470: printSegment: Schedule B
+   DEBUG: 2025-01-22 19:36:07,653:      pdf_renderer.py:  470: printSegment:  – Contact details for notices
+   DEBUG: 2025-01-22 19:36:07,654:      pdf_renderer.py:  470: printSegment: SHAREHOLDERS
+   DEBUG: 2025-01-22 19:36:07,654:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:07,655:      pdf_renderer.py:  470: printSegment:  AGREEMENT
+   DEBUG: 2025-01-22 19:36:07,655:      pdf_renderer.py:  470: printSegment: This shareholders
+   DEBUG: 2025-01-22 19:36:07,656:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:07,656:      pdf_renderer.py:  470: printSegment:  agreement (the 
+   DEBUG: 2025-01-22 19:36:07,656:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,657:      pdf_renderer.py:  470: printSegment: Agreement
+   DEBUG: 2025-01-22 19:36:07,657:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,658:      pdf_renderer.py:  470: printSegment: ) is entered into on January 12, 2025 (the 
+   DEBUG: 2025-01-22 19:36:07,658:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,659:      pdf_renderer.py:  470: printSegment: Date of this Agreement
+   DEBUG: 2025-01-22 19:36:07,659:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,659:      pdf_renderer.py:  470: printSegment: ),
+   DEBUG: 2025-01-22 19:36:07,660:      pdf_renderer.py:  470: printSegment: BY AND BETWEEN:
+   DEBUG: 2025-01-22 19:36:07,660:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:07,661:      pdf_renderer.py:  470: printSegment: Mr. Olivier Debeuf De Rijcker
+   DEBUG: 2025-01-22 19:36:07,662:      pdf_renderer.py:  470: printSegment: , a Belgian citizen, residing at Vorstermanstraat 9, 2000 Antwerpen,
+   DEBUG: 2025-01-22 19:36:07,662:      pdf_renderer.py:  470: printSegment: Belgium;
+   DEBUG: 2025-01-22 19:36:07,662:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:07,663:      pdf_renderer.py:  470: printSegment: Mr. Felix Van Bergen
+   DEBUG: 2025-01-22 19:36:07,663:      pdf_renderer.py:  470: printSegment: , a Danish citizen, residing at 
+   DEBUG: 2025-01-22 19:36:07,664:      pdf_renderer.py:  470: printSegment: _______________
+   DEBUG: 2025-01-22 19:36:07,665:      pdf_renderer.py:  470: printSegment: , Denmark;
+   DEBUG: 2025-01-22 19:36:07,665:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:07,666:      pdf_renderer.py:  470: printSegment: Mr. Rasmus Fosgaard
+   DEBUG: 2025-01-22 19:36:07,666:      pdf_renderer.py:  470: printSegment: , a Danish citizen, residing at 
+   DEBUG: 2025-01-22 19:36:07,667:      pdf_renderer.py:  470: printSegment: _____________
+   DEBUG: 2025-01-22 19:36:07,667:      pdf_renderer.py:  470: printSegment: , Denmark;
+   DEBUG: 2025-01-22 19:36:07,668:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-01-22 19:36:07,668:      pdf_renderer.py:  470: printSegment: Mr. Oliver Feichtinger
+   DEBUG: 2025-01-22 19:36:07,669:      pdf_renderer.py:  470: printSegment: , a German citizen, residing at 
+   DEBUG: 2025-01-22 19:36:07,669:      pdf_renderer.py:  470: printSegment: ________________
+   DEBUG: 2025-01-22 19:36:07,670:      pdf_renderer.py:  470: printSegment: , Germany;
+   DEBUG: 2025-01-22 19:36:07,670:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2025-01-22 19:36:07,671:      pdf_renderer.py:  470: printSegment: Mr. Justin Pysson
+   DEBUG: 2025-01-22 19:36:07,671:      pdf_renderer.py:  470: printSegment: , a 
+   DEBUG: 2025-01-22 19:36:07,672:      pdf_renderer.py:  470: printSegment: _______
+   DEBUG: 2025-01-22 19:36:07,672:      pdf_renderer.py:  470: printSegment:  citizen, residing at 
+   DEBUG: 2025-01-22 19:36:07,673:      pdf_renderer.py:  470: printSegment: ________________
+   DEBUG: 2025-01-22 19:36:07,673:      pdf_renderer.py:  470: printSegment: ;
+   DEBUG: 2025-01-22 19:36:07,674:      pdf_renderer.py:  470: printSegment:  6 
+   DEBUG: 2025-01-22 19:36:07,674:      pdf_renderer.py:  470: printSegment: Mr. Léon Moralis
+   DEBUG: 2025-01-22 19:36:07,675:      pdf_renderer.py:  470: printSegment: , a 
+   DEBUG: 2025-01-22 19:36:07,675:      pdf_renderer.py:  470: printSegment: _______
+   DEBUG: 2025-01-22 19:36:07,676:      pdf_renderer.py:  470: printSegment:  citizen, residing at 
+   DEBUG: 2025-01-22 19:36:07,676:      pdf_renderer.py:  470: printSegment: ________________
+   DEBUG: 2025-01-22 19:36:07,677:      pdf_renderer.py:  470: printSegment: ;
+   DEBUG: 2025-01-22 19:36:07,677:      pdf_renderer.py:  470: printSegment:  7 
+   DEBUG: 2025-01-22 19:36:07,678:      pdf_renderer.py:  470: printSegment: Mr. Louis De Geest
+   DEBUG: 2025-01-22 19:36:07,678:      pdf_renderer.py:  470: printSegment: , a 
+   DEBUG: 2025-01-22 19:36:07,679:      pdf_renderer.py:  470: printSegment: _______
+   DEBUG: 2025-01-22 19:36:07,679:      pdf_renderer.py:  470: printSegment:  citizen, residing at 
+   DEBUG: 2025-01-22 19:36:07,680:      pdf_renderer.py:  470: printSegment: ________________
+   DEBUG: 2025-01-22 19:36:07,680:      pdf_renderer.py:  470: printSegment: ;
+   DEBUG: 2025-01-22 19:36:07,681:      pdf_renderer.py:  470: printSegment: each of them also referred to as a 
+   DEBUG: 2025-01-22 19:36:07,681:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,682:      pdf_renderer.py:  470: printSegment: Shareholder
+   DEBUG: 2025-01-22 19:36:07,682:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,683:      pdf_renderer.py:  470: printSegment:  and together as the 
+   DEBUG: 2025-01-22 19:36:07,683:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,684:      pdf_renderer.py:  470: printSegment: Shareholders
+   DEBUG: 2025-01-22 19:36:07,685:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,685:      pdf_renderer.py:  470: printSegment: ;
+   DEBUG: 2025-01-22 19:36:07,686:      pdf_renderer.py:  470: printSegment:  8 
+   DEBUG: 2025-01-22 19:36:07,686:      pdf_renderer.py:  470: printSegment: MARKOV BV
+   DEBUG: 2025-01-22 19:36:07,698:      pdf_renderer.py:  470: printSegment: , a private limited liability company (besloten vennootschap) organized and existing
+   DEBUG: 2025-01-22 19:36:07,703:      pdf_renderer.py:  470: printSegment: under the laws of Belgium, having its address at Vorstermanstraat 9, 2000 Antwerpen, Belgium, and
+   DEBUG: 2025-01-22 19:36:07,705:      pdf_renderer.py:  470: printSegment: registered with the Crossroads Bank of Enterprises under company number (ondernemingsnummer)
+   DEBUG: 2025-01-22 19:36:07,705:      pdf_renderer.py:  470: printSegment: 0817.208.271 (the 
+   DEBUG: 2025-01-22 19:36:07,706:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,706:      pdf_renderer.py:  470: printSegment: Company
+   DEBUG: 2025-01-22 19:36:07,707:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,707:      pdf_renderer.py:  470: printSegment: ).
+   DEBUG: 2025-01-22 19:36:07,709:      pdf_renderer.py:  470: printSegment: RECITALS:
+   DEBUG: 2025-01-22 19:36:07,710:      pdf_renderer.py:  470: printSegment: A. On the Date of this Agreement, the Shareholders are together the owner of all shares of the Company (as set forth
+   DEBUG: 2025-01-22 19:36:07,711:      pdf_renderer.py:  470: printSegment: in Article 2.1(a)).
+   DEBUG: 2025-01-22 19:36:07,730:      pdf_renderer.py:  470: printSegment: B. The Shareholders and the Company wish to document in this Agreement their agreement on certain arrangements
+   DEBUG: 2025-01-22 19:36:07,739:      pdf_renderer.py:  470: printSegment: regarding, amongst others, (i) the operation, the governance, the management and the shareholding of the Company
+   DEBUG: 2025-01-22 19:36:07,740:      pdf_renderer.py:  470: printSegment: and (ii) the rights and obligations attached to the shares of the Company, in order to enhance the stability of the
+   DEBUG: 2025-01-22 19:36:07,740:      pdf_renderer.py:  470: printSegment: shareholders
+   DEBUG: 2025-01-22 19:36:07,741:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:07,741:      pdf_renderer.py:  470: printSegment:  structure and the governance of the Company.
+   DEBUG: 2025-01-22 19:36:07,746:      pdf_renderer.py:  470: printSegment: C. The Parties in so far as needed confirm their good faith conviction that this Agreement is in the interest of the
+   DEBUG: 2025-01-22 19:36:07,746:      pdf_renderer.py:  470: printSegment: Company on the Date of this Agreement and during the term thereof.
+   DEBUG: 2025-01-22 19:36:07,747:      pdf_renderer.py:  470: printSegment: 1. DEFINITIONS AND INTERPRETATION
+   DEBUG: 2025-01-22 19:36:07,747:      pdf_renderer.py:  470: printSegment: 1.1 Certain defined terms and expressions
+   DEBUG: 2025-01-22 19:36:07,749:      pdf_renderer.py:  470: printSegment: The following terms and expressions that are not defined elsewhere in this Agreement have the following meaning
+   DEBUG: 2025-01-22 19:36:07,749:      pdf_renderer.py:  470: printSegment: in this Agreement:
+   DEBUG: 2025-01-22 19:36:07,750:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:07,750:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,751:      pdf_renderer.py:  470: printSegment: Agreement
+   DEBUG: 2025-01-22 19:36:07,751:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,752:      pdf_renderer.py:  470: printSegment:  means this shareholders
+   DEBUG: 2025-01-22 19:36:07,752:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:07,754:      pdf_renderer.py:  470: printSegment:  agreement, together with its Recitals and Schedules, as same
+   DEBUG: 2025-01-22 19:36:07,755:      pdf_renderer.py:  470: printSegment: may be amended from time to time;
+   DEBUG: 2025-01-22 19:36:07,755:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:07,755:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,756:      pdf_renderer.py:  470: printSegment: Agreement of Adherence
+   DEBUG: 2025-01-22 19:36:07,756:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,763:      pdf_renderer.py:  470: printSegment:  means an agreement in the form attached as Schedule A pursuant to
+   DEBUG: 2025-01-22 19:36:07,764:      pdf_renderer.py:  470: printSegment: which a transferee of Shares agrees to be bound by all the terms of this Agreement as if it was a
+   DEBUG: 2025-01-22 19:36:07,765:      pdf_renderer.py:  470: printSegment: signatory thereto;
+   DEBUG: 2025-01-22 19:36:07,765:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:07,766:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,766:      pdf_renderer.py:  470: printSegment: Articles of Association
+   DEBUG: 2025-01-22 19:36:07,766:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,770:      pdf_renderer.py:  470: printSegment:  means the articles of association of the Company, as adopted on the Date
+   DEBUG: 2025-01-22 19:36:07,770:      pdf_renderer.py:  470: printSegment: of this Agreement and as may be amended from time to time;
+   DEBUG: 2025-01-22 19:36:07,771:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:07,772:      pdf_renderer.py:  470: printSegment: “Bad Leaver Price”
+   DEBUG: 2025-01-22 19:36:07,779:      pdf_renderer.py:  470: printSegment:  means a price equal to 
+   DEBUG: 2025-01-22 19:36:07,779:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:07,780:      pdf_renderer.py:  470: printSegment: ((the average EBITDA of the past 3 fiscal years 
+   DEBUG: 2025-01-22 19:36:07,780:      pdf_renderer.py:  470: printSegment: *
+   DEBUG: 2025-01-22 19:36:07,812:      pdf_renderer.py:  470: printSegment:  3) plus
+   DEBUG: 2025-01-22 19:36:07,842:      pdf_renderer.py:  470: printSegment: cash minus financial debt at the time of exercise of the call option) multiplied by the number of
+   DEBUG: 2025-01-22 19:36:07,858:      pdf_renderer.py:  470: printSegment: shares held by the Bad Leaver and divided by the total number of shares issued by the Company. If
+   DEBUG: 2025-01-22 19:36:07,867:      pdf_renderer.py:  470: printSegment: the Bad Leaver materially breaches the Non-Compete and/or the Non-Solicitation clauses of this
+   DEBUG: 2025-01-22 19:36:07,868:      pdf_renderer.py:  470: printSegment: Agreement, then the Bad Leaver Price will be equal to the total purchase price the Bad Leaver has
+   DEBUG: 2025-01-22 19:36:07,869:      pdf_renderer.py:  470: printSegment: initially paid for its shares
+   DEBUG: 2025-01-22 19:36:07,870:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:07,870:      pdf_renderer.py:  470: printSegment: ;
+   DEBUG: 2025-01-22 19:36:07,870:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:07,871:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,872:      pdf_renderer.py:  470: printSegment: Belgian Companies and Associations Code
+   DEBUG: 2025-01-22 19:36:07,872:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,875:      pdf_renderer.py:  470: printSegment:  means the Belgian Act of March 23, 2019
+   DEBUG: 2025-01-22 19:36:07,876:      pdf_renderer.py:  470: printSegment: introducing the Belgian companies and associations code (Wetboek van vennootschappen en
+   DEBUG: 2025-01-22 19:36:07,876:      pdf_renderer.py:  470: printSegment: verenigingen);
+   DEBUG: 2025-01-22 19:36:07,877:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:07,877:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,877:      pdf_renderer.py:  470: printSegment: Business
+   DEBUG: 2025-01-22 19:36:07,878:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,879:      pdf_renderer.py:  470: printSegment:  means the business carried on by the Company at the Date of this Agreement;
+   DEBUG: 2025-01-22 19:36:07,879:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:07,880:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,880:      pdf_renderer.py:  470: printSegment: Business Day
+   DEBUG: 2025-01-22 19:36:07,881:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,882:      pdf_renderer.py:  470: printSegment:  means any calendar day, except a Saturday, Sunday or legal or bank holiday in
+   DEBUG: 2025-01-22 19:36:07,882:      pdf_renderer.py:  470: printSegment: Brussels (Belgium);
+   DEBUG: 2025-01-22 19:36:07,883:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:07,883:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,884:      pdf_renderer.py:  470: printSegment: Cause
+   DEBUG: 2025-01-22 19:36:07,884:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:07,983:      pdf_renderer.py:  470: printSegment:  means (i) the Shareholder’s theft, dishonesty, or falsification of any documents or records of
+   DEBUG: 2025-01-22 19:36:08,066:      pdf_renderer.py:  470: printSegment: the Company; (ii) the Shareholder’s improper use or disclosure of confidential or proprietary
+   DEBUG: 2025-01-22 19:36:08,120:      pdf_renderer.py:  470: printSegment: information of the Company that results or will result in material harm to the Company; (iii) any
+   DEBUG: 2025-01-22 19:36:08,157:      pdf_renderer.py:  470: printSegment: action by the Shareholder which has a detrimental effect on the reputation or business of the
+   DEBUG: 2025-01-22 19:36:08,180:      pdf_renderer.py:  470: printSegment: Company; (iv) any material breach by the Shareholder of any employment or service agreement or
+   DEBUG: 2025-01-22 19:36:08,192:      pdf_renderer.py:  470: printSegment: of this Agreement between the Shareholder and the Company, which breach is not cured pursuant to
+   DEBUG: 2025-01-22 19:36:08,196:      pdf_renderer.py:  470: printSegment: the terms of such agreement; or (v) the Shareholder’s conviction of any criminal act which impairs the
+   DEBUG: 2025-01-22 19:36:08,197:      pdf_renderer.py:  470: printSegment: Shareholder’s ability to perform his or her duties with the Company.
+   DEBUG: 2025-01-22 19:36:08,198:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,198:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,199:      pdf_renderer.py:  470: printSegment: Control
+   DEBUG: 2025-01-22 19:36:08,199:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,210:      pdf_renderer.py:  470: printSegment:  has the meaning ascribed thereto in article 1:14 of the Belgian Companies and
+   DEBUG: 2025-01-22 19:36:08,214:      pdf_renderer.py:  470: printSegment: Associations Code (it being understood, for the avoidance of doubt, that the definition set out in said
+   DEBUG: 2025-01-22 19:36:08,215:      pdf_renderer.py:  470: printSegment: article is agreed to also apply to non-Belgian Persons), and 
+   DEBUG: 2025-01-22 19:36:08,215:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,216:      pdf_renderer.py:  470: printSegment: Controlled
+   DEBUG: 2025-01-22 19:36:08,216:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,217:      pdf_renderer.py:  470: printSegment:  and 
+   DEBUG: 2025-01-22 19:36:08,217:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,218:      pdf_renderer.py:  470: printSegment: Controlling
+   DEBUG: 2025-01-22 19:36:08,218:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,219:      pdf_renderer.py:  470: printSegment:  will be
+   DEBUG: 2025-01-22 19:36:08,219:      pdf_renderer.py:  470: printSegment: construed accordingly;
+   DEBUG: 2025-01-22 19:36:08,220:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,221:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,221:      pdf_renderer.py:  470: printSegment: Date of this Agreement
+   DEBUG: 2025-01-22 19:36:08,222:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,223:      pdf_renderer.py:  470: printSegment:  means the date on which this Agreement was entered into, as first
+   DEBUG: 2025-01-22 19:36:08,223:      pdf_renderer.py:  470: printSegment: written above;
+   DEBUG: 2025-01-22 19:36:08,224:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,224:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,225:      pdf_renderer.py:  470: printSegment: Director
+   DEBUG: 2025-01-22 19:36:08,225:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,226:      pdf_renderer.py:  470: printSegment:  means any Person appointed as director (bestuurder) of the Company from time to time;
+   DEBUG: 2025-01-22 19:36:08,226:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,226:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,227:      pdf_renderer.py:  470: printSegment: Encumbrance
+   DEBUG: 2025-01-22 19:36:08,227:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,255:      pdf_renderer.py:  470: printSegment:  means, to the extent that any of the following right or claim applies to the asset or
+   DEBUG: 2025-01-22 19:36:08,273:      pdf_renderer.py:  470: printSegment: right with respect to which such expression is used, any attachment, mortgage, proxy to mortgage,
+   DEBUG: 2025-01-22 19:36:08,282:      pdf_renderer.py:  470: printSegment: charge, pledge, security interest, encumbrance, charge, lien, right of usufruct, easement,
+   DEBUG: 2025-01-22 19:36:08,286:      pdf_renderer.py:  470: printSegment: encroachment, claims, option, restriction, right of first refusal, right of pre-emption, lease, ground
+   DEBUG: 2025-01-22 19:36:08,287:      pdf_renderer.py:  470: printSegment: lease (erfpacht), building right (opstalrecht), third-party right, restriction or interest;
+   DEBUG: 2025-01-22 19:36:08,287:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,288:      pdf_renderer.py:  470: printSegment: “Equity Value per share”
+   DEBUG: 2025-01-22 19:36:08,315:      pdf_renderer.py:  470: printSegment:  means the value per share that will be determined by a certified accountant;
+   DEBUG: 2025-01-22 19:36:08,331:      pdf_renderer.py:  470: printSegment: The certified accountant will be appointed by the Good Leaver and the Company by mutual
+   DEBUG: 2025-01-22 19:36:08,340:      pdf_renderer.py:  470: printSegment: agreement; If the Good Leaver and the Company do not agree on the certified accountant to be
+   DEBUG: 2025-01-22 19:36:08,342:      pdf_renderer.py:  470: printSegment: appointed, this accountant will be appointed by the Chairman of the Antwerp Corporate Court, at the
+   DEBUG: 2025-01-22 19:36:08,343:      pdf_renderer.py:  470: printSegment: request of the most willing party;
+   DEBUG: 2025-01-22 19:36:08,343:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,343:      pdf_renderer.py:  470: printSegment: “Exit Event”
+   DEBUG: 2025-01-22 19:36:08,368:      pdf_renderer.py:  470: printSegment:  means any exit event taking the form of, but not limited to, a complete sale of the
+   DEBUG: 2025-01-22 19:36:08,383:      pdf_renderer.py:  470: printSegment: Business of the Company (asset deal), a public offering, a management buy-out, or a similar
+   DEBUG: 2025-01-22 19:36:08,389:      pdf_renderer.py:  470: printSegment: transaction that provides liquidity to the Shareholders, the sale of part of, or all shares by the
+   DEBUG: 2025-01-22 19:36:08,391:      pdf_renderer.py:  470: printSegment: A-Shareholder, not included, in which case the share transfer procedures as provided in Article 7
+   DEBUG: 2025-01-22 19:36:08,391:      pdf_renderer.py:  470: printSegment: will apply;
+   DEBUG: 2025-01-22 19:36:08,391:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,392:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,392:      pdf_renderer.py:  470: printSegment: General Shareholders
+   DEBUG: 2025-01-22 19:36:08,393:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:08,393:      pdf_renderer.py:  470: printSegment:  Meeting
+   DEBUG: 2025-01-22 19:36:08,393:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,394:      pdf_renderer.py:  470: printSegment:  means the general shareholders
+   DEBUG: 2025-01-22 19:36:08,394:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:08,395:      pdf_renderer.py:  470: printSegment:  meeting of the Company from
+   DEBUG: 2025-01-22 19:36:08,395:      pdf_renderer.py:  470: printSegment: time to time;
+   DEBUG: 2025-01-22 19:36:08,395:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,396:      pdf_renderer.py:  470: printSegment: “Good Leaver Price”
+   DEBUG: 2025-01-22 19:36:08,398:      pdf_renderer.py:  470: printSegment:  means a price equal to the Equity Value per share multiplied by the number of
+   DEBUG: 2025-01-22 19:36:08,398:      pdf_renderer.py:  470: printSegment: shares held by the Good Leaver;
+   DEBUG: 2025-01-22 19:36:08,399:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,399:      pdf_renderer.py:  470: printSegment: “Good Reason”
+   DEBUG: 2025-01-22 19:36:08,402:      pdf_renderer.py:  470: printSegment:  means the Company breaches any material provision of this Agreement or any material
+   DEBUG: 2025-01-22 19:36:08,402:      pdf_renderer.py:  470: printSegment: provision of the Shareholder’s service or employment agreement;
+   DEBUG: 2025-01-22 19:36:08,403:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,403:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,403:      pdf_renderer.py:  470: printSegment: Offered Conditions
+   DEBUG: 2025-01-22 19:36:08,404:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,404:      pdf_renderer.py:  470: printSegment:  has the meaning ascribed thereto in Article 6;
+   DEBUG: 2025-01-22 19:36:08,405:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,405:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,406:      pdf_renderer.py:  470: printSegment: Offered Consideration
+   DEBUG: 2025-01-22 19:36:08,406:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,407:      pdf_renderer.py:  470: printSegment:  has the meaning ascribed thereto in Article 6;
+   DEBUG: 2025-01-22 19:36:08,407:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,408:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,408:      pdf_renderer.py:  470: printSegment: Offered Shares
+   DEBUG: 2025-01-22 19:36:08,409:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,409:      pdf_renderer.py:  470: printSegment:  has the meaning ascribed thereto in Article 6;
+   DEBUG: 2025-01-22 19:36:08,410:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,410:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,411:      pdf_renderer.py:  470: printSegment: Other Shareholder
+   DEBUG: 2025-01-22 19:36:08,411:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,412:      pdf_renderer.py:  470: printSegment:  has the meaning ascribed thereto in Article 6;
+   DEBUG: 2025-01-22 19:36:08,412:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,413:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,413:      pdf_renderer.py:  470: printSegment: Parties
+   DEBUG: 2025-01-22 19:36:08,414:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,420:      pdf_renderer.py:  470: printSegment:  means any party to this Agreement (including, as the case may be, any party to whom this
+   DEBUG: 2025-01-22 19:36:08,422:      pdf_renderer.py:  470: printSegment: Agreement and the rights and obligations thereunder are assigned in accordance with the applicable
+   DEBUG: 2025-01-22 19:36:08,423:      pdf_renderer.py:  470: printSegment: terms of this Agreement);
+   DEBUG: 2025-01-22 19:36:08,423:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,424:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,424:      pdf_renderer.py:  470: printSegment: Person
+   DEBUG: 2025-01-22 19:36:08,425:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,436:      pdf_renderer.py:  470: printSegment:  means any individual or natural person, any legal entity with separate legal personality,
+   DEBUG: 2025-01-22 19:36:08,442:      pdf_renderer.py:  470: printSegment: partnership, joint venture, (joint stock) corporation, association, limited liability company, trust,
+   DEBUG: 2025-01-22 19:36:08,443:      pdf_renderer.py:  470: printSegment: unincorporated organizations, or any governmental entity (or any department, agency or political
+   DEBUG: 2025-01-22 19:36:08,444:      pdf_renderer.py:  470: printSegment: subdivision thereof);
+   DEBUG: 2025-01-22 19:36:08,444:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,445:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,445:      pdf_renderer.py:  470: printSegment: Prospective Transferee
+   DEBUG: 2025-01-22 19:36:08,446:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,446:      pdf_renderer.py:  470: printSegment:  has the meaning ascribed thereto in Article 6;
+   DEBUG: 2025-01-22 19:36:08,447:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,447:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,448:      pdf_renderer.py:  470: printSegment: Recital
+   DEBUG: 2025-01-22 19:36:08,448:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,449:      pdf_renderer.py:  470: printSegment:  means a recital to this Agreement under the heading 
+   DEBUG: 2025-01-22 19:36:08,450:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,450:      pdf_renderer.py:  470: printSegment: Recitals
+   DEBUG: 2025-01-22 19:36:08,450:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,451:      pdf_renderer.py:  470: printSegment:  on page 1;
+   DEBUG: 2025-01-22 19:36:08,451:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,452:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,452:      pdf_renderer.py:  470: printSegment: Representatives
+   DEBUG: 2025-01-22 19:36:08,453:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,453:      pdf_renderer.py:  470: printSegment:  means, when used in respect of a Person, such Person
+   DEBUG: 2025-01-22 19:36:08,454:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:08,457:      pdf_renderer.py:  470: printSegment: s directors, officers,
+   DEBUG: 2025-01-22 19:36:08,458:      pdf_renderer.py:  470: printSegment: employees, agents, consultants, insurers, legal counsel or accountants or other representatives or
+   DEBUG: 2025-01-22 19:36:08,458:      pdf_renderer.py:  470: printSegment: advisors;
+   DEBUG: 2025-01-22 19:36:08,459:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,460:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,460:      pdf_renderer.py:  470: printSegment: Response Deadline
+   DEBUG: 2025-01-22 19:36:08,460:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,461:      pdf_renderer.py:  470: printSegment:  has the meaning ascribed thereto in Article 6;
+   DEBUG: 2025-01-22 19:36:08,462:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,462:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,463:      pdf_renderer.py:  470: printSegment: Response Notice
+   DEBUG: 2025-01-22 19:36:08,463:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,464:      pdf_renderer.py:  470: printSegment:  has the meaning ascribed thereto in Article 6;
+   DEBUG: 2025-01-22 19:36:08,464:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,465:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,465:      pdf_renderer.py:  470: printSegment: Right of First Offer
+   DEBUG: 2025-01-22 19:36:08,466:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,467:      pdf_renderer.py:  470: printSegment:  has the meaning ascribed thereto in Article 6;
+   DEBUG: 2025-01-22 19:36:08,467:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,468:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,468:      pdf_renderer.py:  470: printSegment: Right of First Refusal
+   DEBUG: 2025-01-22 19:36:08,469:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,469:      pdf_renderer.py:  470: printSegment:  has the meaning ascribed thereto in Article 6;
+   DEBUG: 2025-01-22 19:36:08,470:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,471:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,471:      pdf_renderer.py:  470: printSegment: RoFO Exercise Notice
+   DEBUG: 2025-01-22 19:36:08,472:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,473:      pdf_renderer.py:  470: printSegment:  has the meaning ascribed thereto in Article 6;
+   DEBUG: 2025-01-22 19:36:08,473:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,474:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,474:      pdf_renderer.py:  470: printSegment: RoFO Exercise Period
+   DEBUG: 2025-01-22 19:36:08,475:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,475:      pdf_renderer.py:  470: printSegment:  has the meaning ascribed thereto in Article 6;
+   DEBUG: 2025-01-22 19:36:08,476:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,476:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,477:      pdf_renderer.py:  470: printSegment: RoFO Notice
+   DEBUG: 2025-01-22 19:36:08,478:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,478:      pdf_renderer.py:  470: printSegment:  has the meaning ascribed thereto in Article 6;
+   DEBUG: 2025-01-22 19:36:08,479:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,480:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,480:      pdf_renderer.py:  470: printSegment: RoFO Price
+   DEBUG: 2025-01-22 19:36:08,481:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,481:      pdf_renderer.py:  470: printSegment:  has the meaning ascribed thereto in Article 6;
+   DEBUG: 2025-01-22 19:36:08,482:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,482:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,483:      pdf_renderer.py:  470: printSegment: RoFR / Tag Notice
+   DEBUG: 2025-01-22 19:36:08,483:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,484:      pdf_renderer.py:  470: printSegment:  has the meaning ascribed thereto in Article 6;
+   DEBUG: 2025-01-22 19:36:08,485:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,485:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,486:      pdf_renderer.py:  470: printSegment: Schedule
+   DEBUG: 2025-01-22 19:36:08,486:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,487:      pdf_renderer.py:  470: printSegment:  means a schedule to this Agreement (as listed in the list of schedules on page ii);
+   DEBUG: 2025-01-22 19:36:08,488:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,488:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,489:      pdf_renderer.py:  470: printSegment: Share
+   DEBUG: 2025-01-22 19:36:08,489:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,490:      pdf_renderer.py:  470: printSegment:  means any share in the capital from time to time of the Company;
+   DEBUG: 2025-01-22 19:36:08,491:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,491:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,492:      pdf_renderer.py:  470: printSegment: Shareholder
+   DEBUG: 2025-01-22 19:36:08,492:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,493:      pdf_renderer.py:  470: printSegment:  means any registered holder of one or more Shares from time to time;
+   DEBUG: 2025-01-22 19:36:08,494:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,494:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,495:      pdf_renderer.py:  470: printSegment: Tag-Along Right
+   DEBUG: 2025-01-22 19:36:08,495:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,496:      pdf_renderer.py:  470: printSegment:  has the meaning ascribed thereto in Article 6;
+   DEBUG: 2025-01-22 19:36:08,497:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:08,497:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,498:      pdf_renderer.py:  470: printSegment: Transfer
+   DEBUG: 2025-01-22 19:36:08,499:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:08,737:      pdf_renderer.py:  470: printSegment:  means to directly or indirectly transfer, sell, assign, convey, dispose of, grant or
+   DEBUG: 2025-01-22 19:36:08,918:      pdf_renderer.py:  470: printSegment: exercise any option or any other disposal or acquisition right over, grant or exercise any
+   DEBUG: 2025-01-22 19:36:09,067:      pdf_renderer.py:  470: printSegment: subscription, acquisition or participation rights for, or instruments convertible into, grant or exercise
+   DEBUG: 2025-01-22 19:36:09,183:      pdf_renderer.py:  470: printSegment: any swap in respect of or create or enforce any Encumbrance over, any of the Shares, any interest or
+   DEBUG: 2025-01-22 19:36:09,273:      pdf_renderer.py:  470: printSegment: any right thereto or any other rights deriving from a Share such as the Voting Rights (including the
+   DEBUG: 2025-01-22 19:36:09,360:      pdf_renderer.py:  470: printSegment: granting of a power of attorney with an indefinite term or a fixed term of more than three (3) months
+   DEBUG: 2025-01-22 19:36:09,406:      pdf_renderer.py:  470: printSegment: to exercise same) or the right to receive a dividend or any other shareholder distribution therein),
+   DEBUG: 2025-01-22 19:36:09,436:      pdf_renderer.py:  470: printSegment: whether for consideration (in cash or otherwise) or not, and including, for the avoidance of doubt,
+   DEBUG: 2025-01-22 19:36:09,455:      pdf_renderer.py:  470: printSegment: transfers by way of contribution, merger, demerger, exchange, distribution in kind, sale with option
+   DEBUG: 2025-01-22 19:36:09,464:      pdf_renderer.py:  470: printSegment: of repurchase, securities lending, transfer to fiduciaries or on trust (or other similar transactions),
+   DEBUG: 2025-01-22 19:36:09,467:      pdf_renderer.py:  470: printSegment: gift, death, resulting from the bankruptcy proceedings initiated against a company or from the
+   DEBUG: 2025-01-22 19:36:09,468:      pdf_renderer.py:  470: printSegment: liquidation of joint property or inheritance, and a 
+   DEBUG: 2025-01-22 19:36:09,468:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:09,468:      pdf_renderer.py:  470: printSegment: Transfer
+   DEBUG: 2025-01-22 19:36:09,469:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:09,469:      pdf_renderer.py:  470: printSegment:  will be construed accordingly;
+   DEBUG: 2025-01-22 19:36:09,469:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:09,470:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:09,471:      pdf_renderer.py:  470: printSegment: Transferring Shareholder
+   DEBUG: 2025-01-22 19:36:09,471:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:09,472:      pdf_renderer.py:  470: printSegment:  has the meaning ascribed thereto in Article 6; and
+   DEBUG: 2025-01-22 19:36:09,472:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:09,472:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:09,473:      pdf_renderer.py:  470: printSegment: Voting Rights
+   DEBUG: 2025-01-22 19:36:09,473:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:09,474:      pdf_renderer.py:  470: printSegment:  means the votes capable of being cast in all circumstances at a General
+   DEBUG: 2025-01-22 19:36:09,475:      pdf_renderer.py:  470: printSegment: Shareholders
+   DEBUG: 2025-01-22 19:36:09,475:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,475:      pdf_renderer.py:  470: printSegment:  Meeting.
+   DEBUG: 2025-01-22 19:36:09,476:      pdf_renderer.py:  470: printSegment: 1.2 Interpretation
+   DEBUG: 2025-01-22 19:36:09,476:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:09,478:      pdf_renderer.py:  470: printSegment: Headings used in this Agreement are for convenience purposes only and will not affect the
+   DEBUG: 2025-01-22 19:36:09,479:      pdf_renderer.py:  470: printSegment: construction or interpretation of this Agreement.
+   DEBUG: 2025-01-22 19:36:09,479:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:09,480:      pdf_renderer.py:  470: printSegment: References to the word 
+   DEBUG: 2025-01-22 19:36:09,480:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:09,481:      pdf_renderer.py:  470: printSegment: include
+   DEBUG: 2025-01-22 19:36:09,481:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:09,482:      pdf_renderer.py:  470: printSegment:  or 
+   DEBUG: 2025-01-22 19:36:09,482:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:09,482:      pdf_renderer.py:  470: printSegment: including
+   DEBUG: 2025-01-22 19:36:09,483:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:09,485:      pdf_renderer.py:  470: printSegment:  (or any similar term) are not to be construed as
+   DEBUG: 2025-01-22 19:36:09,486:      pdf_renderer.py:  470: printSegment: implying any limitation, and general words introduced by the word 
+   DEBUG: 2025-01-22 19:36:09,486:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:09,487:      pdf_renderer.py:  470: printSegment: other
+   DEBUG: 2025-01-22 19:36:09,487:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:09,493:      pdf_renderer.py:  470: printSegment:  (or any similar term) will
+   DEBUG: 2025-01-22 19:36:09,496:      pdf_renderer.py:  470: printSegment: not be given a restrictive meaning by reason of the fact that they are preceded by words indicating a
+   DEBUG: 2025-01-22 19:36:09,496:      pdf_renderer.py:  470: printSegment: particular class of acts, matters or things.
+   DEBUG: 2025-01-22 19:36:09,497:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:09,516:      pdf_renderer.py:  470: printSegment: References to the Schedule(s) (or parts thereof) are to the Schedule(s) (or parts thereof) to this
+   DEBUG: 2025-01-22 19:36:09,525:      pdf_renderer.py:  470: printSegment: Agreement; references to the Recitals are to the Recitals to this Agreement; references to Articles
+   DEBUG: 2025-01-22 19:36:09,529:      pdf_renderer.py:  470: printSegment: are to Articles in this Agreement and, unless otherwise specified, references to sub-Articles are to
+   DEBUG: 2025-01-22 19:36:09,529:      pdf_renderer.py:  470: printSegment: sub-Articles of the Article in which such references appear.
+   DEBUG: 2025-01-22 19:36:09,530:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-01-22 19:36:09,565:      pdf_renderer.py:  470: printSegment: Unless expressly indicated otherwise, references to any statute or statutory provision will be deemed
+   DEBUG: 2025-01-22 19:36:09,588:      pdf_renderer.py:  470: printSegment: to include reference to any statute, regulation or statutory instrument which amends, extends,
+   DEBUG: 2025-01-22 19:36:09,600:      pdf_renderer.py:  470: printSegment: consolidates or replaces the same (or will have done so) and to any other regulation, statutory
+   DEBUG: 2025-01-22 19:36:09,606:      pdf_renderer.py:  470: printSegment: instrument or other subordinate legislation made thereunder or pursuant thereto, provided that no
+   DEBUG: 2025-01-22 19:36:09,607:      pdf_renderer.py:  470: printSegment: such reference will include any amendment, extension or replacement of the same with retrospective
+   DEBUG: 2025-01-22 19:36:09,608:      pdf_renderer.py:  470: printSegment: effect.
+   DEBUG: 2025-01-22 19:36:09,608:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2025-01-22 19:36:09,613:      pdf_renderer.py:  470: printSegment: Unless expressly indicated otherwise, or except when applicable law provides otherwise, any period
+   DEBUG: 2025-01-22 19:36:09,614:      pdf_renderer.py:  470: printSegment: of time or term referred to herein will be calculated or determined as follows:
+   DEBUG: 2025-01-22 19:36:09,615:      pdf_renderer.py:  470: printSegment: (i) any reference to a day will be a reference to a calendar day, running from midnight to midnight;
+   DEBUG: 2025-01-22 19:36:09,616:      pdf_renderer.py:  470: printSegment: (ii) any reference to a time of the day are to that time in Brussels, Belgium; and
+   DEBUG: 2025-01-22 19:36:09,632:      pdf_renderer.py:  470: printSegment: (iii) any term will start on the subsequent day after the day on which the event triggering such period
+   DEBUG: 2025-01-22 19:36:09,637:      pdf_renderer.py:  470: printSegment: of time has occurred. The expiry day of a term will be included in the term. If such expiry day is not
+   DEBUG: 2025-01-22 19:36:09,638:      pdf_renderer.py:  470: printSegment: a Business Day, then the term will be extended to the Business Day following such day.
+   DEBUG: 2025-01-22 19:36:09,639:      pdf_renderer.py:  470: printSegment: 1.3 Negotiation of the Agreement
+   DEBUG: 2025-01-22 19:36:09,663:      pdf_renderer.py:  470: printSegment: The Parties have participated jointly in the negotiation and drafting of this Agreement. In the event that an
+   DEBUG: 2025-01-22 19:36:09,675:      pdf_renderer.py:  470: printSegment: ambiguity or question of intent or interpretation arises, this Agreement will be construed as if drafted jointly by the
+   DEBUG: 2025-01-22 19:36:09,677:      pdf_renderer.py:  470: printSegment: Parties and no presumption or burden of proof will arise favouring or disfavouring any Party by virtue of the
+   DEBUG: 2025-01-22 19:36:09,678:      pdf_renderer.py:  470: printSegment: authorship of any provisions of this Agreement.
+   DEBUG: 2025-01-22 19:36:09,679:      pdf_renderer.py:  470: printSegment: 1.4 Language
+   DEBUG: 2025-01-22 19:36:09,688:      pdf_renderer.py:  470: printSegment: The original version of this Agreement has been made in English. Should this Agreement be translated in whole or
+   DEBUG: 2025-01-22 19:36:09,690:      pdf_renderer.py:  470: printSegment: in part into another language (if at all), the original English version will prevail between the Parties hereto to the
+   DEBUG: 2025-01-22 19:36:09,691:      pdf_renderer.py:  470: printSegment: fullest extent possible.
+   DEBUG: 2025-01-22 19:36:09,692:      pdf_renderer.py:  470: printSegment: 2. SHARES AND SECURITIES OF THE COMPANY -
+   DEBUG: 2025-01-22 19:36:09,693:      pdf_renderer.py:  470: printSegment: 2.1 Number and nature of the Shares
+   DEBUG: 2025-01-22 19:36:09,693:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:09,697:      pdf_renderer.py:  470: printSegment: On the Date of this Agreement, One Hundred (100) Shares have been issued in total. The Parties
+   DEBUG: 2025-01-22 19:36:09,698:      pdf_renderer.py:  470: printSegment: agree that for the time being, each Shareholder owns zero (0) Shares. Specifically:
+   DEBUG: 2025-01-22 19:36:09,698:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:09,699:      pdf_renderer.py:  470: printSegment: Mr. Olivier Debeuf De Rijcker: 0 shares
+   DEBUG: 2025-01-22 19:36:09,699:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:09,700:      pdf_renderer.py:  470: printSegment: Mr. Felix Van Bergen: 0 shares
+   DEBUG: 2025-01-22 19:36:09,700:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:09,701:      pdf_renderer.py:  470: printSegment: Mr. Rasmus Fosgaard: 0 shares
+   DEBUG: 2025-01-22 19:36:09,701:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:09,701:      pdf_renderer.py:  470: printSegment: Mr. Oliver Feichtinger: 0 shares
+   DEBUG: 2025-01-22 19:36:09,702:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:09,702:      pdf_renderer.py:  470: printSegment: Mr. Justin Pysson: 0 shares
+   DEBUG: 2025-01-22 19:36:09,702:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:09,703:      pdf_renderer.py:  470: printSegment: Mr. Léon Moralis: 0 shares
+   DEBUG: 2025-01-22 19:36:09,703:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:09,704:      pdf_renderer.py:  470: printSegment: Mr. Louis De Geest: 0 shares
+   DEBUG: 2025-01-22 19:36:09,705:      pdf_renderer.py:  470: printSegment: All one hundred (100) Shares are fully issued but not allocated to any Party under this Agreement at
+   DEBUG: 2025-01-22 19:36:09,705:      pdf_renderer.py:  470: printSegment: this time.
+   DEBUG: 2025-01-22 19:36:09,706:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:09,707:      pdf_renderer.py:  470: printSegment: All Shares are registered shares and have been fully paid-up. The Shareholders agree that all Shares
+   DEBUG: 2025-01-22 19:36:09,708:      pdf_renderer.py:  470: printSegment: will remain registered shares.
+   DEBUG: 2025-01-22 19:36:09,708:      pdf_renderer.py:  470: printSegment: 2.2 Rights attached to the Shares
+   DEBUG: 2025-01-22 19:36:09,709:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:09,712:      pdf_renderer.py:  470: printSegment: Except as otherwise provided in this Agreement, each Share has identical rights (including as to
+   DEBUG: 2025-01-22 19:36:09,713:      pdf_renderer.py:  470: printSegment: Voting Rights) and represents an equal part of the Company
+   DEBUG: 2025-01-22 19:36:09,713:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,714:      pdf_renderer.py:  470: printSegment: s capital.
+   DEBUG: 2025-01-22 19:36:09,714:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:09,715:      pdf_renderer.py:  470: printSegment: Each Share entitles the holder thereof to one (1) vote in the General Shareholders
+   DEBUG: 2025-01-22 19:36:09,715:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,715:      pdf_renderer.py:  470: printSegment:  Meeting.
+   DEBUG: 2025-01-22 19:36:09,716:      pdf_renderer.py:  470: printSegment: 2.3 No other securities
+   DEBUG: 2025-01-22 19:36:09,723:      pdf_renderer.py:  470: printSegment: Other than the Shares, there are on the Date of this Agreement no outstanding bonds, notes, profit sharing
+   DEBUG: 2025-01-22 19:36:09,724:      pdf_renderer.py:  470: printSegment: certificates or other securities of the Company, nor any obligations of the Company to issue any such other
+   DEBUG: 2025-01-22 19:36:09,725:      pdf_renderer.py:  470: printSegment: securities.
+   DEBUG: 2025-01-22 19:36:09,726:      pdf_renderer.py:  470: printSegment: 3. PROVISIONS RELATING TO THE DIRECTORS OF THE COMPANY
+   DEBUG: 2025-01-22 19:36:09,726:      pdf_renderer.py:  470: printSegment: 3.1 Authority
+   DEBUG: 2025-01-22 19:36:09,735:      pdf_renderer.py:  470: printSegment: Each Director will have the authority to take all actions and pass all resolutions on all matters, save for those matters
+   DEBUG: 2025-01-22 19:36:09,736:      pdf_renderer.py:  470: printSegment: which pursuant to the Belgian Companies and Associations Code or this Agreement are of the authority of the
+   DEBUG: 2025-01-22 19:36:09,737:      pdf_renderer.py:  470: printSegment: General Shareholders
+   DEBUG: 2025-01-22 19:36:09,737:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,738:      pdf_renderer.py:  470: printSegment:  Meeting, and save for the Supermajority Matters, which can only be decided by the General
+   DEBUG: 2025-01-22 19:36:09,739:      pdf_renderer.py:  470: printSegment: Shareholders
+   DEBUG: 2025-01-22 19:36:09,739:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,740:      pdf_renderer.py:  470: printSegment:  Meeting.
+   DEBUG: 2025-01-22 19:36:09,741:      pdf_renderer.py:  470: printSegment: 4. PROVISIONS RELATING TO THE GENERAL SHAREHOLDERS
+   DEBUG: 2025-01-22 19:36:09,741:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,742:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:09,742:      pdf_renderer.py:  470: printSegment: MEETING OF THE COMPANY
+   DEBUG: 2025-01-22 19:36:09,743:      pdf_renderer.py:  470: printSegment: 4.1 Quorum
+   DEBUG: 2025-01-22 19:36:09,743:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:09,743:      pdf_renderer.py:  470: printSegment: The General Shareholders
+   DEBUG: 2025-01-22 19:36:09,744:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,750:      pdf_renderer.py:  470: printSegment:  Meeting will only be able to validly deliberate and resolve if the quorum
+   DEBUG: 2025-01-22 19:36:09,751:      pdf_renderer.py:  470: printSegment: (if any) provided for by the Belgian Companies and Associations Code for the relevant resolution by
+   DEBUG: 2025-01-22 19:36:09,752:      pdf_renderer.py:  470: printSegment: the General Shareholders
+   DEBUG: 2025-01-22 19:36:09,752:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,753:      pdf_renderer.py:  470: printSegment:  Meeting is met.
+   DEBUG: 2025-01-22 19:36:09,753:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:09,754:      pdf_renderer.py:  470: printSegment: If no quorum is present, or if during the General Shareholders
+   DEBUG: 2025-01-22 19:36:09,754:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,755:      pdf_renderer.py:  470: printSegment:  Meeting a quorum ceases to be
+   DEBUG: 2025-01-22 19:36:09,756:      pdf_renderer.py:  470: printSegment: present, the General Shareholders
+   DEBUG: 2025-01-22 19:36:09,757:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,769:      pdf_renderer.py:  470: printSegment:  Meeting will be adjourned to the next Business Day falling five
+   DEBUG: 2025-01-22 19:36:09,775:      pdf_renderer.py:  470: printSegment: (5) days after the date of such meeting at the same time and place and the Shareholder(s) present at
+   DEBUG: 2025-01-22 19:36:09,776:      pdf_renderer.py:  470: printSegment: such new meeting will constitute a quorum, irrespective of the number of Shareholders present or
+   DEBUG: 2025-01-22 19:36:09,776:      pdf_renderer.py:  470: printSegment: duly represented.
+   DEBUG: 2025-01-22 19:36:09,777:      pdf_renderer.py:  470: printSegment: 4.2 Decision making
+   DEBUG: 2025-01-22 19:36:09,777:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:09,778:      pdf_renderer.py:  470: printSegment: Each Share entitles the holder thereof to one (1) vote in the General Shareholders
+   DEBUG: 2025-01-22 19:36:09,778:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,778:      pdf_renderer.py:  470: printSegment:  Meeting.
+   DEBUG: 2025-01-22 19:36:09,779:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:09,779:      pdf_renderer.py:  470: printSegment: All resolutions of the General Shareholders
+   DEBUG: 2025-01-22 19:36:09,779:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,817:      pdf_renderer.py:  470: printSegment:  Meeting will be passed with a simple majority of votes
+   DEBUG: 2025-01-22 19:36:09,844:      pdf_renderer.py:  470: printSegment: (i.e., with the approval of more than half of the aggregate number of positive or negative votes cast
+   DEBUG: 2025-01-22 19:36:09,860:      pdf_renderer.py:  470: printSegment: (abstentions not being considered as a vote cast)), unless the Belgian Companies and Associations
+   DEBUG: 2025-01-22 19:36:09,867:      pdf_renderer.py:  470: printSegment: Code or other applicable law provides for a more stringent (i.e., higher) majority requirement in
+   DEBUG: 2025-01-22 19:36:09,869:      pdf_renderer.py:  470: printSegment: respect of the relevant matter being the subject-matter of such resolution and except for any
+   DEBUG: 2025-01-22 19:36:09,870:      pdf_renderer.py:  470: printSegment: decisions of the General Shareholders
+   DEBUG: 2025-01-22 19:36:09,870:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,871:      pdf_renderer.py:  470: printSegment:  Meeting in respect of any of the following matters (the 
+   DEBUG: 2025-01-22 19:36:09,871:      pdf_renderer.py:  470: printSegment: “Supermajority Matters”
+   DEBUG: 2025-01-22 19:36:09,878:      pdf_renderer.py:  470: printSegment: ) which, without prejudice to any more stringent (i.e., higher) majority
+   DEBUG: 2025-01-22 19:36:09,880:      pdf_renderer.py:  470: printSegment: requirements provided for by applicable law, will require the approval of Shareholders holding at
+   DEBUG: 2025-01-22 19:36:09,880:      pdf_renderer.py:  470: printSegment: least 75% of the shares:
+   DEBUG: 2025-01-22 19:36:09,881:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:09,881:      pdf_renderer.py:  470: printSegment: amendments to the Articles of Association;
+   DEBUG: 2025-01-22 19:36:09,881:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:09,882:      pdf_renderer.py:  470: printSegment: increase or decrease the capital, issue, repurchase or cancel any securities;
+   DEBUG: 2025-01-22 19:36:09,882:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:09,885:      pdf_renderer.py:  470: printSegment: enter into any liquidation, merger, demerger or transfer or contribution of a division
+   DEBUG: 2025-01-22 19:36:09,886:      pdf_renderer.py:  470: printSegment: or universality by the Company to another Person;
+   DEBUG: 2025-01-22 19:36:09,886:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-01-22 19:36:09,887:      pdf_renderer.py:  470: printSegment: determination of salary or remuneration of the Parties, the Shareholders or any of
+   DEBUG: 2025-01-22 19:36:09,888:      pdf_renderer.py:  470: printSegment: their relatives;
+   DEBUG: 2025-01-22 19:36:09,888:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2025-01-22 19:36:09,888:      pdf_renderer.py:  470: printSegment: an Exit Event;
+   DEBUG: 2025-01-22 19:36:09,889:      pdf_renderer.py:  470: printSegment:  6 
+   DEBUG: 2025-01-22 19:36:09,889:      pdf_renderer.py:  470: printSegment: the establishment or closing of subsidiaries or branches;
+   DEBUG: 2025-01-22 19:36:09,890:      pdf_renderer.py:  470: printSegment:  7 
+   DEBUG: 2025-01-22 19:36:09,890:      pdf_renderer.py:  470: printSegment: the obtainment of loans or liabilities not arising from the Company’s usual business;
+   DEBUG: 2025-01-22 19:36:09,891:      pdf_renderer.py:  470: printSegment:  8 
+   DEBUG: 2025-01-22 19:36:09,891:      pdf_renderer.py:  470: printSegment: appointment of the Company’s auditor;
+   DEBUG: 2025-01-22 19:36:09,892:      pdf_renderer.py:  470: printSegment:  9 
+   DEBUG: 2025-01-22 19:36:09,892:      pdf_renderer.py:  470: printSegment: amendments to the Company’s accounting principles;
+   DEBUG: 2025-01-22 19:36:09,893:      pdf_renderer.py:  470: printSegment:  10 
+   DEBUG: 2025-01-22 19:36:09,893:      pdf_renderer.py:  470: printSegment: the purchase, sale or mortgaging of real estate, businesses, companies and similar
+   DEBUG: 2025-01-22 19:36:09,894:      pdf_renderer.py:  470: printSegment: activities;
+   DEBUG: 2025-01-22 19:36:09,894:      pdf_renderer.py:  470: printSegment:  11 
+   DEBUG: 2025-01-22 19:36:09,895:      pdf_renderer.py:  470: printSegment: enter into any commitment or agreement to do any of the foregoing.
+   DEBUG: 2025-01-22 19:36:09,896:      pdf_renderer.py:  470: printSegment: 5. CONFLICT OF INTEREST POLICY
+   DEBUG: 2025-01-22 19:36:09,897:      pdf_renderer.py:  470: printSegment: 5.1 Objective
+   DEBUG: 2025-01-22 19:36:09,897:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:09,903:      pdf_renderer.py:  470: printSegment: The Company is committed to the highest standards of ethical conduct and integrity. This policy
+   DEBUG: 2025-01-22 19:36:09,904:      pdf_renderer.py:  470: printSegment: aims to provide guidelines for identifying, disclosing, and managing conflicts of interest among
+   DEBUG: 2025-01-22 19:36:09,905:      pdf_renderer.py:  470: printSegment: Directors and Shareholders.
+   DEBUG: 2025-01-22 19:36:09,906:      pdf_renderer.py:  470: printSegment: 5.2 Identification
+   DEBUG: 2025-01-22 19:36:09,906:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:09,909:      pdf_renderer.py:  470: printSegment: Directors and Shareholders shall identify any actual, potential, or perceived conflict of interest as
+   DEBUG: 2025-01-22 19:36:09,909:      pdf_renderer.py:  470: printSegment: soon as they become aware of it.
+   DEBUG: 2025-01-22 19:36:09,910:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:09,910:      pdf_renderer.py:  470: printSegment: An actual, potential, or perceived conflict of interest arises when a Director
+   DEBUG: 2025-01-22 19:36:09,911:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,911:      pdf_renderer.py:  470: printSegment: s or Shareholder
+   DEBUG: 2025-01-22 19:36:09,912:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,916:      pdf_renderer.py:  470: printSegment: s
+   DEBUG: 2025-01-22 19:36:09,918:      pdf_renderer.py:  470: printSegment: personal interests, or interests they represent, could potentially interfere with their capacity to act in
+   DEBUG: 2025-01-22 19:36:09,919:      pdf_renderer.py:  470: printSegment: the best interests of the Company.
+   DEBUG: 2025-01-22 19:36:09,919:      pdf_renderer.py:  470: printSegment: 5.3 Disclosure
+   DEBUG: 2025-01-22 19:36:09,920:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:09,921:      pdf_renderer.py:  470: printSegment: All conflicts of interest shall be disclosed promptly to the Directors and, if applicable, to the General
+   DEBUG: 2025-01-22 19:36:09,921:      pdf_renderer.py:  470: printSegment: Shareholders
+   DEBUG: 2025-01-22 19:36:09,922:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,922:      pdf_renderer.py:  470: printSegment:  Meeting.
+   DEBUG: 2025-01-22 19:36:09,922:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:09,923:      pdf_renderer.py:  470: printSegment: The disclosure shall include all relevant details and be updated regularly.
+   DEBUG: 2025-01-22 19:36:09,923:      pdf_renderer.py:  470: printSegment: 5.4 Management
+   DEBUG: 2025-01-22 19:36:09,924:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:09,924:      pdf_renderer.py:  470: printSegment: After disclosure, the Directors will determine how the conflict will be managed.
+   DEBUG: 2025-01-22 19:36:09,925:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:09,933:      pdf_renderer.py:  470: printSegment: The affected Director or Shareholder may be required to abstain from discussions and voting on the
+   DEBUG: 2025-01-22 19:36:09,935:      pdf_renderer.py:  470: printSegment: matter in which they have a conflict. If all Directors have a conflict of interest, the matter will be
+   DEBUG: 2025-01-22 19:36:09,936:      pdf_renderer.py:  470: printSegment: decided by the General Shareholders
+   DEBUG: 2025-01-22 19:36:09,936:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,936:      pdf_renderer.py:  470: printSegment:  Meeting.
+   DEBUG: 2025-01-22 19:36:09,937:      pdf_renderer.py:  470: printSegment: 5.5 Record-Keeping
+   DEBUG: 2025-01-22 19:36:09,937:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:09,938:      pdf_renderer.py:  470: printSegment: All disclosed conflicts and actions taken will be recorded in the minutes of Board or General
+   DEBUG: 2025-01-22 19:36:09,938:      pdf_renderer.py:  470: printSegment: Shareholders
+   DEBUG: 2025-01-22 19:36:09,939:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,939:      pdf_renderer.py:  470: printSegment:  Meeting.
+   DEBUG: 2025-01-22 19:36:09,939:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:09,940:      pdf_renderer.py:  470: printSegment: The Company shall maintain a register of conflicts of interest, accessible to all Directors and
+   DEBUG: 2025-01-22 19:36:09,941:      pdf_renderer.py:  470: printSegment: Shareholders.
+   DEBUG: 2025-01-22 19:36:09,941:      pdf_renderer.py:  470: printSegment: 5.6 Review
+   DEBUG: 2025-01-22 19:36:09,941:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:09,942:      pdf_renderer.py:  470: printSegment: This policy shall be reviewed annually by the Board of Directors to ensure its effectiveness.
+   DEBUG: 2025-01-22 19:36:09,943:      pdf_renderer.py:  470: printSegment: 6. INFORMATION AND AUDIT RIGHTS
+   DEBUG: 2025-01-22 19:36:09,943:      pdf_renderer.py:  470: printSegment: 6.1
+   DEBUG: 2025-01-22 19:36:09,944:      pdf_renderer.py:  470: printSegment: The Company will keep the Shareholders informed of the progress of the Company
+   DEBUG: 2025-01-22 19:36:09,944:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:09,945:      pdf_renderer.py:  470: printSegment: s business and affairs and in
+   DEBUG: 2025-01-22 19:36:09,945:      pdf_renderer.py:  470: printSegment: particular will:
+   DEBUG: 2025-01-22 19:36:09,945:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:09,955:      pdf_renderer.py:  470: printSegment: procure that the Shareholders are given such information and reasonable access to the officers,
+   DEBUG: 2025-01-22 19:36:09,958:      pdf_renderer.py:  470: printSegment: employees and premises of the Group Companies as they may reasonably require for the purposes of
+   DEBUG: 2025-01-22 19:36:09,959:      pdf_renderer.py:  470: printSegment: enabling them to monitor their investment in the Company;
+   DEBUG: 2025-01-22 19:36:09,959:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:09,989:      pdf_renderer.py:  470: printSegment: provide the Shareholders as soon as practicable and in any event within hundred and twenty (120)
+   DEBUG: 2025-01-22 19:36:10,008:      pdf_renderer.py:  470: printSegment: days after the end of each financial year, the audited consolidated and statutory, as applicable,
+   DEBUG: 2025-01-22 19:36:10,017:      pdf_renderer.py:  470: printSegment: annual accounts of the Group Companies, in each case in respect of the relevant financial year ended
+   DEBUG: 2025-01-22 19:36:10,019:      pdf_renderer.py:  470: printSegment: and including the balance sheet, the profit and loss account, a cash flow statement and its
+   DEBUG: 2025-01-22 19:36:10,020:      pdf_renderer.py:  470: printSegment: attachments, together with the related statutory auditors
+   DEBUG: 2025-01-22 19:36:10,020:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:10,021:      pdf_renderer.py:  470: printSegment:  reports.
+   DEBUG: 2025-01-22 19:36:10,021:      pdf_renderer.py:  470: printSegment: 6.2 Dividend Policy
+   DEBUG: 2025-01-22 19:36:10,022:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:10,022:      pdf_renderer.py:  470: printSegment: General Policy
+   DEBUG: 2025-01-22 19:36:10,023:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:10,025:      pdf_renderer.py:  470: printSegment: (i) The Company aims to distribute dividends to the Shareholders in accordance with the financial
+   DEBUG: 2025-01-22 19:36:10,026:      pdf_renderer.py:  470: printSegment: performance and the requirements of future investments.
+   DEBUG: 2025-01-22 19:36:10,031:      pdf_renderer.py:  470: printSegment: (ii) The declaration and payment of any dividends will be at the discretion of the Directors, who
+   DEBUG: 2025-01-22 19:36:10,032:      pdf_renderer.py:  470: printSegment: shall take into account the Company’s profitability, future capital requirements, and other relevant
+   DEBUG: 2025-01-22 19:36:10,032:      pdf_renderer.py:  470: printSegment: factors.
+   DEBUG: 2025-01-22 19:36:10,033:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:10,033:      pdf_renderer.py:  470: printSegment: Frequency and Timing
+   DEBUG: 2025-01-22 19:36:10,034:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:10,035:      pdf_renderer.py:  470: printSegment: (i) Dividends, if declared, will typically be paid annually, following the approval of the annual
+   DEBUG: 2025-01-22 19:36:10,035:      pdf_renderer.py:  470: printSegment: financial statements.
+   DEBUG: 2025-01-22 19:36:10,037:      pdf_renderer.py:  470: printSegment: (ii) The specific timing and amount of the dividend payouts shall be communicated to all
+   DEBUG: 2025-01-22 19:36:10,037:      pdf_renderer.py:  470: printSegment: Shareholders in a timely manner.
+   DEBUG: 2025-01-22 19:36:10,038:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:10,038:      pdf_renderer.py:  470: printSegment: Regulatory Compliance
+   DEBUG: 2025-01-22 19:36:10,039:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:10,042:      pdf_renderer.py:  470: printSegment: (i) All dividend payouts will be in compliance with applicable laws and regulations, including but
+   DEBUG: 2025-01-22 19:36:10,042:      pdf_renderer.py:  470: printSegment: not limited to tax laws and corporate governance requirements.
+   DEBUG: 2025-01-22 19:36:10,043:      pdf_renderer.py:  470: printSegment: 7. SHARE TRANSFERS
+   DEBUG: 2025-01-22 19:36:10,043:      pdf_renderer.py:  470: printSegment: 7.1 Transfer restrictions
+   DEBUG: 2025-01-22 19:36:10,044:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:10,068:      pdf_renderer.py:  470: printSegment: No Shareholder will Transfer any Shares other than in compliance with the provisions of this Article
+   DEBUG: 2025-01-22 19:36:10,080:      pdf_renderer.py:  470: printSegment: 6. Prior to the 5th anniversary of this Agreement (the “Lock Up Period”), no Shareholder may Transfer
+   DEBUG: 2025-01-22 19:36:10,092:      pdf_renderer.py:  470: printSegment: any Shares unless the Transfer is made in accordance with Article 6.5 (Permitted Transfers), made
+   DEBUG: 2025-01-22 19:36:10,092:      pdf_renderer.py:  470: printSegment: by any Shareholder pursuant to Article 6.3 (Tag Along), to Article 6.4 (Drag Along).
+   DEBUG: 2025-01-22 19:36:10,093:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:10,140:      pdf_renderer.py:  470: printSegment: Each of the Parties agrees that, except in case of an exit where all Shareholders Transfer their
+   DEBUG: 2025-01-22 19:36:10,171:      pdf_renderer.py:  470: printSegment: Shares, if any Person wishes to become a holder of any Shares, such Person must deliver an
+   DEBUG: 2025-01-22 19:36:10,190:      pdf_renderer.py:  470: printSegment: executed Agreement of Adherence in favour of all the other Parties. Should it be judged that such
+   DEBUG: 2025-01-22 19:36:10,199:      pdf_renderer.py:  470: printSegment: restriction on the Transfer of Shares is invalid or unenforceable, the Parties undertake to use their
+   DEBUG: 2025-01-22 19:36:10,201:      pdf_renderer.py:  470: printSegment: best efforts to cause any transferee to undertake to sign the Agreement of Adherence and to be
+   DEBUG: 2025-01-22 19:36:10,202:      pdf_renderer.py:  470: printSegment: bound by all terms of this Agreement.
+   DEBUG: 2025-01-22 19:36:10,202:      pdf_renderer.py:  470: printSegment: 7.2 Right of First Offer
+   DEBUG: 2025-01-22 19:36:10,203:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:10,203:      pdf_renderer.py:  470: printSegment: If a holder of a Class of Shares (the 
+   DEBUG: 2025-01-22 19:36:10,204:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:10,204:      pdf_renderer.py:  470: printSegment: Transferring Shareholder
+   DEBUG: 2025-01-22 19:36:10,204:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:10,205:      pdf_renderer.py:  470: printSegment: ) desires to Transfer all or part of its
+   DEBUG: 2025-01-22 19:36:10,206:      pdf_renderer.py:  470: printSegment: Shares (the 
+   DEBUG: 2025-01-22 19:36:10,206:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:10,207:      pdf_renderer.py:  470: printSegment: Offered Shares
+   DEBUG: 2025-01-22 19:36:10,207:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:10,208:      pdf_renderer.py:  470: printSegment: ), such Transferring Shareholder will give prior written notice (the 
+   DEBUG: 2025-01-22 19:36:10,208:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:10,209:      pdf_renderer.py:  470: printSegment: RoFO Notice
+   DEBUG: 2025-01-22 19:36:10,209:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:10,210:      pdf_renderer.py:  470: printSegment: ) of such intention to the holder(s) of the other Class of Shares (the 
+   DEBUG: 2025-01-22 19:36:10,210:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:10,210:      pdf_renderer.py:  470: printSegment: Other
+   DEBUG: 2025-01-22 19:36:10,211:      pdf_renderer.py:  470: printSegment: Shareholder(s)
+   DEBUG: 2025-01-22 19:36:10,211:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:10,212:      pdf_renderer.py:  470: printSegment: ) specifying the price at which it is willing to Transfer its Shares (the 
+   DEBUG: 2025-01-22 19:36:10,212:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:10,213:      pdf_renderer.py:  470: printSegment: RoFO Price
+   DEBUG: 2025-01-22 19:36:10,213:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:10,214:      pdf_renderer.py:  470: printSegment: )
+   DEBUG: 2025-01-22 19:36:10,215:      pdf_renderer.py:  470: printSegment: and any other terms and conditions of the proposed Transfer.
+   DEBUG: 2025-01-22 19:36:10,215:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:10,230:      pdf_renderer.py:  470: printSegment: The RoFO Notice will constitute an irrevocable offer by the Transferring Shareholder to the Other
+   DEBUG: 2025-01-22 19:36:10,236:      pdf_renderer.py:  470: printSegment: Shareholder(s) to sell to such Other Shareholder(s), for the same consideration per Offered Share as
+   DEBUG: 2025-01-22 19:36:10,237:      pdf_renderer.py:  470: printSegment: the RoFO Price and on the terms and condition set forth in the RoFO Notice, the Offered Shares.
+   DEBUG: 2025-01-22 19:36:10,237:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:10,239:      pdf_renderer.py:  470: printSegment: Each Other Shareholder will have the right, but not the obligation, exercisable within twenty (20)
+   DEBUG: 2025-01-22 19:36:10,239:      pdf_renderer.py:  470: printSegment: Business Days (the 
+   DEBUG: 2025-01-22 19:36:10,240:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:10,240:      pdf_renderer.py:  470: printSegment: RoFO Exercise Period
+   DEBUG: 2025-01-22 19:36:10,241:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:10,241:      pdf_renderer.py:  470: printSegment: ) from receipt of the RoFO Notice by written notice (the
+   DEBUG: 2025-01-22 19:36:10,242:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:10,242:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:10,242:      pdf_renderer.py:  470: printSegment: RoFO Exercise Notice
+   DEBUG: 2025-01-22 19:36:10,243:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:10,245:      pdf_renderer.py:  470: printSegment: ) to the Transferring Shareholder to submit an offer for all (and not less than
+   DEBUG: 2025-01-22 19:36:10,245:      pdf_renderer.py:  470: printSegment: all) of the Offered Shares (the 
+   DEBUG: 2025-01-22 19:36:10,246:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:10,246:      pdf_renderer.py:  470: printSegment: Right of First Offer
+   DEBUG: 2025-01-22 19:36:10,247:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:10,335:      pdf_renderer.py:  470: printSegment: ). In case there is more than one Other
+   DEBUG: 2025-01-22 19:36:10,413:      pdf_renderer.py:  470: printSegment: Shareholder, and unless the Other Shareholders otherwise agree and notify the Transferring
+   DEBUG: 2025-01-22 19:36:10,470:      pdf_renderer.py:  470: printSegment: Shareholder of such agreement, each Other Shareholder will have the Right of First Offer on a
+   DEBUG: 2025-01-22 19:36:10,511:      pdf_renderer.py:  470: printSegment: number of Offered Shares equal to the total number of Offered Shares multiplied by a fraction the
+   DEBUG: 2025-01-22 19:36:10,536:      pdf_renderer.py:  470: printSegment: numerator of which is the number of Shares owned by such Other Shareholder and the denominator
+   DEBUG: 2025-01-22 19:36:10,550:      pdf_renderer.py:  470: printSegment: of which is the total number of Shares of the same Class of Shares as such Other Shareholder. The
+   DEBUG: 2025-01-22 19:36:10,555:      pdf_renderer.py:  470: printSegment: Right of First Offer can however only be validly exercised if it relates to all Offered Shares,
+   DEBUG: 2025-01-22 19:36:10,557:      pdf_renderer.py:  470: printSegment: whichever Other Shareholder exercises the Right of First Offer for whichever number of Offered
+   DEBUG: 2025-01-22 19:36:10,557:      pdf_renderer.py:  470: printSegment: Shares.
+   DEBUG: 2025-01-22 19:36:10,558:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-01-22 19:36:10,624:      pdf_renderer.py:  470: printSegment: If the Other Shareholder(s) send(s) a RoFO Exercise Notice to the Transferring Shareholder within
+   DEBUG: 2025-01-22 19:36:10,671:      pdf_renderer.py:  470: printSegment: the RoFO Exercise Period, the Transferring Shareholder will then Transfer the Offered Shares to
+   DEBUG: 2025-01-22 19:36:10,702:      pdf_renderer.py:  470: printSegment: such Other Shareholder(s) against payment by such Other Shareholder(s) of the RoFO Price within
+   DEBUG: 2025-01-22 19:36:10,721:      pdf_renderer.py:  470: printSegment: ten (10) Business Days from the date of the RoFO Exercise Notice (which period may be extended,
+   DEBUG: 2025-01-22 19:36:10,729:      pdf_renderer.py:  470: printSegment: as the case may be, by such period of time as is necessary to obtain the approval of any competent
+   DEBUG: 2025-01-22 19:36:10,731:      pdf_renderer.py:  470: printSegment: competition or other regulatory authority) and taking into account the same terms and conditions as
+   DEBUG: 2025-01-22 19:36:10,732:      pdf_renderer.py:  470: printSegment: set forth in the RoFO Notice.
+   DEBUG: 2025-01-22 19:36:10,733:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2025-01-22 19:36:10,876:      pdf_renderer.py:  470: printSegment: If no Other Shareholder sends a RoFO Exercise Notice to the Transferring Shareholder within the
+   DEBUG: 2025-01-22 19:36:10,991:      pdf_renderer.py:  470: printSegment: RoFO Exercise Period or the Right of First Offer is not validly exercised by the Other Shareholders,
+   DEBUG: 2025-01-22 19:36:11,080:      pdf_renderer.py:  470: printSegment: the Other Shareholder(s) will be deemed not to exercise the Right of First Offer. In such event, the
+   DEBUG: 2025-01-22 19:36:11,145:      pdf_renderer.py:  470: printSegment: Transferring Shareholder will be entitled, subject and without prejudice to the provisions of Article
+   DEBUG: 2025-01-22 19:36:11,190:      pdf_renderer.py:  470: printSegment: 7.3 below, at any time within a period of twelve (12) months after the end of the RoFO Exercise
+   DEBUG: 2025-01-22 19:36:11,218:      pdf_renderer.py:  470: printSegment: Period, to Transfer its Offered Shares to any Person at a price not lower than the RoFO Price and on
+   DEBUG: 2025-01-22 19:36:11,234:      pdf_renderer.py:  470: printSegment: other terms and conditions which are not less favourable to the Transferring Shareholder as those
+   DEBUG: 2025-01-22 19:36:11,241:      pdf_renderer.py:  470: printSegment: mentioned in the RoFO Notice. If such a Transfer has not taken place within the aforementioned
+   DEBUG: 2025-01-22 19:36:11,242:      pdf_renderer.py:  470: printSegment: twelve (12) months period, the Right of First Offer-procedure set forth in this Article 7.2 must be
+   DEBUG: 2025-01-22 19:36:11,243:      pdf_renderer.py:  470: printSegment: complied with again.
+   DEBUG: 2025-01-22 19:36:11,243:      pdf_renderer.py:  470: printSegment: 7.3 Right of First Refusal and Tag-Along Right
+   DEBUG: 2025-01-22 19:36:11,244:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:11,251:      pdf_renderer.py:  470: printSegment: Before the Transferring Shareholder can however proceed with the Transfer in accordance with
+   DEBUG: 2025-01-22 19:36:11,253:      pdf_renderer.py:  470: printSegment: Article 7.2(e) above to a Person from which it has received a bona fide offer to purchase the Offered
+   DEBUG: 2025-01-22 19:36:11,253:      pdf_renderer.py:  470: printSegment: Shares (the 
+   DEBUG: 2025-01-22 19:36:11,253:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:11,254:      pdf_renderer.py:  470: printSegment: Prospective Transferee
+   DEBUG: 2025-01-22 19:36:11,254:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:11,255:      pdf_renderer.py:  470: printSegment: ), it will give prior written notice (the 
+   DEBUG: 2025-01-22 19:36:11,255:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:11,255:      pdf_renderer.py:  470: printSegment: RoFR / Tag Notice
+   DEBUG: 2025-01-22 19:36:11,256:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:11,261:      pdf_renderer.py:  470: printSegment: ) to
+   DEBUG: 2025-01-22 19:36:11,264:      pdf_renderer.py:  470: printSegment: the Other Shareholder(s). Each Other Shareholder will be entitled to a right of first refusal for all
+   DEBUG: 2025-01-22 19:36:11,265:      pdf_renderer.py:  470: printSegment: (and not less than all) Offered Shares (the 
+   DEBUG: 2025-01-22 19:36:11,265:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:11,266:      pdf_renderer.py:  470: printSegment: Right of First Refusal
+   DEBUG: 2025-01-22 19:36:11,266:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:11,285:      pdf_renderer.py:  470: printSegment: ) or, if the Offered Shares amount
+   DEBUG: 2025-01-22 19:36:11,300:      pdf_renderer.py:  470: printSegment: to more than fifty percent (50 %) of all Shares owned by the Transferring Shareholder and the Other
+   DEBUG: 2025-01-22 19:36:11,305:      pdf_renderer.py:  470: printSegment: Shareholder(s) do(es) not (validly) exercise the Right of First Refusal, a right to sell jointly with the
+   DEBUG: 2025-01-22 19:36:11,306:      pdf_renderer.py:  470: printSegment: Transferring Shareholder all (and not less than all) of its (their) outstanding Shares (the 
+   DEBUG: 2025-01-22 19:36:11,306:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:11,307:      pdf_renderer.py:  470: printSegment: Tag-Along
+   DEBUG: 2025-01-22 19:36:11,307:      pdf_renderer.py:  470: printSegment: Right
+   DEBUG: 2025-01-22 19:36:11,308:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:11,408:      pdf_renderer.py:  470: printSegment: ), in each case as further described in this Article 7.3. In case there is more than one Other
+   DEBUG: 2025-01-22 19:36:11,485:      pdf_renderer.py:  470: printSegment: Shareholder, and unless the Other Shareholders otherwise agree and notify the Transferring
+   DEBUG: 2025-01-22 19:36:11,543:      pdf_renderer.py:  470: printSegment: Shareholder of such agreement, each Other Shareholder will have the Right of Refusal on a number
+   DEBUG: 2025-01-22 19:36:11,582:      pdf_renderer.py:  470: printSegment: of Offered Shares equal to the total number of Offered Shares multiplied by a fraction the numerator
+   DEBUG: 2025-01-22 19:36:11,607:      pdf_renderer.py:  470: printSegment: of which is the number of Shares owned by such Other Shareholder and the denominator of which is
+   DEBUG: 2025-01-22 19:36:11,619:      pdf_renderer.py:  470: printSegment: the total number of Shares of the same Class of Shares than such Other Shareholder. The Right of
+   DEBUG: 2025-01-22 19:36:11,625:      pdf_renderer.py:  470: printSegment: First Refusal can however only be validly exercised if it relates to all Offered Shares, whichever
+   DEBUG: 2025-01-22 19:36:11,626:      pdf_renderer.py:  470: printSegment: Other Shareholder exercises the Right of First Refusal for whichever number of Offered Shares.
+   DEBUG: 2025-01-22 19:36:11,626:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:11,632:      pdf_renderer.py:  470: printSegment: The RoFR / Tag Notice must contain the full name and address (or registered office) of the
+   DEBUG: 2025-01-22 19:36:11,633:      pdf_renderer.py:  470: printSegment: Prospective Transferee, as well as its ultimate beneficial owners, and the price per Share (the 
+   DEBUG: 2025-01-22 19:36:11,633:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:11,634:      pdf_renderer.py:  470: printSegment: Offered Consideration
+   DEBUG: 2025-01-22 19:36:11,634:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:11,635:      pdf_renderer.py:  470: printSegment: ) and any other conditions offered by the Prospective Transferee (the 
+   DEBUG: 2025-01-22 19:36:11,635:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:11,635:      pdf_renderer.py:  470: printSegment: Offered Conditions
+   DEBUG: 2025-01-22 19:36:11,636:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:11,637:      pdf_renderer.py:  470: printSegment: ), as well as a copy of the bona fide offer of the Prospective Transferee to the
+   DEBUG: 2025-01-22 19:36:11,637:      pdf_renderer.py:  470: printSegment: Transferring Shareholder.
+   DEBUG: 2025-01-22 19:36:11,638:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:11,654:      pdf_renderer.py:  470: printSegment: The RoFR / Tag Notice will constitute an irrevocable offer by the Transferring Shareholder to the
+   DEBUG: 2025-01-22 19:36:11,661:      pdf_renderer.py:  470: printSegment: Other Shareholder(s) to sell to such Other Shareholder(s), for the same consideration per Share as
+   DEBUG: 2025-01-22 19:36:11,664:      pdf_renderer.py:  470: printSegment: the Offered Consideration and subject to mutatis mutandis the same terms and conditions as the
+   DEBUG: 2025-01-22 19:36:11,664:      pdf_renderer.py:  470: printSegment: Offered Conditions, the Offered Shares.
+   DEBUG: 2025-01-22 19:36:11,665:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-01-22 19:36:11,665:      pdf_renderer.py:  470: printSegment: Each Other Shareholder will inform the Transferring Shareholder by written notice (the 
+   DEBUG: 2025-01-22 19:36:11,666:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:11,666:      pdf_renderer.py:  470: printSegment: Response
+   DEBUG: 2025-01-22 19:36:11,667:      pdf_renderer.py:  470: printSegment: Notice
+   DEBUG: 2025-01-22 19:36:11,667:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:11,668:      pdf_renderer.py:  470: printSegment: ) within twenty (20) Business Days following the date of the RoFR / Tag Notice (the 
+   DEBUG: 2025-01-22 19:36:11,668:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:11,669:      pdf_renderer.py:  470: printSegment: Response Deadline
+   DEBUG: 2025-01-22 19:36:11,669:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:11,732:      pdf_renderer.py:  470: printSegment: ) either that (x) it wishes to exercise its Right of First Refusal in respect of the
+   DEBUG: 2025-01-22 19:36:11,779:      pdf_renderer.py:  470: printSegment: Offered Shares (in which case sub-paragraph 7.3(e) will apply, subject to the applicable provisions
+   DEBUG: 2025-01-22 19:36:11,809:      pdf_renderer.py:  470: printSegment: of sub-paragraph 7.3(a)) or, if the Offered Shares amount to more than fifty percent (50 %) of all
+   DEBUG: 2025-01-22 19:36:11,827:      pdf_renderer.py:  470: printSegment: Shares owned by the Transferring Shareholder, (y) it wishes to exercise its Tag-Along Right (in
+   DEBUG: 2025-01-22 19:36:11,836:      pdf_renderer.py:  470: printSegment: which case sub-paragraph 7.3(f) will apply). The election made in the Response Notice will be final
+   DEBUG: 2025-01-22 19:36:11,839:      pdf_renderer.py:  470: printSegment: and irrevocable, provided that the Transfer of the Offered Shares is completed in accordance with
+   DEBUG: 2025-01-22 19:36:11,840:      pdf_renderer.py:  470: printSegment: the relevant provisions of this Article 7.3.
+   DEBUG: 2025-01-22 19:36:11,840:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2025-01-22 19:36:11,966:      pdf_renderer.py:  470: printSegment: If the Other Shareholder(s) has (have) elected, in its (their) Response Notice, to exercise its (their)
+   DEBUG: 2025-01-22 19:36:12,063:      pdf_renderer.py:  470: printSegment: Right of First Refusal, then such response will (i) constitute a final and irrevocable waiver in full by
+   DEBUG: 2025-01-22 19:36:12,137:      pdf_renderer.py:  470: printSegment: the Other Shareholder(s) of any applicable Tag-Along Right with respect to the Offered Shares, and,
+   DEBUG: 2025-01-22 19:36:12,189:      pdf_renderer.py:  470: printSegment: if the Right of First Refusal is validly exercised, (ii) constitute a binding agreement by the Other
+   DEBUG: 2025-01-22 19:36:12,224:      pdf_renderer.py:  470: printSegment: Shareholder(s) to purchase, at the Offered Consideration and subject to the Offered Conditions, the
+   DEBUG: 2025-01-22 19:36:12,245:      pdf_renderer.py:  470: printSegment: Offered Shares, and such Transfer will be completed, and the price therefor paid in full by the Other
+   DEBUG: 2025-01-22 19:36:12,255:      pdf_renderer.py:  470: printSegment: Shareholder(s), within ten (10) Business Days from the date of the Response Notice (which period
+   DEBUG: 2025-01-22 19:36:12,258:      pdf_renderer.py:  470: printSegment: may be extended, as the case may be, by such period of time as is necessary to obtain the approval
+   DEBUG: 2025-01-22 19:36:12,259:      pdf_renderer.py:  470: printSegment: of any competent competition or other regulatory authority).
+   DEBUG: 2025-01-22 19:36:12,260:      pdf_renderer.py:  470: printSegment:  6 
+   DEBUG: 2025-01-22 19:36:12,287:      pdf_renderer.py:  470: printSegment: If the Other Shareholder(s) has (have) elected, in its (their) Response Notice, to exercise its (their)
+   DEBUG: 2025-01-22 19:36:12,303:      pdf_renderer.py:  470: printSegment: Tag-Along Right (if any), the Transferring Shareholder will not effect the Transfer of the Offered
+   DEBUG: 2025-01-22 19:36:12,310:      pdf_renderer.py:  470: printSegment: Shares, unless the Prospective Transferee has first acquired from such Other Shareholder(s) all (and
+   DEBUG: 2025-01-22 19:36:12,311:      pdf_renderer.py:  470: printSegment: not less than all) of its (their) Shares at the Offered Consideration and subject to mutatis mutandis
+   DEBUG: 2025-01-22 19:36:12,312:      pdf_renderer.py:  470: printSegment: the Offered Conditions.
+   DEBUG: 2025-01-22 19:36:12,312:      pdf_renderer.py:  470: printSegment:  7 
+   DEBUG: 2025-01-22 19:36:12,656:      pdf_renderer.py:  470: printSegment: If, following the above procedure, the Other Shareholder(s) has (have) not (validly) exercised its
+   DEBUG: 2025-01-22 19:36:12,953:      pdf_renderer.py:  470: printSegment: (their) Right of First Refusal or its (their) Tag-along Right, has (have) not issued a Response Notice
+   DEBUG: 2025-01-22 19:36:13,206:      pdf_renderer.py:  470: printSegment: within the Response Deadline, or has (have) provided to the Transferring Shareholder a notice
+   DEBUG: 2025-01-22 19:36:13,418:      pdf_renderer.py:  470: printSegment: stating that it (they) does (do) not wish to exercise its (their) Right of First Refusal or its (their)
+   DEBUG: 2025-01-22 19:36:13,593:      pdf_renderer.py:  470: printSegment: Tag-along Right (if any), then the Transferring Shareholder will be entitled to complete, within a
+   DEBUG: 2025-01-22 19:36:13,733:      pdf_renderer.py:  470: printSegment: period of twenty (20) Business Days (which period may be extended, as the case may be, by such
+   DEBUG: 2025-01-22 19:36:13,845:      pdf_renderer.py:  470: printSegment: period of time as is necessary to obtain the approval of any competent competition or other
+   DEBUG: 2025-01-22 19:36:13,932:      pdf_renderer.py:  470: printSegment: regulatory authority) following the earlier of (i) the notice by the Other Shareholder(s) stating that it
+   DEBUG: 2025-01-22 19:36:13,994:      pdf_renderer.py:  470: printSegment: (they) does (do) not wish to exercise the Right of First Refusal or the Tag-along Right (if any) and
+   DEBUG: 2025-01-22 19:36:14,038:      pdf_renderer.py:  470: printSegment: (ii) the Response Deadline, the Transfer of the Offered Shares for the Offered Consideration per
+   DEBUG: 2025-01-22 19:36:14,065:      pdf_renderer.py:  470: printSegment: Share and at the Offered Conditions as set forth in the RoFR / Tag Notice. If such a completion has
+   DEBUG: 2025-01-22 19:36:14,080:      pdf_renderer.py:  470: printSegment: not taken place within the aforementioned twenty (20) Business Days period (as same may have
+   DEBUG: 2025-01-22 19:36:14,087:      pdf_renderer.py:  470: printSegment: been extended by such period of time as is necessary to obtain the approval of any competent
+   DEBUG: 2025-01-22 19:36:14,089:      pdf_renderer.py:  470: printSegment: competition or other regulatory authority), the procedure set forth in Article 7.3 must be repeated
+   DEBUG: 2025-01-22 19:36:14,089:      pdf_renderer.py:  470: printSegment: and complied with again.
+   DEBUG: 2025-01-22 19:36:14,090:      pdf_renderer.py:  470: printSegment: 7.4 Drag-Along Right
+   DEBUG: 2025-01-22 19:36:14,090:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:14,091:      pdf_renderer.py:  470: printSegment: If Shareholders holding at least sixty-six and two-thirds percent (66 2/3%) of the Shares (the 
+   DEBUG: 2025-01-22 19:36:14,091:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,092:      pdf_renderer.py:  470: printSegment: Transferring Shareholders
+   DEBUG: 2025-01-22 19:36:14,092:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,093:      pdf_renderer.py:  470: printSegment: ) wish to Transfer all of their Shares (the 
+   DEBUG: 2025-01-22 19:36:14,093:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,093:      pdf_renderer.py:  470: printSegment: Relevant Shares
+   DEBUG: 2025-01-22 19:36:14,094:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,094:      pdf_renderer.py:  470: printSegment: ) under a
+   DEBUG: 2025-01-22 19:36:14,095:      pdf_renderer.py:  470: printSegment: bona fide arm
+   DEBUG: 2025-01-22 19:36:14,095:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:14,095:      pdf_renderer.py:  470: printSegment: s length offer (a 
+   DEBUG: 2025-01-22 19:36:14,096:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,096:      pdf_renderer.py:  470: printSegment: Drag Along Offer
+   DEBUG: 2025-01-22 19:36:14,097:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,097:      pdf_renderer.py:  470: printSegment:  at the 
+   DEBUG: 2025-01-22 19:36:14,098:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,098:      pdf_renderer.py:  470: printSegment: Drag Along Price
+   DEBUG: 2025-01-22 19:36:14,098:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,099:      pdf_renderer.py:  470: printSegment: ) to one or more
+   DEBUG: 2025-01-22 19:36:14,099:      pdf_renderer.py:  470: printSegment: persons (a 
+   DEBUG: 2025-01-22 19:36:14,100:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,100:      pdf_renderer.py:  470: printSegment: Drag Along Purchaser
+   DEBUG: 2025-01-22 19:36:14,101:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,101:      pdf_renderer.py:  470: printSegment: ), then they have the option to require all of the other
+   DEBUG: 2025-01-22 19:36:14,102:      pdf_renderer.py:  470: printSegment: Shareholders (
+   DEBUG: 2025-01-22 19:36:14,102:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,103:      pdf_renderer.py:  470: printSegment: Dragged Shareholders
+   DEBUG: 2025-01-22 19:36:14,103:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,104:      pdf_renderer.py:  470: printSegment: ) to Transfer all of their Shares to the Drag Along Purchaser.
+   DEBUG: 2025-01-22 19:36:14,104:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:14,105:      pdf_renderer.py:  470: printSegment: The Transferring Shareholders may exercise the Drag-Along Right by giving a written notice (a 
+   DEBUG: 2025-01-22 19:36:14,105:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,106:      pdf_renderer.py:  470: printSegment: Drag Along Notice
+   DEBUG: 2025-01-22 19:36:14,106:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,107:      pdf_renderer.py:  470: printSegment: ) to the Dragged Shareholders specifying:
+   DEBUG: 2025-01-22 19:36:14,112:      pdf_renderer.py:  470: printSegment: (i) that the Dragged Shareholders are, or will be, required to Transfer their Shares under this Article
+   DEBUG: 2025-01-22 19:36:14,113:      pdf_renderer.py:  470: printSegment: to the Drag Along Purchaser, unless the Dragged Shareholders propose another purchaser (the 
+   DEBUG: 2025-01-22 19:36:14,113:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,114:      pdf_renderer.py:  470: printSegment: Second Drag Along Purchaser
+   DEBUG: 2025-01-22 19:36:14,114:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,124:      pdf_renderer.py:  470: printSegment: ) making, within eight (8) weeks after the Drag Along Notice, an
+   DEBUG: 2025-01-22 19:36:14,128:      pdf_renderer.py:  470: printSegment: unconditional offer to purchase the Relevant Shares and all of the Shares of the Dragged
+   DEBUG: 2025-01-22 19:36:14,129:      pdf_renderer.py:  470: printSegment: Shareholders at (at least) 101% of the Drag Along Price per Share (the 
+   DEBUG: 2025-01-22 19:36:14,130:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,130:      pdf_renderer.py:  470: printSegment: Second Drag Along Price
+   DEBUG: 2025-01-22 19:36:14,131:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,132:      pdf_renderer.py:  470: printSegment: )
+   DEBUG: 2025-01-22 19:36:14,132:      pdf_renderer.py:  470: printSegment: and under the same conditions as the Drag Along Offer (the 
+   DEBUG: 2025-01-22 19:36:14,133:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,133:      pdf_renderer.py:  470: printSegment: Second Drag Along Offer
+   DEBUG: 2025-01-22 19:36:14,134:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,134:      pdf_renderer.py:  470: printSegment: );
+   DEBUG: 2025-01-22 19:36:14,135:      pdf_renderer.py:  470: printSegment: (ii) on or about the date specified in the Drag Along Notice;
+   DEBUG: 2025-01-22 19:36:14,145:      pdf_renderer.py:  470: printSegment: (iii) or (if no date is specified), on or about any date that the Transferring Shareholders specify by
+   DEBUG: 2025-01-22 19:36:14,147:      pdf_renderer.py:  470: printSegment: notice in writing, which in either case shall not be less than fifteen (15) Business Days after the date
+   DEBUG: 2025-01-22 19:36:14,148:      pdf_renderer.py:  470: printSegment: of the Drag Along Notice; and
+   DEBUG: 2025-01-22 19:36:14,157:      pdf_renderer.py:  470: printSegment: (iv) the estimated Drag Along Price (or the means by which the Drag Along Price will be
+   DEBUG: 2025-01-22 19:36:14,160:      pdf_renderer.py:  470: printSegment: calculated), which shall be not less than the price per Share offered or proposed to be offered to the
+   DEBUG: 2025-01-22 19:36:14,161:      pdf_renderer.py:  470: printSegment: Transferring Shareholders under the Drag Along Offer.
+   DEBUG: 2025-01-22 19:36:14,162:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:14,225:      pdf_renderer.py:  470: printSegment: If the Second Drag Along Purchaser does not pay the Second Drag Along Price per Share for the
+   DEBUG: 2025-01-22 19:36:14,269:      pdf_renderer.py:  470: printSegment: Relevant Shares and all of the Shares of the Dragged Shareholders, to the Transferring Shareholders
+   DEBUG: 2025-01-22 19:36:14,298:      pdf_renderer.py:  470: printSegment: and the Dragged Shareholders, within one (1) week after the Second Drag Along Offer, the Second
+   DEBUG: 2025-01-22 19:36:14,314:      pdf_renderer.py:  470: printSegment: Drag Along Offer will be deemed to be invalid or revoked, in which case all of the Shares of the
+   DEBUG: 2025-01-22 19:36:14,321:      pdf_renderer.py:  470: printSegment: Dragged Shareholders will be deemed to have been Transferred to the Drag Along Purchaser at the
+   DEBUG: 2025-01-22 19:36:14,323:      pdf_renderer.py:  470: printSegment: Drag Along Price per Share offered or proposed to be offered to the Transferring Shareholders under
+   DEBUG: 2025-01-22 19:36:14,324:      pdf_renderer.py:  470: printSegment: the Drag Along Offer.
+   DEBUG: 2025-01-22 19:36:14,324:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-01-22 19:36:14,328:      pdf_renderer.py:  470: printSegment: Nothing in this paragraph obliges the Transferring Shareholders or a Dragged Shareholder when
+   DEBUG: 2025-01-22 19:36:14,329:      pdf_renderer.py:  470: printSegment: transferring Shares under this Article to comply with Article 7.3 (Tag Along).
+   DEBUG: 2025-01-22 19:36:14,330:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2025-01-22 19:36:14,331:      pdf_renderer.py:  470: printSegment: For the avoidance of doubt:
+   DEBUG: 2025-01-22 19:36:14,331:      pdf_renderer.py:  470: printSegment: (i) the Transferring Shareholders may serve a Drag Along Notice more than once; and
+   DEBUG: 2025-01-22 19:36:14,338:      pdf_renderer.py:  470: printSegment: (ii) a Drag Along Notice may be revoked at any time by the Transferring Shareholders giving
+   DEBUG: 2025-01-22 19:36:14,339:      pdf_renderer.py:  470: printSegment: written notice to the Company before the proposed Transfer of Shares to the Drag Along Purchaser
+   DEBUG: 2025-01-22 19:36:14,340:      pdf_renderer.py:  470: printSegment: becomes wholly unconditional.
+   DEBUG: 2025-01-22 19:36:14,340:      pdf_renderer.py:  470: printSegment: 7.5 Permitted Transfers
+   DEBUG: 2025-01-22 19:36:14,348:      pdf_renderer.py:  470: printSegment: The Parties agree that the following Transfers will not be subject to any of the Transfer restrictions provided for in
+   DEBUG: 2025-01-22 19:36:14,349:      pdf_renderer.py:  470: printSegment: Articles 7.2 or 7.3 (but, for the avoidance of doubt, will still be subject to the provisions of Article 7.1):
+   DEBUG: 2025-01-22 19:36:14,349:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:14,391:      pdf_renderer.py:  470: printSegment: a Transfer of Shares by a Shareholder for estate planning or tax planning purposes to a legal entity
+   DEBUG: 2025-01-22 19:36:14,418:      pdf_renderer.py:  470: printSegment: which is Controlled by the Existing Shareholder, provided that the Shareholder undertakes to
+   DEBUG: 2025-01-22 19:36:14,433:      pdf_renderer.py:  470: printSegment: procure that, in the event such legal entity would cease to be Controlled by the Existing Shareholder,
+   DEBUG: 2025-01-22 19:36:14,440:      pdf_renderer.py:  470: printSegment: such legal entity will re-Transfer prior to ceasing to be so Controlled the relevant Shares held by it to
+   DEBUG: 2025-01-22 19:36:14,441:      pdf_renderer.py:  470: printSegment: the initial Transferring Shareholder or any other legal entity which is Controlled by the Existing
+   DEBUG: 2025-01-22 19:36:14,441:      pdf_renderer.py:  470: printSegment: Shareholder;
+   DEBUG: 2025-01-22 19:36:14,441:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:14,442:      pdf_renderer.py:  470: printSegment: a Transfer of Shares by a Shareholder resulting from the exercise of a Good Leaver Option or a Bad
+   DEBUG: 2025-01-22 19:36:14,443:      pdf_renderer.py:  470: printSegment: Leaver Option.
+   DEBUG: 2025-01-22 19:36:14,443:      pdf_renderer.py:  470: printSegment: 7.6 Transfer terms
+   DEBUG: 2025-01-22 19:36:14,448:      pdf_renderer.py:  470: printSegment: Any Shares Transferred or to be Transferred pursuant to the provisions of this Agreement will be Transferred
+   DEBUG: 2025-01-22 19:36:14,448:      pdf_renderer.py:  470: printSegment: together with all rights attaching to them and free from any Encumbrances.
+   DEBUG: 2025-01-22 19:36:14,449:      pdf_renderer.py:  470: printSegment: 7.7 Cooperation and assistance
+   DEBUG: 2025-01-22 19:36:14,490:      pdf_renderer.py:  470: printSegment: If a holder of a Class of Shares desires to Transfer all or part of its Shares and the Other Shareholder did not exercise
+   DEBUG: 2025-01-22 19:36:14,513:      pdf_renderer.py:  470: printSegment: its Right of First Offer pursuant to Article 7.2, the Other Shareholder and the Company will give, and will cause the
+   DEBUG: 2025-01-22 19:36:14,525:      pdf_renderer.py:  470: printSegment: Group Companies to give, such reasonable co-operation and assistance as the Transferring Shareholder may
+   DEBUG: 2025-01-22 19:36:14,530:      pdf_renderer.py:  470: printSegment: reasonably request, including the preparation of an information memorandum and vendor due diligence reports and
+   DEBUG: 2025-01-22 19:36:14,531:      pdf_renderer.py:  470: printSegment: the giving of presentations to potential buyers, investors, financiers and their advisers.
+   DEBUG: 2025-01-22 19:36:14,532:      pdf_renderer.py:  470: printSegment: 7.8 Change in control of a shareholding company
+   DEBUG: 2025-01-22 19:36:14,550:      pdf_renderer.py:  470: printSegment: If a Shareholder is a company, any change in control of this shareholding company will be deemed to be a Transfer
+   DEBUG: 2025-01-22 19:36:14,558:      pdf_renderer.py:  470: printSegment: of the Shares held by this shareholding company, and the shareholding company will in such case comply with the
+   DEBUG: 2025-01-22 19:36:14,559:      pdf_renderer.py:  470: printSegment: articles related to Share Transfers and Transfer restrictions as if the Shares would be transferred to a third party.
+   DEBUG: 2025-01-22 19:36:14,559:      pdf_renderer.py:  470: printSegment: 7.9 Bad Leaver Call Option
+   DEBUG: 2025-01-22 19:36:14,576:      pdf_renderer.py:  470: printSegment: The Company has the right to purchase all shares held by a Shareholder (the “Bad Leaver”), and this Bad Leaver is
+   DEBUG: 2025-01-22 19:36:14,582:      pdf_renderer.py:  470: printSegment: obliged to sell all of his shares to the Company at the Bad Leaver Price, in one or more of the following situations
+   DEBUG: 2025-01-22 19:36:14,583:      pdf_renderer.py:  470: printSegment: (the “Bad Leaver Situations”), by giving notice to the Bad Leaver of the Company
+   DEBUG: 2025-01-22 19:36:14,583:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:14,584:      pdf_renderer.py:  470: printSegment: s intention to purchase the shares (the
+   DEBUG: 2025-01-22 19:36:14,585:      pdf_renderer.py:  470: printSegment: “Bad Leaver Call Option Notice”):
+   DEBUG: 2025-01-22 19:36:14,585:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:14,587:      pdf_renderer.py:  470: printSegment: If the Bad Leaver’s employment or service agreement is terminated by the Company (or an affiliate of
+   DEBUG: 2025-01-22 19:36:14,587:      pdf_renderer.py:  470: printSegment: the Company) for Cause;
+   DEBUG: 2025-01-22 19:36:14,588:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:14,597:      pdf_renderer.py:  470: printSegment: If the Bad Leaver’s employment or service agreement is terminated by the Bad Leaver without the
+   DEBUG: 2025-01-22 19:36:14,600:      pdf_renderer.py:  470: printSegment: consent of the Company (or an affiliate of the Company) and without Good Reason on or prior to
+   DEBUG: 2025-01-22 19:36:14,600:      pdf_renderer.py:  470: printSegment: the third anniversary of this Agreement; or
+   DEBUG: 2025-01-22 19:36:14,601:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:14,626:      pdf_renderer.py:  470: printSegment: If the Bad Leaver materially breaches any of the covenants included in this Agreement or in his
+   DEBUG: 2025-01-22 19:36:14,640:      pdf_renderer.py:  470: printSegment: employment or service agreement and does not cure such breach within fifteen (15) days of written
+   DEBUG: 2025-01-22 19:36:14,646:      pdf_renderer.py:  470: printSegment: notice from the Company (or an affiliate of the Company) or the Company (or an affiliate of the
+   DEBUG: 2025-01-22 19:36:14,647:      pdf_renderer.py:  470: printSegment: Company) becomes aware of the Bad Leaver’s willful breach of any of the aforementioned covenants.
+   DEBUG: 2025-01-22 19:36:14,648:      pdf_renderer.py:  470: printSegment: The shares will be transferred to the Company on the date of the Bad Leaver Call Option Notice.
+   DEBUG: 2025-01-22 19:36:14,650:      pdf_renderer.py:  470: printSegment: The Bad Leaver Price will be paid to the Bad Leaver amortized over sixteen (16) quarterly payments following the
+   DEBUG: 2025-01-22 19:36:14,651:      pdf_renderer.py:  470: printSegment: date of the Bad Leaver Call Option Notice.
+   DEBUG: 2025-01-22 19:36:14,651:      pdf_renderer.py:  470: printSegment: 7.10 Good Leaver Call Option
+   DEBUG: 2025-01-22 19:36:14,669:      pdf_renderer.py:  470: printSegment: The Company has the right to purchase all shares held by a Shareholder (the “Good Leaver”), and this Good Leaver is
+   DEBUG: 2025-01-22 19:36:14,674:      pdf_renderer.py:  470: printSegment: obliged to sell all of his shares to the Company at the Good Leaver Price, in one or more of the following situations
+   DEBUG: 2025-01-22 19:36:14,675:      pdf_renderer.py:  470: printSegment: (the “Good Leaver Situations”), by giving notice to the Good Leaver of the Company
+   DEBUG: 2025-01-22 19:36:14,675:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:14,677:      pdf_renderer.py:  470: printSegment: s intention to purchase the shares
+   DEBUG: 2025-01-22 19:36:14,677:      pdf_renderer.py:  470: printSegment: (the “Good Leaver Call Option Notice”):
+   DEBUG: 2025-01-22 19:36:14,677:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:14,679:      pdf_renderer.py:  470: printSegment: If the Good Leaver’s employment or service agreement is terminated by the Company (or an affiliate
+   DEBUG: 2025-01-22 19:36:14,680:      pdf_renderer.py:  470: printSegment: of the Company) without Cause;
+   DEBUG: 2025-01-22 19:36:14,680:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:14,695:      pdf_renderer.py:  470: printSegment: If the Good Leaver’s employment or service agreement is terminated by the Good Leaver with the
+   DEBUG: 2025-01-22 19:36:14,701:      pdf_renderer.py:  470: printSegment: consent of the Company (or an affiliate of the Company) or with Good Reason on or prior to the
+   DEBUG: 2025-01-22 19:36:14,702:      pdf_renderer.py:  470: printSegment: third anniversary of this Agreement or without Good Reason after the third anniversary of this
+   DEBUG: 2025-01-22 19:36:14,703:      pdf_renderer.py:  470: printSegment: Agreement; or
+   DEBUG: 2025-01-22 19:36:14,703:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:14,704:      pdf_renderer.py:  470: printSegment: In case of death, permanent disability or retirement of the Good Leaver.
+   DEBUG: 2025-01-22 19:36:14,704:      pdf_renderer.py:  470: printSegment: The shares will be transferred to the Company on the date of the Good Leaver Call Option Notice.
+   DEBUG: 2025-01-22 19:36:14,730:      pdf_renderer.py:  470: printSegment: The Good Leaver Price will be paid to the Good Leaver amortized over eight (8) quarterly payments following the
+   DEBUG: 2025-01-22 19:36:14,743:      pdf_renderer.py:  470: printSegment: date of the Good Leaver Call Option Notice. If during this payment period the Good Leaver is employed by a
+   DEBUG: 2025-01-22 19:36:14,746:      pdf_renderer.py:  470: printSegment: competitor of the Company or if any other Bad Leaver Situations would apply, the Good Leaver Price will not be
+   DEBUG: 2025-01-22 19:36:14,747:      pdf_renderer.py:  470: printSegment: due any more, and the Bad Leaver Price will apply.
+   DEBUG: 2025-01-22 19:36:14,747:      pdf_renderer.py:  470: printSegment: 7.11 Dilution Protection
+   DEBUG: 2025-01-22 19:36:14,748:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:14,748:      pdf_renderer.py:  470: printSegment: In the event the Company proposes to issue additional shares (
+   DEBUG: 2025-01-22 19:36:14,749:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,749:      pdf_renderer.py:  470: printSegment: New Shares
+   DEBUG: 2025-01-22 19:36:14,749:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,750:      pdf_renderer.py:  470: printSegment: ), each existing
+   DEBUG: 2025-01-22 19:36:14,750:      pdf_renderer.py:  470: printSegment: Shareholder (
+   DEBUG: 2025-01-22 19:36:14,750:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,751:      pdf_renderer.py:  470: printSegment: Existing Shareholder
+   DEBUG: 2025-01-22 19:36:14,751:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,756:      pdf_renderer.py:  470: printSegment: ) shall be granted the right, but not the obligation, to subscribe
+   DEBUG: 2025-01-22 19:36:14,757:      pdf_renderer.py:  470: printSegment: for New Shares on a pro rata basis to maintain their existing ownership percentage in the Company (
+   DEBUG: 2025-01-22 19:36:14,757:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,758:      pdf_renderer.py:  470: printSegment: Dilution Protection Right
+   DEBUG: 2025-01-22 19:36:14,758:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,759:      pdf_renderer.py:  470: printSegment: ).
+   DEBUG: 2025-01-22 19:36:14,759:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:14,759:      pdf_renderer.py:  470: printSegment: The Company shall provide written notice (
+   DEBUG: 2025-01-22 19:36:14,760:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,760:      pdf_renderer.py:  470: printSegment: Dilution Notice
+   DEBUG: 2025-01-22 19:36:14,761:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,772:      pdf_renderer.py:  470: printSegment: ) to all Existing Shareholders at least
+   DEBUG: 2025-01-22 19:36:14,779:      pdf_renderer.py:  470: printSegment: twenty (20) Business Days prior to the planned issuance of any New Shares. The Dilution Notice
+   DEBUG: 2025-01-22 19:36:14,781:      pdf_renderer.py:  470: printSegment: shall include the terms and conditions under which the New Shares will be issued, including the
+   DEBUG: 2025-01-22 19:36:14,781:      pdf_renderer.py:  470: printSegment: price per share (
+   DEBUG: 2025-01-22 19:36:14,782:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,782:      pdf_renderer.py:  470: printSegment: Issuance Terms
+   DEBUG: 2025-01-22 19:36:14,783:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,783:      pdf_renderer.py:  470: printSegment: ).
+   DEBUG: 2025-01-22 19:36:14,783:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:14,788:      pdf_renderer.py:  470: printSegment: Each Existing Shareholder shall have the right to exercise their Dilution Protection Right within ten
+   DEBUG: 2025-01-22 19:36:14,789:      pdf_renderer.py:  470: printSegment: (10) Business Days from receipt of the Dilution Notice by providing written notice (
+   DEBUG: 2025-01-22 19:36:14,789:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,790:      pdf_renderer.py:  470: printSegment: Exercise
+   DEBUG: 2025-01-22 19:36:14,790:      pdf_renderer.py:  470: printSegment: Notice
+   DEBUG: 2025-01-22 19:36:14,791:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,796:      pdf_renderer.py:  470: printSegment: ) to the Company. Failure to submit an Exercise Notice within the specified timeframe shall
+   DEBUG: 2025-01-22 19:36:14,797:      pdf_renderer.py:  470: printSegment: be deemed a waiver of the Dilution Protection Right for that specific issuance of New Shares.
+   DEBUG: 2025-01-22 19:36:14,797:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-01-22 19:36:14,810:      pdf_renderer.py:  470: printSegment: If the Dilution Protection Right is not exercised by an Existing Shareholder within the specified
+   DEBUG: 2025-01-22 19:36:14,815:      pdf_renderer.py:  470: printSegment: timeframe or is otherwise waived, the Company shall be free to issue the New Shares to third parties
+   DEBUG: 2025-01-22 19:36:14,816:      pdf_renderer.py:  470: printSegment: in accordance with the Issuance Terms, subject to the other provisions of this Agreement.
+   DEBUG: 2025-01-22 19:36:14,817:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2025-01-22 19:36:14,818:      pdf_renderer.py:  470: printSegment: (Reserved for further clauses if needed.)
+   DEBUG: 2025-01-22 19:36:14,819:      pdf_renderer.py:  470: printSegment: 7.12 Exit-Strategy
+   DEBUG: 2025-01-22 19:36:14,820:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:14,821:      pdf_renderer.py:  470: printSegment: General Provision
+   DEBUG: 2025-01-22 19:36:14,821:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:14,827:      pdf_renderer.py:  470: printSegment: (i) The Shareholders acknowledge that an Exit Event may be beneficial for the future growth and
+   DEBUG: 2025-01-22 19:36:14,828:      pdf_renderer.py:  470: printSegment: value creation of the Company. This section outlines the framework and procedures for a potential
+   DEBUG: 2025-01-22 19:36:14,828:      pdf_renderer.py:  470: printSegment: exit.
+   DEBUG: 2025-01-22 19:36:14,829:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:14,829:      pdf_renderer.py:  470: printSegment: Exit Approval
+   DEBUG: 2025-01-22 19:36:14,830:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:14,831:      pdf_renderer.py:  470: printSegment: (i) Any Exit Event must be approved by a Supermajority of Shareholders, as defined in Section
+   DEBUG: 2025-01-22 19:36:14,831:      pdf_renderer.py:  470: printSegment: 4.2(b).
+   DEBUG: 2025-01-22 19:36:14,834:      pdf_renderer.py:  470: printSegment: (ii) The Board of Directors will be responsible for evaluating any potential exit opportunities and
+   DEBUG: 2025-01-22 19:36:14,835:      pdf_renderer.py:  470: printSegment: will present their recommendations to the General Shareholders
+   DEBUG: 2025-01-22 19:36:14,835:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:14,835:      pdf_renderer.py:  470: printSegment:  Meeting for approval.
+   DEBUG: 2025-01-22 19:36:14,836:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:14,836:      pdf_renderer.py:  470: printSegment: Exit Execution
+   DEBUG: 2025-01-22 19:36:14,836:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:14,838:      pdf_renderer.py:  470: printSegment: (i) Upon approval of an Exit Event, the Directors will appoint a committee or engage external
+   DEBUG: 2025-01-22 19:36:14,839:      pdf_renderer.py:  470: printSegment: advisors to execute the exit strategy.
+   DEBUG: 2025-01-22 19:36:14,841:      pdf_renderer.py:  470: printSegment: (ii) The committee or external advisors will be responsible for carrying out due diligence,
+   DEBUG: 2025-01-22 19:36:14,842:      pdf_renderer.py:  470: printSegment: negotiating terms, and finalizing the exit transaction.
+   DEBUG: 2025-01-22 19:36:14,842:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-01-22 19:36:14,843:      pdf_renderer.py:  470: printSegment: Shareholder Obligations
+   DEBUG: 2025-01-22 19:36:14,843:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:14,846:      pdf_renderer.py:  470: printSegment: (i) All Shareholders are obliged to cooperate fully during the exit process, including but not limited
+   DEBUG: 2025-01-22 19:36:14,847:      pdf_renderer.py:  470: printSegment: to, providing necessary documentation and adhering to confidentiality agreements.
+   DEBUG: 2025-01-22 19:36:14,847:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2025-01-22 19:36:14,848:      pdf_renderer.py:  470: printSegment: Distribution of Proceeds
+   DEBUG: 2025-01-22 19:36:14,848:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:14,849:      pdf_renderer.py:  470: printSegment: (i) The proceeds from the Exit Event will be distributed to the Shareholders in proportion to their
+   DEBUG: 2025-01-22 19:36:14,849:      pdf_renderer.py:  470: printSegment: shareholding.
+   DEBUG: 2025-01-22 19:36:14,850:      pdf_renderer.py:  470: printSegment: 8. NON-COMPETE, NON-SOLICITATION, NON-DISPARAGEMENT
+   DEBUG: 2025-01-22 19:36:14,850:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:14,858:      pdf_renderer.py:  470: printSegment: Each of the Shareholders undertakes that it will, for a period starting on the Date of this Agreement
+   DEBUG: 2025-01-22 19:36:14,860:      pdf_renderer.py:  470: printSegment: ending on the date falling two (2) years after the date upon which the Shareholders no longer own
+   DEBUG: 2025-01-22 19:36:14,860:      pdf_renderer.py:  470: printSegment: any Shares (the 
+   DEBUG: 2025-01-22 19:36:14,861:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,861:      pdf_renderer.py:  470: printSegment: Restricted Time
+   DEBUG: 2025-01-22 19:36:14,861:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,868:      pdf_renderer.py:  470: printSegment: ), not directly or indirectly, either on its own account or in
+   DEBUG: 2025-01-22 19:36:14,871:      pdf_renderer.py:  470: printSegment: conjunction with or on behalf of or through any other Person (including any Persons related to the
+   DEBUG: 2025-01-22 19:36:14,872:      pdf_renderer.py:  470: printSegment: relevant Shareholder or any of its Affiliates):
+   DEBUG: 2025-01-22 19:36:14,872:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:14,880:      pdf_renderer.py:  470: printSegment: carry on, participate in, finance, fund or be engaged, concerned or otherwise
+   DEBUG: 2025-01-22 19:36:14,883:      pdf_renderer.py:  470: printSegment: interested, whether as shareholder, director, partner, sponsor, agent or otherwise, in
+   DEBUG: 2025-01-22 19:36:14,884:      pdf_renderer.py:  470: printSegment: any business similar to the Business of the Company (the 
+   DEBUG: 2025-01-22 19:36:14,884:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,885:      pdf_renderer.py:  470: printSegment: Restricted Business
+   DEBUG: 2025-01-22 19:36:14,885:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:14,889:      pdf_renderer.py:  470: printSegment: ), in
+   DEBUG: 2025-01-22 19:36:14,891:      pdf_renderer.py:  470: printSegment: any jurisdiction within which the Company may at any time during such period
+   DEBUG: 2025-01-22 19:36:14,892:      pdf_renderer.py:  470: printSegment: engage in the Restricted Business (the “Restricted Regions”);
+   DEBUG: 2025-01-22 19:36:14,892:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:14,947:      pdf_renderer.py:  470: printSegment: solicit or approach or cause to be solicited or approached any Person which will be
+   DEBUG: 2025-01-22 19:36:14,985:      pdf_renderer.py:  470: printSegment: during the Restricted Time, or which has at any time during the five (5) years prior
+   DEBUG: 2025-01-22 19:36:15,011:      pdf_renderer.py:  470: printSegment: to the Date of this Agreement been, a customer or a prospective customer of the
+   DEBUG: 2025-01-22 19:36:15,026:      pdf_renderer.py:  470: printSegment: Company or in the habit of dealing with the Company, for the purpose of offering to
+   DEBUG: 2025-01-22 19:36:15,035:      pdf_renderer.py:  470: printSegment: that Person services which compete with the Restricted Business or enter into any
+   DEBUG: 2025-01-22 19:36:15,038:      pdf_renderer.py:  470: printSegment: contract for the delivery of services with, or accept business from, any such Person
+   DEBUG: 2025-01-22 19:36:15,039:      pdf_renderer.py:  470: printSegment: in relation to any such services, in the Restricted Regions;
+   DEBUG: 2025-01-22 19:36:15,039:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:15,064:      pdf_renderer.py:  470: printSegment: solicit or entice away or attempt to solicit or entice away from the Company, offer
+   DEBUG: 2025-01-22 19:36:15,078:      pdf_renderer.py:  470: printSegment: employment to or employ, or offer to conclude any contract of services with, any
+   DEBUG: 2025-01-22 19:36:15,085:      pdf_renderer.py:  470: printSegment: Person which will be during the Restricted Time, or which has at any time during
+   DEBUG: 2025-01-22 19:36:15,087:      pdf_renderer.py:  470: printSegment: the five (5) years prior to the Date of this Agreement been, employed by, or engaged
+   DEBUG: 2025-01-22 19:36:15,088:      pdf_renderer.py:  470: printSegment: as a consultant to the Company;
+   DEBUG: 2025-01-22 19:36:15,088:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-01-22 19:36:15,113:      pdf_renderer.py:  470: printSegment: make use of or disclose or divulge (other than as required by applicable law or any
+   DEBUG: 2025-01-22 19:36:15,128:      pdf_renderer.py:  470: printSegment: competent regulatory body) to any Person (other than to officers or employees of
+   DEBUG: 2025-01-22 19:36:15,136:      pdf_renderer.py:  470: printSegment: any Group Company whose province it is to know the same) any information of a
+   DEBUG: 2025-01-22 19:36:15,140:      pdf_renderer.py:  470: printSegment: secret or confidential nature relating to the Company, the identity of their customers,
+   DEBUG: 2025-01-22 19:36:15,140:      pdf_renderer.py:  470: printSegment: suppliers, finances, contractual arrangements, business or methods of business;
+   DEBUG: 2025-01-22 19:36:15,141:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2025-01-22 19:36:15,149:      pdf_renderer.py:  470: printSegment: if, in connection with the Restricted Business, it will have obtained confidential
+   DEBUG: 2025-01-22 19:36:15,153:      pdf_renderer.py:  470: printSegment: information belonging to any third party under an agreement purporting to bind the
+   DEBUG: 2025-01-22 19:36:15,153:      pdf_renderer.py:  470: printSegment: Company which contained restrictions on disclosure, infringe such restrictions; or
+   DEBUG: 2025-01-22 19:36:15,154:      pdf_renderer.py:  470: printSegment:  6 
+   DEBUG: 2025-01-22 19:36:15,162:      pdf_renderer.py:  470: printSegment: use a trade name, trade or service mark, design or logo in such a way as to be
+   DEBUG: 2025-01-22 19:36:15,165:      pdf_renderer.py:  470: printSegment: capable of or likely to be confused with any trade name, trade or service mark,
+   DEBUG: 2025-01-22 19:36:15,166:      pdf_renderer.py:  470: printSegment: design or logo of the Company (whether registered or not).
+   DEBUG: 2025-01-22 19:36:15,167:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:15,192:      pdf_renderer.py:  470: printSegment: The Shareholders undertake not to pursue any opportunity for, nor to acquire, any investment in any
+   DEBUG: 2025-01-22 19:36:15,206:      pdf_renderer.py:  470: printSegment: business similar to the Restricted Business in any country other than the countries covered by the
+   DEBUG: 2025-01-22 19:36:15,212:      pdf_renderer.py:  470: printSegment: Restricted Business, unless such opportunity or acquisition has first been offered to the Company
+   DEBUG: 2025-01-22 19:36:15,213:      pdf_renderer.py:  470: printSegment: and the Company has formally decided not to pursue such opportunity or to enter into such
+   DEBUG: 2025-01-22 19:36:15,213:      pdf_renderer.py:  470: printSegment: acquisition.
+   DEBUG: 2025-01-22 19:36:15,213:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:15,251:      pdf_renderer.py:  470: printSegment: The Shareholders will not, for a period starting on the Date of this Agreement ending on the date
+   DEBUG: 2025-01-22 19:36:15,274:      pdf_renderer.py:  470: printSegment: falling ten (10) years after the date upon which the Shareholders no longer own any Shares, at any
+   DEBUG: 2025-01-22 19:36:15,286:      pdf_renderer.py:  470: printSegment: time, directly or indirectly, make, publish or communicate to any person or entity or in any public
+   DEBUG: 2025-01-22 19:36:15,292:      pdf_renderer.py:  470: printSegment: forum any defamatory or disparaging remarks, comments, or statements concerning the Company or
+   DEBUG: 2025-01-22 19:36:15,292:      pdf_renderer.py:  470: printSegment: its businesses, or any of its employees, officers, shareholders, members or advisors, or any Director.
+   DEBUG: 2025-01-22 19:36:15,371:      pdf_renderer.py:  470: printSegment: This obligation does not, in any way, restrict or impede the Shareholders from exercising protected
+   DEBUG: 2025-01-22 19:36:15,429:      pdf_renderer.py:  470: printSegment: rights to the extent that such rights cannot be waived by agreement or from complying with any
+   DEBUG: 2025-01-22 19:36:15,469:      pdf_renderer.py:  470: printSegment: applicable law or regulation or a valid order of a court of competent jurisdiction or an authorized
+   DEBUG: 2025-01-22 19:36:15,495:      pdf_renderer.py:  470: printSegment: government agency, provided that such compliance does not exceed that required by the law,
+   DEBUG: 2025-01-22 19:36:15,510:      pdf_renderer.py:  470: printSegment: regulation, or order. The Shareholders shall promptly provide written notice of any such order to the
+   DEBUG: 2025-01-22 19:36:15,516:      pdf_renderer.py:  470: printSegment: Director(s). The Company agrees and covenants that it shall cause its officers and directors to refrain
+   DEBUG: 2025-01-22 19:36:15,518:      pdf_renderer.py:  470: printSegment: from making any defamatory or disparaging remarks, comments, or statements concerning the
+   DEBUG: 2025-01-22 19:36:15,519:      pdf_renderer.py:  470: printSegment: Shareholder to any third parties.
+   DEBUG: 2025-01-22 19:36:15,519:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-01-22 19:36:15,547:      pdf_renderer.py:  470: printSegment: In case of breach of the aforementioned non-compete, non-solicit and non-disparagement
+   DEBUG: 2025-01-22 19:36:15,563:      pdf_renderer.py:  470: printSegment: obligations, the Shareholder shall be liable for payment of lump sum damages equal to 20.000 € per
+   DEBUG: 2025-01-22 19:36:15,576:      pdf_renderer.py:  470: printSegment: breach plus 500 € per day that the breach has not been cured, without prejudice, however, to the
+   DEBUG: 2025-01-22 19:36:15,577:      pdf_renderer.py:  470: printSegment: Company’s right to claim additional damages, upon proof of the existence and the amount of such
+   DEBUG: 2025-01-22 19:36:15,578:      pdf_renderer.py:  470: printSegment: additional damages
+   DEBUG: 2025-01-22 19:36:15,578:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2025-01-22 19:36:15,655:      pdf_renderer.py:  470: printSegment: While the restrictions contained in this Article 7 are considered by the Parties to be reasonable to
+   DEBUG: 2025-01-22 19:36:15,709:      pdf_renderer.py:  470: printSegment: protect the legitimate interests of the Parties and each Group Company, it is hereby agreed and
+   DEBUG: 2025-01-22 19:36:15,745:      pdf_renderer.py:  470: printSegment: declared that if any of such restrictions would be adjudged to be void as going beyond what is
+   DEBUG: 2025-01-22 19:36:15,768:      pdf_renderer.py:  470: printSegment: reasonable in all the circumstances for the protection of the interests of the relevant Parties but
+   DEBUG: 2025-01-22 19:36:15,780:      pdf_renderer.py:  470: printSegment: would be valid if part of the wording thereof were deleted or the periods thereof reduced or the
+   DEBUG: 2025-01-22 19:36:15,784:      pdf_renderer.py:  470: printSegment: range of activities or area dealt with thereby reduced in scope, the said restriction will apply with
+   DEBUG: 2025-01-22 19:36:15,785:      pdf_renderer.py:  470: printSegment: such modifications as may be necessary to make it valid and effective.
+   DEBUG: 2025-01-22 19:36:15,785:      pdf_renderer.py:  470: printSegment:  6 
+   DEBUG: 2025-01-22 19:36:15,786:      pdf_renderer.py:  470: printSegment: Intellectual Property Ownership.
+   DEBUG: 2025-01-22 19:36:15,918:      pdf_renderer.py:  470: printSegment:  All intellectual property (including but not limited to patents,
+   DEBUG: 2025-01-22 19:36:16,031:      pdf_renderer.py:  470: printSegment: copyrights, trademarks, designs, source code, inventions, know-how, and trade secrets) created,
+   DEBUG: 2025-01-22 19:36:16,118:      pdf_renderer.py:  470: printSegment: developed, or reduced to practice by any Shareholder, employee, or contractor (i) in the course of
+   DEBUG: 2025-01-22 19:36:16,182:      pdf_renderer.py:  470: printSegment: performing services for the Company or (ii) using the Company’s resources or confidential
+   DEBUG: 2025-01-22 19:36:16,226:      pdf_renderer.py:  470: printSegment: information, shall be deemed “Company IP” and shall be the exclusive property of the Company. Each
+   DEBUG: 2025-01-22 19:36:16,255:      pdf_renderer.py:  470: printSegment: Shareholder undertakes to (and shall cause its affiliates, employees, or contractors to) promptly
+   DEBUG: 2025-01-22 19:36:16,272:      pdf_renderer.py:  470: printSegment: disclose such Company IP to the Company, execute all documents, and perform all acts that the
+   DEBUG: 2025-01-22 19:36:16,280:      pdf_renderer.py:  470: printSegment: Company may reasonably request to perfect, register, or defend its rights in the Company IP. Unless
+   DEBUG: 2025-01-22 19:36:16,282:      pdf_renderer.py:  470: printSegment: explicitly authorized in writing by the Company, no Shareholder shall retain or claim any right or
+   DEBUG: 2025-01-22 19:36:16,283:      pdf_renderer.py:  470: printSegment: license to the Company IP.
+   DEBUG: 2025-01-22 19:36:16,284:      pdf_renderer.py:  470: printSegment: 9. TERM AND TERMINATION
+   DEBUG: 2025-01-22 19:36:16,285:      pdf_renderer.py:  470: printSegment: 9.1 Term
+   DEBUG: 2025-01-22 19:36:16,291:      pdf_renderer.py:  470: printSegment: Without prejudice to the (longer) duration of similar provisions in the Articles of Association, this Agreement is
+   DEBUG: 2025-01-22 19:36:16,292:      pdf_renderer.py:  470: printSegment: entered into for a fixed period of thirty (30) years as from the Date of this Agreement.
+   DEBUG: 2025-01-22 19:36:16,293:      pdf_renderer.py:  470: printSegment: 9.1 No Shareholder
+   DEBUG: 2025-01-22 19:36:16,299:      pdf_renderer.py:  470: printSegment: If as a result of any Transfer made in accordance with this Agreement, a Party ceases to be a Shareholder, then this
+   DEBUG: 2025-01-22 19:36:16,300:      pdf_renderer.py:  470: printSegment: Agreement will automatically terminate and cease to be of any effect for such Party. This will not:
+   DEBUG: 2025-01-22 19:36:16,301:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:16,306:      pdf_renderer.py:  470: printSegment: relieve any Party from any liability or obligation for any matter, undertaking or condition which has
+   DEBUG: 2025-01-22 19:36:16,306:      pdf_renderer.py:  470: printSegment: not been done, observed or performed by that Party before such termination; and
+   DEBUG: 2025-01-22 19:36:16,307:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:16,310:      pdf_renderer.py:  470: printSegment: apply to or affect the terms of Articles 10 (Confidentiality) and 11 (Miscellaneous) which will
+   DEBUG: 2025-01-22 19:36:16,310:      pdf_renderer.py:  470: printSegment: remain applicable to the Party ceasing to be a Shareholder.
+   DEBUG: 2025-01-22 19:36:16,311:      pdf_renderer.py:  470: printSegment: 10. ARTICLES OF ASSOCIATION
+   DEBUG: 2025-01-22 19:36:16,350:      pdf_renderer.py:  470: printSegment: If there is any conflict between the provisions of this Agreement and the provisions of the Articles of Association,
+   DEBUG: 2025-01-22 19:36:16,372:      pdf_renderer.py:  470: printSegment: the Parties (other than the Company) agree that, as between themselves and for so long as this Agreement remains in
+   DEBUG: 2025-01-22 19:36:16,382:      pdf_renderer.py:  470: printSegment: force, the provisions of this Agreement will prevail and each such Shareholder will exercise its Voting Rights to
+   DEBUG: 2025-01-22 19:36:16,384:      pdf_renderer.py:  470: printSegment: give effect to the relevant provisions of this Agreement and to amend the Articles of Association so that they are no
+   DEBUG: 2025-01-22 19:36:16,384:      pdf_renderer.py:  470: printSegment: longer conflicting therewith.
+   DEBUG: 2025-01-22 19:36:16,385:      pdf_renderer.py:  470: printSegment: 11. CONFIDENTIALITY
+   DEBUG: 2025-01-22 19:36:16,430:      pdf_renderer.py:  470: printSegment: Each Party will treat as strictly confidential and will not disclose any information received or obtained by it or its
+   DEBUG: 2025-01-22 19:36:16,457:      pdf_renderer.py:  470: printSegment: Representatives as a result of entering into or exercising any rights under this Agreement which relates to any
+   DEBUG: 2025-01-22 19:36:16,472:      pdf_renderer.py:  470: printSegment: provisions of this Agreement, any document or agreement entered into pursuant to this Agreement, the negotiations
+   DEBUG: 2025-01-22 19:36:16,476:      pdf_renderer.py:  470: printSegment: leading up to or relating to this Agreement, or the other Party, provided that these restrictions will not apply to any
+   DEBUG: 2025-01-22 19:36:16,477:      pdf_renderer.py:  470: printSegment: disclosure of information if and to the extent the disclosure is:
+   DEBUG: 2025-01-22 19:36:16,477:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:16,478:      pdf_renderer.py:  470: printSegment: made pursuant to provisions set forth in this Agreement;
+   DEBUG: 2025-01-22 19:36:16,478:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:16,479:      pdf_renderer.py:  470: printSegment: required by the law of any jurisdiction;
+   DEBUG: 2025-01-22 19:36:16,479:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:16,482:      pdf_renderer.py:  470: printSegment: required by any applicable securities exchange, supervisory or regulatory or governmental body to
+   DEBUG: 2025-01-22 19:36:16,483:      pdf_renderer.py:  470: printSegment: which the relevant Party is subject or submits, wherever situated;
+   DEBUG: 2025-01-22 19:36:16,483:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-01-22 19:36:16,484:      pdf_renderer.py:  470: printSegment: made by the Purchaser to any of its Affiliates or the Representatives of its Affiliates;
+   DEBUG: 2025-01-22 19:36:16,484:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2025-01-22 19:36:16,485:      pdf_renderer.py:  470: printSegment: made to the relevant Party
+   DEBUG: 2025-01-22 19:36:16,485:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:16,486:      pdf_renderer.py:  470: printSegment: s Representatives provided that such Representatives are bound by
+   DEBUG: 2025-01-22 19:36:16,487:      pdf_renderer.py:  470: printSegment: appropriate confidentiality restrictions;
+   DEBUG: 2025-01-22 19:36:16,487:      pdf_renderer.py:  470: printSegment:  6 
+   DEBUG: 2025-01-22 19:36:16,490:      pdf_renderer.py:  470: printSegment: required to enable any Party to enforce its rights under this Agreement or for the purpose of any
+   DEBUG: 2025-01-22 19:36:16,491:      pdf_renderer.py:  470: printSegment: arbitral or judicial proceedings arising out of this Agreement;
+   DEBUG: 2025-01-22 19:36:16,491:      pdf_renderer.py:  470: printSegment:  7 
+   DEBUG: 2025-01-22 19:36:16,493:      pdf_renderer.py:  470: printSegment: of information that has already come into the public domain through no fault of the relevant Party or
+   DEBUG: 2025-01-22 19:36:16,494:      pdf_renderer.py:  470: printSegment: any of the relevant Party
+   DEBUG: 2025-01-22 19:36:16,494:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:16,495:      pdf_renderer.py:  470: printSegment: s Affiliates or any of their respective Representatives; or
+   DEBUG: 2025-01-22 19:36:16,495:      pdf_renderer.py:  470: printSegment:  8 
+   DEBUG: 2025-01-22 19:36:16,505:      pdf_renderer.py:  470: printSegment: made to any investor or prospective investor in the Company, the Purchaser or any of its Affiliates
+   DEBUG: 2025-01-22 19:36:16,509:      pdf_renderer.py:  470: printSegment: (subject however to such (prospective) investors and their Representatives agreeing to keep all such
+   DEBUG: 2025-01-22 19:36:16,510:      pdf_renderer.py:  470: printSegment: documents and information confidential in accordance with this Article 10).
+   DEBUG: 2025-01-22 19:36:16,510:      pdf_renderer.py:  470: printSegment: 12. MISCELLANEOUS
+   DEBUG: 2025-01-22 19:36:16,511:      pdf_renderer.py:  470: printSegment: 12.1 Entire agreement
+   DEBUG: 2025-01-22 19:36:16,521:      pdf_renderer.py:  470: printSegment: This Agreement represents the entire understanding and agreement among the Parties with respect to the subject
+   DEBUG: 2025-01-22 19:36:16,524:      pdf_renderer.py:  470: printSegment: matter thereof and, unless expressly provided otherwise, will supersede any prior agreements and undertakings
+   DEBUG: 2025-01-22 19:36:16,525:      pdf_renderer.py:  470: printSegment: between the Parties with respect to that subject matter.
+   DEBUG: 2025-01-22 19:36:16,526:      pdf_renderer.py:  470: printSegment: 12.2 Amendments
+   DEBUG: 2025-01-22 19:36:16,530:      pdf_renderer.py:  470: printSegment: This Agreement may not be amended, supplemented or otherwise modified, except by a written instrument executed
+   DEBUG: 2025-01-22 19:36:16,531:      pdf_renderer.py:  470: printSegment: by all Parties directly or indirectly affected by such amendment, supplement or modification.
+   DEBUG: 2025-01-22 19:36:16,532:      pdf_renderer.py:  470: printSegment: 12.3 Severability
+   DEBUG: 2025-01-22 19:36:16,532:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:16,540:      pdf_renderer.py:  470: printSegment: The invalidity or unenforceability of any one stipulation or clause of the present Agreement will not
+   DEBUG: 2025-01-22 19:36:16,542:      pdf_renderer.py:  470: printSegment: result in the invalidity or unenforceability of any other provision of the Agreement or of the
+   DEBUG: 2025-01-22 19:36:16,542:      pdf_renderer.py:  470: printSegment: Agreement as a whole.
+   DEBUG: 2025-01-22 19:36:16,542:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:16,576:      pdf_renderer.py:  470: printSegment: In the event that the validity or enforceability of any provision of this Agreement is jeopardized or
+   DEBUG: 2025-01-22 19:36:16,598:      pdf_renderer.py:  470: printSegment: seriously challenged, the Parties undertake to do whatever is reasonably necessary or advisable,
+   DEBUG: 2025-01-22 19:36:16,610:      pdf_renderer.py:  470: printSegment: including effecting such applications or filings, or restructurings of the provision in question, so as
+   DEBUG: 2025-01-22 19:36:16,614:      pdf_renderer.py:  470: printSegment: to be able to lawfully maintain such provision in full force and effect or to substitute another
+   DEBUG: 2025-01-22 19:36:16,614:      pdf_renderer.py:  470: printSegment: provision that has economically substantially the same effect for all Parties.
+   DEBUG: 2025-01-22 19:36:16,615:      pdf_renderer.py:  470: printSegment: 12.4 Assignability
+   DEBUG: 2025-01-22 19:36:16,615:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:16,637:      pdf_renderer.py:  470: printSegment: Neither this Agreement nor any right or obligation hereunder may be assigned, delegated or
+   DEBUG: 2025-01-22 19:36:16,650:      pdf_renderer.py:  470: printSegment: otherwise transferred in whole or in part by any Party (other than pursuant to the Agreement of
+   DEBUG: 2025-01-22 19:36:16,655:      pdf_renderer.py:  470: printSegment: Adherence) without the prior written consent of the other Party and any such attempted assignment
+   DEBUG: 2025-01-22 19:36:16,655:      pdf_renderer.py:  470: printSegment: or delegation without such consent will be null, void, ab initio and without effect.
+   DEBUG: 2025-01-22 19:36:16,656:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:16,658:      pdf_renderer.py:  470: printSegment: Subject to the preceding sentence, this Agreement will apply to, be binding in all respects upon, and
+   DEBUG: 2025-01-22 19:36:16,659:      pdf_renderer.py:  470: printSegment: inure to the benefit of the Parties
+   DEBUG: 2025-01-22 19:36:16,659:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:16,660:      pdf_renderer.py:  470: printSegment:  successors and permitted assigns.
+   DEBUG: 2025-01-22 19:36:16,660:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:16,679:      pdf_renderer.py:  470: printSegment: Nothing expressed or referred to in this Agreement will be construed to give any Person, other than
+   DEBUG: 2025-01-22 19:36:16,687:      pdf_renderer.py:  470: printSegment: the Parties to this Agreement, any legal or other right, remedy or claim under or with respect to this
+   DEBUG: 2025-01-22 19:36:16,689:      pdf_renderer.py:  470: printSegment: Agreement or any provision of this Agreement except such rights as may inure to a successor or
+   DEBUG: 2025-01-22 19:36:16,690:      pdf_renderer.py:  470: printSegment: permitted assignee under this Agreement.
+   DEBUG: 2025-01-22 19:36:16,690:      pdf_renderer.py:  470: printSegment: 12.5 Waiver
+   DEBUG: 2025-01-22 19:36:16,731:      pdf_renderer.py:  470: printSegment: Except as expressly provided otherwise in this Agreement, neither any failure nor any delay by any Party in
+   DEBUG: 2025-01-22 19:36:16,756:      pdf_renderer.py:  470: printSegment: exercising any right, power or privilege under this Agreement or any of the documents referred to in this Agreement
+   DEBUG: 2025-01-22 19:36:16,767:      pdf_renderer.py:  470: printSegment: will operate as a waiver of such right, power or privilege, and no single or partial exercise of any such right, power
+   DEBUG: 2025-01-22 19:36:16,769:      pdf_renderer.py:  470: printSegment: or privilege will preclude any other or further exercise of such right, power or privilege or the exercise of any other
+   DEBUG: 2025-01-22 19:36:16,770:      pdf_renderer.py:  470: printSegment: right, power or privilege.
+   DEBUG: 2025-01-22 19:36:16,770:      pdf_renderer.py:  470: printSegment: 12.6 Notices to the Parties
+   DEBUG: 2025-01-22 19:36:16,771:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:16,772:      pdf_renderer.py:  470: printSegment: Any notice, demand or other communication (for the purpose of this Article 12.6 a 
+   DEBUG: 2025-01-22 19:36:16,772:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:16,772:      pdf_renderer.py:  470: printSegment: Notice
+   DEBUG: 2025-01-22 19:36:16,773:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:16,788:      pdf_renderer.py:  470: printSegment: ) to be
+   DEBUG: 2025-01-22 19:36:16,801:      pdf_renderer.py:  470: printSegment: given by any Party under, or in connection with, this Agreement will be in writing and (manually or
+   DEBUG: 2025-01-22 19:36:16,806:      pdf_renderer.py:  470: printSegment: electronically) signed by or on behalf of the Party giving it. Any notice will be served to a Party by
+   DEBUG: 2025-01-22 19:36:16,807:      pdf_renderer.py:  470: printSegment: sending it by registered letter (with acknowledgement of receipt) to such Party
+   DEBUG: 2025-01-22 19:36:16,807:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:16,809:      pdf_renderer.py:  470: printSegment: s address as set out in
+   DEBUG: 2025-01-22 19:36:16,810:      pdf_renderer.py:  470: printSegment: Schedule B, or by delivering it by hand to such Party
+   DEBUG: 2025-01-22 19:36:16,810:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:16,816:      pdf_renderer.py:  470: printSegment: s address as set out in Schedule B and in each
+   DEBUG: 2025-01-22 19:36:16,817:      pdf_renderer.py:  470: printSegment: case marked for the attention of the relevant Person set out in Schedule B, or by sending it by e-mail
+   DEBUG: 2025-01-22 19:36:16,818:      pdf_renderer.py:  470: printSegment: to such Party
+   DEBUG: 2025-01-22 19:36:16,818:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:16,819:      pdf_renderer.py:  470: printSegment: s e-mail address as set out in Schedule B.
+   DEBUG: 2025-01-22 19:36:16,819:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:16,828:      pdf_renderer.py:  470: printSegment: Any notice so served by registered letter (with acknowledgement of receipt) or hand will be deemed
+   DEBUG: 2025-01-22 19:36:16,829:      pdf_renderer.py:  470: printSegment: to have been duly given or made on the second (2nd) Business Day after it was put into the post or
+   DEBUG: 2025-01-22 19:36:16,830:      pdf_renderer.py:  470: printSegment: sent by courier.
+   DEBUG: 2025-01-22 19:36:16,830:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:16,835:      pdf_renderer.py:  470: printSegment: A Party may notify all other Parties of a change to its name, relevant addressee or address for the
+   DEBUG: 2025-01-22 19:36:16,836:      pdf_renderer.py:  470: printSegment: purposes of this Article 12.6, provided that such notice will only be effective on:
+   DEBUG: 2025-01-22 19:36:16,837:      pdf_renderer.py:  470: printSegment: (A) the date specified in the notification as the date on which the change is to take place; or
+   DEBUG: 2025-01-22 19:36:16,844:      pdf_renderer.py:  470: printSegment: (B) if no date is specified or the date specified is less than two (2) Business Days after the date on
+   DEBUG: 2025-01-22 19:36:16,845:      pdf_renderer.py:  470: printSegment: which notice is given, the date following two (2) Business Days after notice of any change has been
+   DEBUG: 2025-01-22 19:36:16,845:      pdf_renderer.py:  470: printSegment: given.
+   DEBUG: 2025-01-22 19:36:16,846:      pdf_renderer.py:  470: printSegment: 12.7 Governing law and jurisdiction
+   DEBUG: 2025-01-22 19:36:16,846:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:16,847:      pdf_renderer.py:  470: printSegment: This Agreement will be governed by and interpreted according to the laws of the Kingdom of
+   DEBUG: 2025-01-22 19:36:16,848:      pdf_renderer.py:  470: printSegment: Belgium.
+   DEBUG: 2025-01-22 19:36:16,848:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:16,860:      pdf_renderer.py:  470: printSegment: In case of disputes arising hereunder, the Parties undertake to seriously pursue a reasonable
+   DEBUG: 2025-01-22 19:36:16,866:      pdf_renderer.py:  470: printSegment: amicable settlement. If notwithstanding such efforts, no amicable settlement can be reached, any
+   DEBUG: 2025-01-22 19:36:16,867:      pdf_renderer.py:  470: printSegment: dispute arising hereunder will fall within the exclusive competence of the courts of Antwerp
+   DEBUG: 2025-01-22 19:36:16,867:      pdf_renderer.py:  470: printSegment: (Antwerp section).
+   DEBUG: 2025-01-22 19:36:16,868:      pdf_renderer.py:  470: printSegment: 12.8 Counterparts
+   DEBUG: 2025-01-22 19:36:16,885:      pdf_renderer.py:  470: printSegment: This Agreement may be executed in any number of counterparts and by the Parties to it on separate counterparts and
+   DEBUG: 2025-01-22 19:36:16,892:      pdf_renderer.py:  470: printSegment: each such counterpart will constitute an original of this Agreement but all of which together constitute one and the
+   DEBUG: 2025-01-22 19:36:16,893:      pdf_renderer.py:  470: printSegment: same instrument. This Agreement will not be effective until each Party has executed at least one counterpart.
+   DEBUG: 2025-01-22 19:36:16,893:      pdf_renderer.py:  470: printSegment: (— signature page follows —)
+   DEBUG: 2025-01-22 19:36:16,901:      pdf_renderer.py:  470: printSegment: SIGNATURE PAGE
+   DEBUG: 2025-01-22 19:36:16,901:      pdf_renderer.py:  470: printSegment: IN WITNESS WHEREOF
+   DEBUG: 2025-01-22 19:36:16,906:      pdf_renderer.py:  470: printSegment: , the parties hereto have initialed each page of this Agreement, and have signed and
+   DEBUG: 2025-01-22 19:36:16,906:      pdf_renderer.py:  470: printSegment: executed this Agreement in five (5) originals on the Date of this Agreement.
+   DEBUG: 2025-01-22 19:36:16,907:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:16,907:      pdf_renderer.py:  470: printSegment: (Mr. Olivier Debeuf De Rijcker)
+   DEBUG: 2025-01-22 19:36:16,908:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:16,908:      pdf_renderer.py:  470: printSegment: (Mr. Felix Van Bergen)
+   DEBUG: 2025-01-22 19:36:16,909:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:16,909:      pdf_renderer.py:  470: printSegment: (Mr. Rasmus Fosgaard)
+   DEBUG: 2025-01-22 19:36:16,910:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-01-22 19:36:16,910:      pdf_renderer.py:  470: printSegment: (Mr. Oliver Feichtinger)
+   DEBUG: 2025-01-22 19:36:16,911:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2025-01-22 19:36:16,912:      pdf_renderer.py:  470: printSegment: (Mr. Justin Pysson)
+   DEBUG: 2025-01-22 19:36:16,912:      pdf_renderer.py:  470: printSegment:  6 
+   DEBUG: 2025-01-22 19:36:16,913:      pdf_renderer.py:  470: printSegment: (Mr. Léon Moralis)
+   DEBUG: 2025-01-22 19:36:16,913:      pdf_renderer.py:  470: printSegment:  7 
+   DEBUG: 2025-01-22 19:36:16,914:      pdf_renderer.py:  470: printSegment: (Mr. Louis De Geest)
+   DEBUG: 2025-01-22 19:36:16,914:      pdf_renderer.py:  470: printSegment:  8 
+   DEBUG: 2025-01-22 19:36:16,915:      pdf_renderer.py:  470: printSegment: Markov BV
+   DEBUG: 2025-01-22 19:36:16,915:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:16,915:      pdf_renderer.py:  470: printSegment: By: 
+   DEBUG: 2025-01-22 19:36:16,916:      pdf_renderer.py:  470: printSegment: ____________________________________
+   DEBUG: 2025-01-22 19:36:16,916:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:16,916:      pdf_renderer.py:  470: printSegment: Name:  Olivier Debeuf De Rijcker
+   DEBUG: 2025-01-22 19:36:16,917:      pdf_renderer.py:  470: printSegment: Title: Director
+   DEBUG: 2025-01-22 19:36:16,917:      pdf_renderer.py:  470: printSegment: SCHEDULE A
+   DEBUG: 2025-01-22 19:36:16,918:      pdf_renderer.py:  470: printSegment: AGREEMENT OF ADHERENCE
+   DEBUG: 2025-01-22 19:36:16,918:      pdf_renderer.py:  470: printSegment: THIS AGREEMENT is made on 
+   DEBUG: 2025-01-22 19:36:16,919:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:16,919:      pdf_renderer.py:  470: printSegment: ________________
+   DEBUG: 2025-01-22 19:36:16,920:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:16,921:      pdf_renderer.py:  470: printSegment:  20
+   DEBUG: 2025-01-22 19:36:16,922:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:16,922:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:16,923:      pdf_renderer.py:  470: printSegment: BETWEEN:
+   DEBUG: 2025-01-22 19:36:16,923:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:16,923:      pdf_renderer.py:  470: printSegment: MARKOV BV
+   DEBUG: 2025-01-22 19:36:16,935:      pdf_renderer.py:  470: printSegment: , a private limited liability company (besloten vennootschap) organized and existing
+   DEBUG: 2025-01-22 19:36:16,940:      pdf_renderer.py:  470: printSegment: under the laws of Belgium, having its address at Vorstermanstraat 9, 2000 Antwerpen, Belgium, and
+   DEBUG: 2025-01-22 19:36:16,942:      pdf_renderer.py:  470: printSegment: registered with the Crossroads Bank of Enterprises under company number (ondernemingsnummer)
+   DEBUG: 2025-01-22 19:36:16,942:      pdf_renderer.py:  470: printSegment: 0817.208.271 (the 
+   DEBUG: 2025-01-22 19:36:16,943:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:16,943:      pdf_renderer.py:  470: printSegment: Company
+   DEBUG: 2025-01-22 19:36:16,943:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:16,944:      pdf_renderer.py:  470: printSegment: ).
+   DEBUG: 2025-01-22 19:36:16,944:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:16,946:      pdf_renderer.py:  470: printSegment: THE SEVERAL PERSONS whose names and addresses are set out in the Schedule hereto (together
+   DEBUG: 2025-01-22 19:36:16,946:      pdf_renderer.py:  470: printSegment: with the Company the 
+   DEBUG: 2025-01-22 19:36:16,946:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:16,947:      pdf_renderer.py:  470: printSegment: Continuing Parties
+   DEBUG: 2025-01-22 19:36:16,947:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:16,947:      pdf_renderer.py:  470: printSegment: );
+   DEBUG: 2025-01-22 19:36:16,947:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:16,948:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:16,948:      pdf_renderer.py:  470: printSegment:         
+   DEBUG: 2025-01-22 19:36:16,948:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:16,949:      pdf_renderer.py:  470: printSegment:  (the 
+   DEBUG: 2025-01-22 19:36:16,949:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:16,949:      pdf_renderer.py:  470: printSegment: Acquiror
+   DEBUG: 2025-01-22 19:36:16,950:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:16,950:      pdf_renderer.py:  470: printSegment: ); 
+   DEBUG: 2025-01-22 19:36:16,950:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:16,950:      pdf_renderer.py:  470: printSegment: and
+   DEBUG: 2025-01-22 19:36:16,951:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-01-22 19:36:16,951:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:16,951:      pdf_renderer.py:  470: printSegment:        
+   DEBUG: 2025-01-22 19:36:16,952:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:16,952:      pdf_renderer.py:  470: printSegment:  (the 
+   DEBUG: 2025-01-22 19:36:16,952:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:16,953:      pdf_renderer.py:  470: printSegment: Transferor
+   DEBUG: 2025-01-22 19:36:16,953:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:16,953:      pdf_renderer.py:  470: printSegment: )
+   DEBUG: 2025-01-22 19:36:16,953:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:16,954:      pdf_renderer.py:  470: printSegment: AND IS SUPPLEMENTAL TO the Shareholders
+   DEBUG: 2025-01-22 19:36:16,954:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:16,955:      pdf_renderer.py:  470: printSegment:  Agreement dated 
+   DEBUG: 2025-01-22 19:36:16,955:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:16,955:      pdf_renderer.py:  470: printSegment: ●
+   DEBUG: 2025-01-22 19:36:16,968:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:16,968:      pdf_renderer.py:  470: printSegment:  2023 and made between (1) 
+   DEBUG: 2025-01-22 19:36:16,969:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:16,969:      pdf_renderer.py:  470: printSegment: ●
+   DEBUG: 2025-01-22 19:36:16,969:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:16,969:      pdf_renderer.py:  470: printSegment: , (2) 
+   DEBUG: 2025-01-22 19:36:16,970:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:16,970:      pdf_renderer.py:  470: printSegment: ●
+   DEBUG: 2025-01-22 19:36:16,970:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:16,971:      pdf_renderer.py:  470: printSegment: , (3) 
+   DEBUG: 2025-01-22 19:36:16,971:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:16,971:      pdf_renderer.py:  470: printSegment: ●
+   DEBUG: 2025-01-22 19:36:16,972:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:16,973:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:16,974:      pdf_renderer.py:  470: printSegment: and (4) the Company, as from time to time amended or supplemented (the 
+   DEBUG: 2025-01-22 19:36:16,974:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:16,974:      pdf_renderer.py:  470: printSegment: Shareholders
+   DEBUG: 2025-01-22 19:36:16,975:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:16,975:      pdf_renderer.py:  470: printSegment:  Agreement
+   DEBUG: 2025-01-22 19:36:16,975:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:16,976:      pdf_renderer.py:  470: printSegment: ).
+   DEBUG: 2025-01-22 19:36:16,976:      pdf_renderer.py:  470: printSegment: WHEREAS:
+   DEBUG: 2025-01-22 19:36:16,976:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:16,976:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:16,977:      pdf_renderer.py:  470: printSegment: The Transferor intends to transfer to the Acquiror 
+   DEBUG: 2025-01-22 19:36:16,977:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:16,978:      pdf_renderer.py:  470: printSegment: _______
+   DEBUG: 2025-01-22 19:36:16,978:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:16,978:      pdf_renderer.py:  470: printSegment:  Class 
+   DEBUG: 2025-01-22 19:36:16,979:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:16,979:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:16,980:      pdf_renderer.py:  470: printSegment:  Shares (the 
+   DEBUG: 2025-01-22 19:36:16,980:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:16,980:      pdf_renderer.py:  470: printSegment: Relevant Shares
+   DEBUG: 2025-01-22 19:36:16,981:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-01-22 19:36:16,982:      pdf_renderer.py:  470: printSegment: ) subject to the
+   DEBUG: 2025-01-22 19:36:16,982:      pdf_renderer.py:  470: printSegment: Acquiror entering into this Agreement.
+   DEBUG: 2025-01-22 19:36:16,982:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:16,983:      pdf_renderer.py:  470: printSegment: IT IS AGREED as follows:
+   DEBUG: 2025-01-22 19:36:16,983:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:16,984:      pdf_renderer.py:  470: printSegment: Unless the context requires otherwise, words and expressions defined in the Shareholders
+   DEBUG: 2025-01-22 19:36:16,984:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:16,985:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:16,986:      pdf_renderer.py:  470: printSegment: Agreement will have the same meaning when used in this Agreement.
+   DEBUG: 2025-01-22 19:36:16,986:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:16,990:      pdf_renderer.py:  470: printSegment: The Acquiror hereby undertakes to the Continuing Parties to comply with any and all of the
+   DEBUG: 2025-01-22 19:36:16,991:      pdf_renderer.py:  470: printSegment: provisions of, and to perform all the obligations in, the Shareholders
+   DEBUG: 2025-01-22 19:36:16,991:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:16,996:      pdf_renderer.py:  470: printSegment:  Agreement so far as they may
+   DEBUG: 2025-01-22 19:36:16,998:      pdf_renderer.py:  470: printSegment: remain to be observed and performed by the holder of the Relevant Shares and the Acquiror will
+   DEBUG: 2025-01-22 19:36:16,999:      pdf_renderer.py:  470: printSegment: become a party to the Shareholders
+   DEBUG: 2025-01-22 19:36:16,999:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:16,999:      pdf_renderer.py:  470: printSegment:  Agreement as if the Acquiror were named in the Shareholders
+   DEBUG: 2025-01-22 19:36:17,000:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:17,000:      pdf_renderer.py:  470: printSegment: 
+   DEBUG: 2025-01-22 19:36:17,001:      pdf_renderer.py:  470: printSegment: Agreement as a Party thereto.
+   DEBUG: 2025-01-22 19:36:17,001:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:17,002:      pdf_renderer.py:  470: printSegment: The parties to this Agreement agree that, save as provided herein, all the provisions of the
+   DEBUG: 2025-01-22 19:36:17,003:      pdf_renderer.py:  470: printSegment: Shareholders
+   DEBUG: 2025-01-22 19:36:17,003:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-01-22 19:36:17,004:      pdf_renderer.py:  470: printSegment:  Agreement will remain in full force and effect.
+   DEBUG: 2025-01-22 19:36:17,004:      pdf_renderer.py:  470: printSegment: THIS AGREEMENT
+   DEBUG: 2025-01-22 19:36:17,005:      pdf_renderer.py:  470: printSegment:  has been duly executed on the date stated above.
+   DEBUG: 2025-01-22 19:36:17,006:      pdf_renderer.py:  470: printSegment: SCHEDULE B
+   DEBUG: 2025-01-22 19:36:17,006:      pdf_renderer.py:  470: printSegment: CONTACT DETAILS FOR NOTICES
+   DEBUG: 2025-01-22 19:36:17,007:      pdf_renderer.py:  470: printSegment: Parties and Contact Details for Notices:
+   DEBUG: 2025-01-22 19:36:17,007:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-01-22 19:36:17,008:      pdf_renderer.py:  470: printSegment: Mr. Olivier Debeuf De Rijcker
+   DEBUG: 2025-01-22 19:36:17,008:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,009:      pdf_renderer.py:  470: printSegment: Attention:  Olivier Debeuf De Rijcker
+   DEBUG: 2025-01-22 19:36:17,009:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,010:      pdf_renderer.py:  470: printSegment: Address:    Vorstermanstraat 9, 2000 Antwerpen, Belgium
+   DEBUG: 2025-01-22 19:36:17,010:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,011:      pdf_renderer.py:  470: printSegment: Email:      
+   DEBUG: 2025-01-22 19:36:17,011:      pdf_renderer.py:  470: printSegment: olivier@surge.management
+   DEBUG: 2025-01-22 19:36:17,012:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-01-22 19:36:17,013:      pdf_renderer.py:  470: printSegment: Mr. Felix Van Bergen
+   DEBUG: 2025-01-22 19:36:17,013:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,014:      pdf_renderer.py:  470: printSegment: Attention:  Felix Van Bergen
+   DEBUG: 2025-01-22 19:36:17,015:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,015:      pdf_renderer.py:  470: printSegment: Address:    
+   DEBUG: 2025-01-22 19:36:17,016:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:17,016:      pdf_renderer.py:  470: printSegment: ●
+   DEBUG: 2025-01-22 19:36:17,016:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:17,017:      pdf_renderer.py:  470: printSegment: , Denmark
+   DEBUG: 2025-01-22 19:36:17,017:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,018:      pdf_renderer.py:  470: printSegment: Email:      
+   DEBUG: 2025-01-22 19:36:17,018:      pdf_renderer.py:  470: printSegment: felix@surge.management
+   DEBUG: 2025-01-22 19:36:17,019:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-01-22 19:36:17,020:      pdf_renderer.py:  470: printSegment: Mr. Rasmus Fosgaard
+   DEBUG: 2025-01-22 19:36:17,020:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,021:      pdf_renderer.py:  470: printSegment: Attention:  Rasmus Fosgaard
+   DEBUG: 2025-01-22 19:36:17,021:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,022:      pdf_renderer.py:  470: printSegment: Address:    
+   DEBUG: 2025-01-22 19:36:17,022:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:17,023:      pdf_renderer.py:  470: printSegment: ●
+   DEBUG: 2025-01-22 19:36:17,023:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:17,024:      pdf_renderer.py:  470: printSegment: , Denmark
+   DEBUG: 2025-01-22 19:36:17,024:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,025:      pdf_renderer.py:  470: printSegment: Email:      
+   DEBUG: 2025-01-22 19:36:17,025:      pdf_renderer.py:  470: printSegment: rasmus@surge.management
+   DEBUG: 2025-01-22 19:36:17,026:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-01-22 19:36:17,026:      pdf_renderer.py:  470: printSegment: Mr. Oliver Feichtinger
+   DEBUG: 2025-01-22 19:36:17,027:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,027:      pdf_renderer.py:  470: printSegment: Attention:  Oliver Feichtinger
+   DEBUG: 2025-01-22 19:36:17,028:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,028:      pdf_renderer.py:  470: printSegment: Address:    
+   DEBUG: 2025-01-22 19:36:17,029:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:17,030:      pdf_renderer.py:  470: printSegment: ●
+   DEBUG: 2025-01-22 19:36:17,030:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:17,031:      pdf_renderer.py:  470: printSegment: , Germany
+   DEBUG: 2025-01-22 19:36:17,031:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,032:      pdf_renderer.py:  470: printSegment: Email:      
+   DEBUG: 2025-01-22 19:36:17,032:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:17,033:      pdf_renderer.py:  470: printSegment: ●
+   DEBUG: 2025-01-22 19:36:17,033:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:17,034:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2025-01-22 19:36:17,034:      pdf_renderer.py:  470: printSegment: Mr. Justin Pysson
+   DEBUG: 2025-01-22 19:36:17,035:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,035:      pdf_renderer.py:  470: printSegment: Attention:  Justin Pysson
+   DEBUG: 2025-01-22 19:36:17,036:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,036:      pdf_renderer.py:  470: printSegment: Address:    
+   DEBUG: 2025-01-22 19:36:17,036:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:17,037:      pdf_renderer.py:  470: printSegment: ●
+   DEBUG: 2025-01-22 19:36:17,037:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:17,037:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,038:      pdf_renderer.py:  470: printSegment: Email:      
+   DEBUG: 2025-01-22 19:36:17,038:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:17,038:      pdf_renderer.py:  470: printSegment: ●
+   DEBUG: 2025-01-22 19:36:17,039:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:17,039:      pdf_renderer.py:  470: printSegment:  6 
+   DEBUG: 2025-01-22 19:36:17,039:      pdf_renderer.py:  470: printSegment: Mr. Léon Moralis
+   DEBUG: 2025-01-22 19:36:17,040:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,040:      pdf_renderer.py:  470: printSegment: Attention:  Léon Moralis
+   DEBUG: 2025-01-22 19:36:17,040:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,041:      pdf_renderer.py:  470: printSegment: Address:    
+   DEBUG: 2025-01-22 19:36:17,041:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:17,041:      pdf_renderer.py:  470: printSegment: ●
+   DEBUG: 2025-01-22 19:36:17,042:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:17,042:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,042:      pdf_renderer.py:  470: printSegment: Email:      
+   DEBUG: 2025-01-22 19:36:17,043:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:17,043:      pdf_renderer.py:  470: printSegment: ●
+   DEBUG: 2025-01-22 19:36:17,043:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:17,044:      pdf_renderer.py:  470: printSegment:  7 
+   DEBUG: 2025-01-22 19:36:17,044:      pdf_renderer.py:  470: printSegment: Mr. Louis De Geest
+   DEBUG: 2025-01-22 19:36:17,044:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,045:      pdf_renderer.py:  470: printSegment: Attention:  Louis De Geest
+   DEBUG: 2025-01-22 19:36:17,045:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,046:      pdf_renderer.py:  470: printSegment: Address:    
+   DEBUG: 2025-01-22 19:36:17,046:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:17,046:      pdf_renderer.py:  470: printSegment: ●
+   DEBUG: 2025-01-22 19:36:17,047:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:17,047:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,047:      pdf_renderer.py:  470: printSegment: Email:      
+   DEBUG: 2025-01-22 19:36:17,048:      pdf_renderer.py:  470: printSegment: [
+   DEBUG: 2025-01-22 19:36:17,048:      pdf_renderer.py:  470: printSegment: ●
+   DEBUG: 2025-01-22 19:36:17,048:      pdf_renderer.py:  470: printSegment: ]
+   DEBUG: 2025-01-22 19:36:17,048:      pdf_renderer.py:  470: printSegment:  8 
+   DEBUG: 2025-01-22 19:36:17,049:      pdf_renderer.py:  470: printSegment: Markov BV
+   DEBUG: 2025-01-22 19:36:17,049:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,050:      pdf_renderer.py:  470: printSegment: Attention:  Olivier Debeuf De Rijcker, Director
+   DEBUG: 2025-01-22 19:36:17,050:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,051:      pdf_renderer.py:  470: printSegment: Address:    Vorstermanstraat 9, 2000 Antwerpen, Belgium
+   DEBUG: 2025-01-22 19:36:17,051:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-01-22 19:36:17,051:      pdf_renderer.py:  470: printSegment: Email:      
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:  470: printSegment: olivier@surge.management
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 0, [1, 'SHAREHOLDERS', 1, 68.0]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 1, [2, 'CONTENTS', 1, 286.0]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 2, [2, 'LIST OF SCHEDULES', 1, 409.6]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 3, [1, 'SHAREHOLDERS', 1, 491.6]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 4, [3, 'RECITALS:', 2, 104.4]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 5, [2, '1. DEFINITIONS AND INTERPRETATION', 2, 247.60000000000002]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 6, [3, '1.1 Certain defined terms and expressions', 2, 280.8]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 7, [3, '1.2 Interpretation', 4, 248.39999999999998]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 8, [3, '1.3 Negotiation of the Agreement', 4, 565.1999999999999]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 9, [3, '1.4 Language', 4, 647.9999999999999]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 10, [2, '2. SHARES AND SECURITIES OF THE COMPANY -', 5, 70.0]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 11, [3, '2.1 Number and nature of the Shares', 5, 103.19999999999999]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 12, [3, '2.2 Rights attached to the Shares', 5, 312.0]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 13, [3, '2.3 No other securities', 5, 388.79999999999995]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 14, [2, '3. PROVISIONS RELATING TO THE DIRECTORS OF THE COMPANY', 5, 471.99999999999994]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 15, [3, '3.1 Authority', 5, 505.19999999999993]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 16, [2, '4. PROVISIONS RELATING TO THE GENERAL SHAREHOLDERS', 5, 617.1999999999998]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 17, [3, '4.1 Quorum', 5, 650.3999999999997]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 18, [3, '4.2 Decision making', 6, 140.4]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 19, [2, '5. CONFLICT OF INTEREST POLICY', 6, 493.6]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 20, [3, '5.1 Objective', 6, 526.8]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 21, [3, '5.2 Identification', 6, 603.5999999999999]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 22, [3, '5.3 Disclosure', 6, 704.3999999999999]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 23, [3, '5.4 Management', 7, 134.4]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 24, [3, '5.5 Record-Keeping', 7, 223.20000000000002]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 25, [3, '5.6 Review', 7, 312.0]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 26, [2, '6. INFORMATION AND AUDIT RIGHTS', 7, 377.2]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 27, [3, '6.1', 7, 410.4]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 28, [3, '6.2 Dividend Policy', 7, 577.1999999999999]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 29, [2, '7. SHARE TRANSFERS', 8, 152.8]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 30, [3, '7.1 Transfer restrictions', 8, 186.00000000000003]
+   DEBUG: 2025-01-22 19:36:17,052:      pdf_renderer.py:   53: 31, [3, '7.2 Right of First Offer', 8, 346.8]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 32, [3, '7.3 Right of First Refusal and Tag-Along Right', 9, 188.4]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 33, [3, '7.4 Drag-Along Right', 10, 344.4]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 34, [3, '7.5 Permitted Transfers', 11, 152.4]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 35, [3, '7.6 Transfer terms', 11, 319.2]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 36, [3, '7.7 Cooperation and assistance', 11, 377.99999999999994]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 37, [3, '7.8 Change in control of a shareholding company', 11, 472.7999999999999]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 38, [3, '7.9 Bad Leaver Call Option', 11, 543.5999999999998]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 39, [3, '7.10 Good Leaver Call Option', 12, 146.4]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 40, [3, '7.11 Dilution Protection', 12, 391.2]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 41, [3, '7.12 Exit-Strategy', 12, 623.9999999999999]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 42, [2, '8. NON-COMPETE, NON-SOLICITATION, NON-DISPARAGEMENT', 13, 272.8]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 43, [2, '9. TERM AND TERMINATION', 14, 572.8]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 44, [3, '9.1 Term', 14, 605.9999999999999]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 45, [3, '9.1 No Shareholder', 14, 664.7999999999998]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 46, [2, '10. ARTICLES OF ASSOCIATION', 15, 158.8]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 47, [2, '11. CONFIDENTIALITY', 15, 270.40000000000003]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 48, [2, '12. MISCELLANEOUS', 15, 562.0]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 49, [3, '12.1 Entire agreement', 15, 595.1999999999999]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 50, [3, '12.2 Amendments', 15, 665.9999999999999]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 51, [3, '12.3 Severability', 16, 72.0]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 52, [3, '12.4 Assignability', 16, 208.8]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 53, [3, '12.5 Waiver', 16, 369.6]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 54, [3, '12.6 Notices to the Parties', 16, 464.4]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 55, [3, '12.7 Governing law and jurisdiction', 16, 697.1999999999999]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 56, [3, '12.8 Counterparts', 17, 170.4]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 57, [2, 'SIGNATURE PAGE', 17, 283.6]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 58, [2, 'SCHEDULE A', 17, 587.2]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 59, [3, 'AGREEMENT OF ADHERENCE', 17, 620.4]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 60, [2, 'SCHEDULE B', 18, 392.8]
+   DEBUG: 2025-01-22 19:36:17,053:      pdf_renderer.py:   53: 61, [3, 'CONTACT DETAILS FOR NOTICES', 18, 426.0]
+   ERROR: 2025-01-22 19:36:17,053:      pdf_renderer.py:   57: Bad heading level.  More information:
+Traceback (most recent call last):
+  File "/Users/olivierdebeufderijcker/Documents/GitHub/agent_repo/venv/lib/python3.12/site-packages/mdpdf/pdf_renderer.py", line 55, in __del__
+    self.doc.set_toc(self.toc)
+  File "/Users/olivierdebeufderijcker/Documents/GitHub/agent_repo/venv/lib/python3.12/site-packages/pymupdf/utils.py", line 1528, in set_toc
+    raise ValueError("bad hierarchy level in row %i" % (i + 1))
+ValueError: bad hierarchy level in row 4
+    INFO: 2025-01-22 19:36:17,056:      pdf_renderer.py:   59: [3, 'RECITALS:', 2, 104.4]

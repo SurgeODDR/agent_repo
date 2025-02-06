@@ -1,0 +1,104 @@
+[
+  {
+    "markdown": "# The account endpoints Skip link to The account endpoints **Basic usage of this endpoint** This endpoint is directed to your own Company/Party, or to create a new Company/party via the API.    No",
+    "metadata": {
+      "sourceURL": "https://docs.billit.be/reference/account-1",
+      "title": "Account",
+      "description": "The account endpoints Basic usage of this endpoint This endpoint is directed to your own Company/Party, or to create a new Company/party via the API."
+    }
+  },
+  {
+    "markdown": "When the following 401 error is thrown you do not have access to perform that command. This error can be generated from multiple endpoins. Below you can see some examples. **Wrong OrderID** So you are trying to retrieve an order. But the API key or OAuth credentials used do not have access to retrieve that invoice. **Wrong Party ID** When creating an order you might use the wrong Customer ID in the Object this could also throw the error since the account does not have permission to use that ID.",
+    "metadata": {
+      "sourceURL": "https://docs.billit.be/docs/401",
+      "title": "401 - Unauthorized",
+      "description": "When the following 401 error is thrown you do not have access to perform that command. This error can be generated from multiple endpoins. Below you can see some examples. Wrong OrderID So you are trying to retrieve an order. But the API key or OAuth credentials used do not have access to retrieve t..."
+    }
+  },
+  {
+    "markdown": "| time | status | user agent | | | :-- | :-- | :-- | :-- | | Make a request to see history. | \n\n#\n\n### URL Expired The URL for this request expired after 30 days. Please find more information here -> [Quick start]( OrderID int32 CompanyID int32 OrderPDF object OrderPDF object Attachments array of objects Attachments ADD object OrderNumber string CustomerID int32 SupplierID int32 CounterPartyID int32 Customer object Customer object Supplier object Supplier object CounterParty object CounterParty object OrderDate date-time ExpiryDate date-time OrderType string LastModified date-time Created date-time OrderDirection string OrderLines array of objects OrderLines ADD object BookingEntries array of objects BookingEntries ADD object Journal string OrderTitle string PaymentDiscountPercentage double PaymentDiscountAmount double PaymentDiscountDate date-time VatGroups array of objects VatGroups ADD object VentilationCode string TotalExcl double TotalIncl double TotalVAT double Reference string Tags array of strings Tags ADD string DepartmentID int32 PaymentReference string AboutInvoiceNumber string Paid boolean truefalse PaidDate date-time ExternalProviderID string ExternalProvider string ExternalProviderReferences array of objects ExternalProviderReferences ADD object Comments string Currency string VatDeduction double InternalInfo string IsSent boolean truefalse Invoiced boolean truefalse CustomFields object CustomFields object PeriodFrom date-time PeriodTill date-time AccountCode int32 LastReminder date-time RemindersSent int32 ToPay double OrderStatus string ApprovalStatus string Overdue boolean truefalse DaysOverdue int32 FXRateToForeign double PaymentMethod string DeliveryDate date-time ExportedToConnector boolean truefalse PaymentLinks array of objects PaymentLinks ADD object TemplateID int32 AnalyticCostBearer string AnalyticCostCenter string AccountantVerificationNeeded boolean truefalse CurrentDocumentDeliveryDetails object CurrentDocumentDeliveryDetails object Messages array of objects Messages ADD object AdditionalDocumentReference array of objects AdditionalDocumentReference ADD object PaymentTerms string ContractDocumentReference array of objects ContractDocumentReference ADD object \n\n# `` 200 Save an order int32    No ShellNodeRubyPHPPython ``` xxxxxxxxxx 1curl --request POST 2 --url 3 --header 'accept: application/json' 4 --header 'content-type: text/json' ``` Click `Try It!` to start a request and see the response here!",
+    "metadata": {
+      "sourceURL": "https://docs.billit.be/reference/order_postorders-1",
+      "title": "/v1/orders",
+      "description": "Please find more information here -&gt; Quick start"
+    }
+  },
+  {
+    "markdown": "| time | status | user agent | | | :-- | :-- | :-- | :-- | | Make a request to see history. | \n\n#\n\n### URL Expired The URL for this request expired after 30 days. SequenceType string Consume boolean truefalse \n\n# `` 200 OK object View Additional Properties    No ShellNodeRubyPHPPython ``` xxxxxxxxxx 1curl --request POST 2 --url 3 --header 'accept: application/json' 4 --header 'content-type: text/json' ``` Click `Try It!` to start a request and see the response here! Or choose an example: application/json `` 200 text/json `` 200",
+    "metadata": {
+      "sourceURL": "https://docs.billit.be/reference/account_postsequences-1",
+      "title": "/v1/account/sequences"
+    }
+  },
+  {
+    "markdown": "| time | status | user agent | | | :-- | :-- | :-- | :-- | | Make a request to see history. | \n\n#\n\n### URL Expired The URL for this request expired after 30 days. feedName string required `` 200 The Feed has been deleted    No ShellNodeRubyPHPPython ``` xxxxxxxxxx 1curl --request DELETE 2 --url ``` Click `Try It!` to start a request and see the response here!",
+    "metadata": {
+      "sourceURL": "https://docs.billit.be/reference/accountant_deletefeeds-1",
+      "title": "Delete the feed"
+    }
+  },
+  {
+    "markdown": "OAuth is mandatory when the integrator is opening its integration to the public, meaning people outside of the organization of the integrator are going to use it. The reason we require this, is because it is more secure than the API key. This also allows the User of the integration to give permission for the connection since they have to log in. Even allowing them to break the connection whenever they want. Introduction to OAuth If for some reason the integrator is not able to build OAuth please contact Support, we might be able to help.   - [How do I request Oauth Client ID and Secret?](",
+    "metadata": {
+      "sourceURL": "https://docs.billit.be/docs/when-am-i-required-to-use-oauth",
+      "title": "When am I required to use OAuth?",
+      "description": "Am I tho?"
+    }
+  },
+  {
+    "markdown": "Nice, you want to demo what you built. Before we can go to the demo phase, please check these requirements before planning the meeting. ❓ Is it working as expected on Sandbox? ❓ Are you able to demo a working flow? ❓ If the integration is for public use, did you implement OAuth? **If all these requirements are checked off please send us an email ( appreview@billit.be) * *",
+    "metadata": {
+      "sourceURL": "https://docs.billit.be/docs/how-do-i-request-a-demo-for-my-integration",
+      "title": "How do I request a demo for my integration?",
+      "description": "Ooh demos? Nice!"
+    }
+  },
+  {
+    "markdown": "When sending e-invoice you might come across the possibility that you have to send an invoice towards an entity which has multiple entities with the same VAT number. To make sure the invoices are delivered to the correct receiver you have a few options. Using: VAT - CBE JSON ``` lang-json theme-light \"Customer\": { \"Name\": \"Politie Antwerpen\", \"VATNumber\": \" BE0207500123\", \"PartyType\": \"Customer\", \"Identifiers\": [ { \"IdentifierType\": \"CBE\", \"Identifier\": \"0862884185\" } ], \"Addresses\": [ { \"AddressType\": \"InvoiceAddress\", \"Name\": \"Politie\", \"Street\": \"XXXXX\", \"StreetNumber\": \"XXXX\", \"City\": \"XXXX\", \"Box\": \"XXXX\", \"CountryCode\": \"XXXX” } ] } ``` Using: VAT - GLN or other identifier JSON ``` lang-json theme-light \"Customer\": { \"Name\": \"Billit\", \"VATNumber\": \" BE0563846944\", \"PartyType\": \"Customer\", \"Identifiers\": [ { \"IdentifierType\": \"GLN\", \"Identifier\": \"5430003732007\" } ], \"Addresses\": [ { \"AddressType\": \"InvoiceAddress\", \"Name\": \"Billit\", \"Street\": \"XXXXX\", \"StreetNumber\": \"XXXX\", \"City\": \"XXXX\", \"Box\": \"XXXX\", \"CountryCode\": \"XXXX” } ] } ```",
+    "metadata": {
+      "sourceURL": "https://docs.billit.be/docs/how-can-i-send-an-invoice-with-vat-different-to-cbe",
+      "title": "How can I send an invoice with VAT different to CBE",
+      "description": "When sending e-invoice you might come across the possibility that you have to send an invoice towards an entity which has multiple entities with the same VAT number. To make sure the invoices are delivered to the correct receiver you have a few options. Using: VAT - CBE \"Customer\": { \"Name\": \"Politi..."
+    }
+  },
+  {
+    "markdown": "We stand by making our API backwards compatible, meaning building your integration a certain way will keep working even if Billit changes things in the API or adds new improvements. You might see double fields that are mapped to with the same data but this will not interfere with your integration. If anything does change, which we have not done in the last years. We will make an announcement under the changelog.",
+    "metadata": {
+      "sourceURL": "https://docs.billit.be/docs/versioning",
+      "title": "Versioning",
+      "description": "We stand by making our API backwards compatible, meaning building your integration a certain way will keep working even if Billit changes things in the API or adds new improvements. You might see double fields that are mapped to with the same data but this will not interfere with your integration. I..."
+    }
+  },
+  {
+    "markdown": "| time | status | user agent | | | :-- | :-- | :-- | :-- | | Make a request to see history. | \n\n#\n\n### URL Expired The URL for this request expired after 30 days. \n\n# Sending Orders Skip link to Sending Orders With the command send API you are able to send invoices to over transport Types. [Types]( PeppolSDI ``` lang-json theme-light { \"Transporttype\" : \"Peppol\", \"OrderIDs\" : List<int> orderIDs } ``` ``` lang-json theme-light { \"Transporttype\" : \"SDI\", \"OrderIDs\" : List<int> orderIDs } ``` OrderIds array of int32s OrderIds ADD int32 TransportType string PrintType string `` 200 All orders have been sent    No ShellNodeRubyPHPPython ``` xxxxxxxxxx 1curl --request POST 2 --url 3 --header 'content-type: text/json' ``` Click `Try It!` to start a request and see the response here!",
+    "metadata": {
+      "sourceURL": "https://docs.billit.be/reference/order_postsend-1",
+      "title": "/v1/orders/commands/send",
+      "description": "Sending Orders With the command send API you are able to send invoices to over transport Types. Types { \"Transporttype\" : \"Peppol\", \"OrderIDs\" : List&lt;int&gt; orderIDs } { \"Transporttype\" : \"SDI\", \"OrderIDs\" : List&lt;int&gt; orderIDs }"
+    }
+  },
+  {
+    "markdown": "Some endpoints allow patching. Below you can find which of the endpoints allow it and which property is allowed to be patched. \n\n# Order Endpoint Skip link to Order Endpoint | Property Name | Property Type | | --- | --- | | Paid | Boolean | | PaidDate | DateTime | | IsSent | Boolean | | ApprovalStatus | Types | | AccountCode | String | | InternalInfo | String | | Invoiced | Boolean | | AccountantVerificationNeeded | Boolean | \n\n# Party Endpoint Skip link to Party Endpoint | Property Name | Property Type | | --- | --- | | GLAccountCode | String | | GLDefaultExpiryOffset | String | | Nr | String | | Email | String | | ExternalProviderTC | String | | ExternalProviderID | String | | Name | String | | CommercialName | String | | ContactFirstName | String | | ContactLastName | String | | CountryCode | String (ISO CODE) | | City | String | | Street | String | | StreetNumber | String | | Zipcode | String | | Box | String | | Phone | String | | Mobile | String | | Fax | String | | VATNumber | String | | IBAN | String | | Language | String | | VATLiable | Boolean |",
+    "metadata": {
+      "sourceURL": "https://docs.billit.be/docs/patchable-properties",
+      "title": "Patchable Properties",
+      "description": "Are these like updates?"
+    }
+  },
+  {
+    "markdown": "Each company, customer, supplier in Billit has its own ID. This ID is separate from a custom ID you give. This ID allows you to use them in request without having to provide all the data in the request. **There are a few ways on how to get these IDs** - By creating a Party via de API [/v1/parties]( When you create a party via this endpoint a unique ID will be returned. - By retrieving a Party via de API [/v1/parties/{partyID}]( - By going to the page of the Party 1. If you need your own company ID you can find it by going to the my company page in Billit and copying the Unique ID from the URL 2. If you need the Unique ID from a customer or supplier you can go to the edit screen for that party and get the ID from the URL. Note: when no party is specified in the request headers, the Billit API will use the oldest existing company that can be linked to the user's API key. Provide the partyid header and a companyid to select which company needs to be used.",
+    "metadata": {
+      "sourceURL": "https://docs.billit.be/docs/where-can-i-find-my-companyid-or-a-partyid",
+      "title": "Where can I find my CompanyID or a PartyID",
+      "description": "All these IDs and why are they so unique?"
+    }
+  },
+  {
+    "markdown": "There's a few endpoints in the Billit API that return files, such as Order; File.WriteAllBytes(@\"c:pdfFromBillit.pdf\", PDFDecoded); ```",
+    "metadata": {
+      "sourceURL": "https://docs.billit.be/docs/how-can-i-save-a-file",
+      "title": "How can I read/save a file",
+      "description": "Psst, it's based on the number 64"
+    }
+  }
+]

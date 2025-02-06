@@ -1,0 +1,14 @@
+requests
+python-dotenv
+anthropic
+selenium
+beautifulsoup4
+httpx
+langchain
+pandas
+numpy
+pytest
+black
+isort
+mypy
+urllib3
