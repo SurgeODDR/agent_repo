@@ -1,28 +1,58 @@
-import json
-import os
+#!/usr/bin/env python3
+"""
+Script to clean Databricks documentation JSON files.
+Extracts markdown content and optionally other metadata.
+"""
 
-def clean_databricks_docs():
-    # Read the original JSON file
-    input_file = 'data/documents/raw/Databricks_docs.json'
-    output_file = 'data/documents/cleaned/Databricks_docs_cleaned.json'
+import argparse
+import logging
+from pathlib import Path
+
+from src.utils.document.json_to_markdown import clean_databricks_docs, convert_databricks_docs_to_md
+
+# Set up logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
+
+def main():
+    """Process Databricks documentation files."""
+    parser = argparse.ArgumentParser(description='Clean and convert Databricks documentation')
+    parser.add_argument('--input-file', type=str, 
+                        help='Path to the input JSON file (defaults to standard location)')
+    parser.add_argument('--output-file', type=str,
+                        help='Path to save the cleaned JSON file (defaults to standard location)')
+    parser.add_argument('--include-metadata', action='store_true',
+                        help='Include metadata in the cleaned output')
+    parser.add_argument('--convert-to-md', action='store_true',
+                        help='Convert the cleaned JSON to markdown')
+    parser.add_argument('--md-output', type=str,
+                        help='Path to save the markdown output (if --convert-to-md is specified)')
     
-    # Create output directory if it doesn't exist
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    args = parser.parse_args()
     
-    with open(input_file, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+    # Set paths based on arguments
+    input_file = Path(args.input_file) if args.input_file else None
+    output_file = Path(args.output_file) if args.output_file else None
+    md_output = Path(args.md_output) if args.md_output else None
     
-    # Extract only the markdown fields
-    cleaned_data = []
-    for item in data:
-        if 'markdown' in item:
-            cleaned_data.append({
-                'markdown': item['markdown']
-            })
+    # Clean the JSON
+    count = clean_databricks_docs(
+        input_file=input_file,
+        output_file=output_file,
+        include_metadata=args.include_metadata
+    )
+    logger.info(f"Successfully processed {count} documents")
     
-    # Write the cleaned data to a new file
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(cleaned_data, f, indent=2, ensure_ascii=False)
+    # Convert to markdown if requested
+    if args.convert_to_md:
+        if output_file is None:
+            output_file = Path('data/documents/cleaned/Databricks_docs_cleaned.json')
+            
+        convert_databricks_docs_to_md(
+            input_file=output_file,
+            output_file=md_output
+        )
+        logger.info(f"Successfully converted to markdown")
 
 if __name__ == '__main__':
-    clean_databricks_docs() 
+    main()

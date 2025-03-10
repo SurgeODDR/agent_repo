@@ -10,7 +10,7 @@ from pathlib import Path
 
 from src.config.settings import DEFAULT_LOG_LEVEL
 from src.core.document.pdf_decryptor import PDFDecryptor
-from src.scripts.document.clean_databricks_docs import clean_databricks_docs
+from src.utils.document.json_to_markdown import clean_databricks_docs
 
 # Configure logging
 logging.basicConfig(
