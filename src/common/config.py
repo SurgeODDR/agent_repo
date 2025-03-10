@@ -1,3 +1,6 @@
+"""
+Common configuration variables and API credentials.
+"""
 import os
 from dotenv import load_dotenv
 
